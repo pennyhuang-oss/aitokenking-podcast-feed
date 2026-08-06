@@ -18,8 +18,18 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 06 Aug 2026 07:01:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:44:06 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
-
+    <item>
+      <title>【EP01｜Claude Fable 5 是什麼？Anthropic 新模型的安全分級機制與開發者實戰意義】</title>
+      <description>歡迎收聽 AI Token King Podcast，我是你的主持人。這集我們要來拆解 Anthropic 在 2026 年 6 月發布的新模型 Claude Fable 5，重點不是「這個模型跑分多高」這種行銷語言，而是它背後那套新的安全分流機制，會不會影響你在串接 Claude API 的時候，實際的使用體驗，甚至是 Token 花費結構。如果你是開發者、企業採購，或者正在評估要用哪一顆模型做產品，這集特別適合你。</description>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep01</guid>
+      <itunes:duration>10:13</itunes:duration>
+      <itunes:episode>01</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
