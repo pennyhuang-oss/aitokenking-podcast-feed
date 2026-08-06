@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Token King Podcast</title>
+    <description>拆解 AI 模型、Token 成本與 AI Agent 產業動態的中文 Podcast，幫助開發者與企業在選模型、估預算時不踩雷。</description>
+    <link>https://github.com/pennyhuang-oss/aitokenking-podcast</link>
+    <language>zh-tw</language>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/cover.jpg" />
+    <image>
+      <url>https://pennyhuang-oss.github.io/aitokenking-podcast-feed/cover.jpg</url>
+      <title>AI Token King Podcast</title>
+      <link>https://github.com/pennyhuang-oss/aitokenking-podcast</link>
+    </image>
+    <itunes:author>AI Token King</itunes:author>
+    <itunes:owner>
+      <itunes:name>AI Token King</itunes:name>
+      <itunes:email>service@insight-software.com</itunes:email>
+    </itunes:owner>
+    <lastBuildDate>Thu, 06 Aug 2026 07:01:43 +0000</lastBuildDate>
+    <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+
+  </channel>
+</rss>
