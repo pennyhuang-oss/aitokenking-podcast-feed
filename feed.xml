@@ -2,8 +2,13 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI Token King Podcast</title>
-    <description>拆解 AI 模型、Token 成本與 AI Agent 產業動態的中文 Podcast，幫助開發者與企業在選模型、估預算時不踩雷。</description>
-    <link>https://github.com/pennyhuang-oss/aitokenking-podcast</link>
+    <description><![CDATA[拆解 AI 模型、Token 成本與 AI Agent 產業動態的中文 Podcast，幫助開發者與企業在選模型、估預算時不踩雷。<br/><br/>內容不只這些——法規、產業趨勢、投資敘事，只要那件事會影響你的判斷，就值得花十分鐘弄懂。一集聽得完，聽完帶得走一個結論。<br/><br/>由 AI Token King 製作——在同一個地方串接、比較並管理各家 AI 模型的用量與花費：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+    <itunes:summary>拆解 AI 模型、Token 成本與 AI Agent 產業動態的中文 Podcast，幫助開發者與企業在選模型、估預算時不踩雷。
+
+內容不只這些——法規、產業趨勢、投資敘事，只要那件事會影響你的判斷，就值得花十分鐘弄懂。一集聽得完，聽完帶得走一個結論。
+
+由 AI Token King 製作——在同一個地方串接、比較並管理各家 AI 模型的用量與花費：https://www.aitokenking.com.tw/home</itunes:summary>
+    <link>https://www.aitokenking.com.tw/home</link>
     <language>zh-tw</language>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Technology" />
@@ -11,19 +16,25 @@
     <image>
       <url>https://pennyhuang-oss.github.io/aitokenking-podcast-feed/cover.jpg</url>
       <title>AI Token King Podcast</title>
-      <link>https://github.com/pennyhuang-oss/aitokenking-podcast</link>
+      <link>https://www.aitokenking.com.tw/home</link>
     </image>
     <itunes:author>AI Token King</itunes:author>
     <itunes:owner>
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 07 Aug 2026 09:50:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 19:57:27 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP01｜太會抓資安漏洞，反而不敢馬上上架？Claude Fable 5 差點被雪藏的真相】</title>
-      <description>Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。</description>
-      <itunes:summary>Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。</itunes:summary>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。<br/><br/>這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。
+
+這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Fable 5, Anthropic, AI 模型安全, Token 成本, AI Agent, 資安</itunes:keywords>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
