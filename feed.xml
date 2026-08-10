@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 08 Aug 2026 19:57:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:08:58 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP02｜你付的 $20，其實只還了一成帳？AI 訂閱費補貼正在燒完的真相】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[同樣一份工作量，用 API 原始計價一年要價 1.5 萬美元，訂閱制卻只收你一千多美元——這個落差誰在補貼？<br/><br/>這一集拆解 AI 訂閱費背後的燒錢邏輯，以及訂閱制未來可能漲價、降規格的兩種劇本。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>同樣一份工作量，用 API 原始計價一年要價 1.5 萬美元，訂閱制卻只收你一千多美元——這個落差誰在補貼？
+
+這一集拆解 AI 訂閱費背後的燒錢邏輯，以及訂閱制未來可能漲價、降規格的兩種劇本。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 成本, AI 訂閱費, Claude Code, Agentic AI, Token 稅, AI 定價</itunes:keywords>
+      <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP02-ai-token-real-cost.mp3" length="15794512" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep02</guid>
+      <itunes:duration>10:58</itunes:duration>
+      <itunes:episode>02</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP01｜太會抓資安漏洞，反而不敢馬上上架？Claude Fable 5 差點被雪藏的真相】</title>
       <link>https://www.aitokenking.com.tw/home</link>
