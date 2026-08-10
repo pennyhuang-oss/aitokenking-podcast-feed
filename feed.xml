@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 10 Aug 2026 09:54:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 22:07:21 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP04｜Codex 不是「桌面版 ChatGPT」！不會寫程式也能養出一個 AI 員工】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[OpenAI Codex 討論度飆升，但很多人第一次聽到都誤以為它只是「桌面版 ChatGPT」。<br/><br/>這一集講清楚 Codex 跟 ChatGPT、Claude Code 的本質差異，還有非技術背景的人該怎麼安全上手。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>OpenAI Codex 討論度飆升，但很多人第一次聽到都誤以為它只是「桌面版 ChatGPT」。
+
+這一集講清楚 Codex 跟 ChatGPT、Claude Code 的本質差異，還有非技術背景的人該怎麼安全上手。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>OpenAI Codex, Claude Code, AI Agent, AGENTS markdown, 上下文工程, 非工程師用AI</itunes:keywords>
+      <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP04-openai-codex-intro.mp3" length="16469725" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep04</guid>
+      <itunes:duration>11:26</itunes:duration>
+      <itunes:episode>04</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP02｜你付的 $20，其實只還了一成帳？AI 訂閱費補貼正在燒完的真相】</title>
       <link>https://www.aitokenking.com.tw/home</link>
