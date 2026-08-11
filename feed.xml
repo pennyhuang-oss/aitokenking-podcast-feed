@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 10 Aug 2026 22:07:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:12:21 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP05｜更省 Token，帳單卻更貴？Opus 4.8 對決 Fable 5 的反直覺實測】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一場近 90 萬觀看的實測影片，讓 Opus 4.8 與 Claude Fable 5 用完全一樣的指令做同一個 App。<br/><br/>結果最耐人尋味的不是誰做得漂亮，而是「省 Token 卻更貴帳單」這個反直覺現象。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一場近 90 萬觀看的實測影片，讓 Opus 4.8 與 Claude Fable 5 用完全一樣的指令做同一個 App。
+
+結果最耐人尋味的不是誰做得漂亮，而是「省 Token 卻更貴帳單」這個反直覺現象。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Opus 4.8, Claude Fable 5, 模型實測, Token 成本, AI 選型, 模型比較</itunes:keywords>
+      <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP05-opus-48-vs-fable-5-benchmark.mp3" length="16178826" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep05</guid>
+      <itunes:duration>11:14</itunes:duration>
+      <itunes:episode>05</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP04｜Codex 不是「桌面版 ChatGPT」！不會寫程式也能養出一個 AI 員工】</title>
       <link>https://www.aitokenking.com.tw/home</link>
