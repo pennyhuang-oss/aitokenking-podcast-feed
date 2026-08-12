@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 11 Aug 2026 22:12:21 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 22:10:39 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP06｜同一個任務，帳單從 22 美元砍到 3.76：5 招把 AI Coding 成本打下來】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[不用換模型，同一顆 Claude Fable 5，用得聰明就能把帳單砍下八成。<br/><br/>這一集整理 5 個實測有效的省 Token 技巧，從調降思考等級到多模型分工，通通講給你聽。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>不用換模型，同一顆 Claude Fable 5，用得聰明就能把帳單砍下八成。
+
+這一集整理 5 個實測有效的省 Token 技巧，從調降思考等級到多模型分工，通通講給你聽。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Fable 5, 省 Token 技巧, AI Coding 成本, effort level, 多模型分工, KV Caching</itunes:keywords>
+      <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP06-cut-ai-coding-token-cost.mp3" length="15455965" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep06</guid>
+      <itunes:duration>10:44</itunes:duration>
+      <itunes:episode>06</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP05｜更省 Token，帳單卻更貴？Opus 4.8 對決 Fable 5 的反直覺實測】</title>
       <link>https://www.aitokenking.com.tw/home</link>
