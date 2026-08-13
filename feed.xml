@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 12 Aug 2026 22:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:11:55 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP07｜軟體開始「秤斤賣」？按 Token 計價正在改寫企業採購的遊戲規則】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[從「按人頭」收費到「按工作量」收費，AI Agent 正在讓整個軟體採購邏輯翻盤。<br/><br/>這一集拆解為什麼 Token 計價會變成主流，以及企業該怎麼做用量治理，才不會帳單月底才嚇一跳。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>從「按人頭」收費到「按工作量」收費，AI Agent 正在讓整個軟體採購邏輯翻盤。
+
+這一集拆解為什麼 Token 計價會變成主流，以及企業該怎麼做用量治理，才不會帳單月底才嚇一跳。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Token 計價, AI Agent 治理, 企業採購, 用量治理, Box, AI 成本控管</itunes:keywords>
+      <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP07-token-based-software-pricing.mp3" length="13474212" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep07</guid>
+      <itunes:duration>9:21</itunes:duration>
+      <itunes:episode>07</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP06｜同一個任務，帳單從 22 美元砍到 3.76：5 招把 AI Coding 成本打下來】</title>
       <link>https://www.aitokenking.com.tw/home</link>
