@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 13 Aug 2026 22:11:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:50:32 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP08｜自架 AI API 真能省 90%？教學影片沒告訴你的 4 筆隱藏成本】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[YouTube 上「自己接 AI API 省 90% 訂閱費」的教學看起來很心動，但表面省下的訂閱費，跟總體成本從來是兩回事。<br/><br/>這一集攤開工程維運、多模型彈性、用量治理、金鑰資安這四筆容易被忽略的隱藏成本。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>YouTube 上「自己接 AI API 省 90% 訂閱費」的教學看起來很心動，但表面省下的訂閱費，跟總體成本從來是兩回事。
+
+這一集攤開工程維運、多模型彈性、用量治理、金鑰資安這四筆容易被忽略的隱藏成本。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>自架 API, Build vs Buy, AI API 成本, 用量治理, 金鑰資安, 多模型平台</itunes:keywords>
+      <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP08-self-host-api-vs-token-platform.mp3" length="14678561" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep08</guid>
+      <itunes:duration>10:12</itunes:duration>
+      <itunes:episode>08</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP07｜軟體開始「秤斤賣」？按 Token 計價正在改寫企業採購的遊戲規則】</title>
       <link>https://www.aitokenking.com.tw/home</link>
