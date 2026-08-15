@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 14 Aug 2026 21:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:45:25 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP09｜AI 開始自己按下「執行」鍵：沒顧好情境工程，出包規模完全不同量級】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[當企業 AI 從「幫你回答問題」走到「自己做決定、自己執行」，一次錯誤就可能變成營運風險或資安事故。<br/><br/>這一集拆解「情境工程」為什麼是企業 AI 治理繞不開的關鍵字。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>當企業 AI 從「幫你回答問題」走到「自己做決定、自己執行」，一次錯誤就可能變成營運風險或資安事故。
+
+這一集拆解「情境工程」為什麼是企業 AI 治理繞不開的關鍵字。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Context Engineering, 企業 AI 治理, AI Agent 風險, 權限管理, 稽核軌跡, AI 資安</itunes:keywords>
+      <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP09-context-engineering-ai-governance.mp3" length="19083433" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep09</guid>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:episode>09</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP08｜自架 AI API 真能省 90%？教學影片沒告訴你的 4 筆隱藏成本】</title>
       <link>https://www.aitokenking.com.tw/home</link>
