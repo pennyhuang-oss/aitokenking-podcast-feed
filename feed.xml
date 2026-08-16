@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 15 Aug 2026 21:45:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:44:33 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP10｜AI 直接把簡報做完給你：ChatGPT Work 是敢不敢放手的問題】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[OpenAI 發表由 Codex 與 GPT-5.6 共同驅動的 ChatGPT Work，讓 AI 從「一問一答」進化到「跨工具自動把事情做完」。<br/><br/>這一集聊聊這對企業採購、資料治理跟 Token 用量估算，分別代表什麼。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>OpenAI 發表由 Codex 與 GPT-5.6 共同驅動的 ChatGPT Work，讓 AI 從「一問一答」進化到「跨工具自動把事情做完」。
+
+這一集聊聊這對企業採購、資料治理跟 Token 用量估算，分別代表什麼。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>ChatGPT Work, OpenAI Codex, GPT-5.6, 企業級 AI Agent, AI Agent 治理, Token 用量</itunes:keywords>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP10-chatgpt-work-enterprise-agent.mp3" length="17790058" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep10</guid>
+      <itunes:duration>12:21</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP09｜AI 開始自己按下「執行」鍵：沒顧好情境工程，出包規模完全不同量級】</title>
       <link>https://www.aitokenking.com.tw/home</link>
