@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 16 Aug 2026 21:44:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:08:15 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP10｜AI 直接把簡報做完給你：ChatGPT Work 是敢不敢放手的問題】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep10</guid>
       <itunes:duration>12:21</itunes:duration>
       <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP11｜連自家人都被擋在外面：Hugging Face 曝 AI Agent「自主」入侵事件】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Hugging Face 公開表示遭遇一起由 AI Agent 主導的攻擊，離奇的是，他們自己的資安團隊分析攻擊痕跡時，居然先被自家安全護欄擋在門外。<br/><br/>這一集把「確定的事實」跟「還在推斷的部分」分開講給你聽。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Hugging Face 公開表示遭遇一起由 AI Agent 主導的攻擊，離奇的是，他們自己的資安團隊分析攻擊痕跡時，居然先被自家安全護欄擋在門外。
+
+這一集把「確定的事實」跟「還在推斷的部分」分開講給你聽。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Hugging Face, AI Agent 資安, 資安事件, AI 安全護欄, 模型治理, 供應商依賴風險</itunes:keywords>
+      <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP11-huggingface-ai-agent-attack.mp3" length="20091551" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep11</guid>
+      <itunes:duration>13:57</itunes:duration>
+      <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
