@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 17 Aug 2026 10:08:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 21:53:37 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP12｜Software Factories 論戰：AI 開發代理平台，大家搶的到底是什麼主導權？】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Microsoft、OpenAI 到開源陣營的 Z.ai、MiniMax，在 2026 AI Engineer World's Fair 上各自定義「軟體工廠」。<br/><br/>這一集不告訴你誰對誰錯，而是把這場論戰背後真正的路線分歧攤開來讓你看懂。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Microsoft、OpenAI 到開源陣營的 Z.ai、MiniMax，在 2026 AI Engineer World's Fair 上各自定義「軟體工廠」。
+
+這一集不告訴你誰對誰錯，而是把這場論戰背後真正的路線分歧攤開來讓你看懂。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Software Factories, AI 開發代理, OpenAI Codex, GLM, MiniMax, 開源模型</itunes:keywords>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP12-software-factories-debate.mp3" length="10139838" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep12</guid>
+      <itunes:duration>12:04</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP10｜AI 直接把簡報做完給你：ChatGPT Work 是敢不敢放手的問題】</title>
       <link>https://www.aitokenking.com.tw/home</link>
