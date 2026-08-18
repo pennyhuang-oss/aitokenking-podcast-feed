@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 18 Aug 2026 10:00:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:48:34 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP14｜上線 48 小時燒到自家 GPU 喘不過氣：Kimi K3 引爆的「類 DeepSeek 時刻」】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Moonshot AI 開源模型 Kimi K3 一發布，半導體股應聲重挫，還被分析師拿去類比 2025 年的 DeepSeek 時刻。<br/><br/>這一集拆解它的排行榜表現、官方自己的保守表態，還有企業選型該學到的三個教訓。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Moonshot AI 開源模型 Kimi K3 一發布，半導體股應聲重挫，還被分析師拿去類比 2025 年的 DeepSeek 時刻。
+
+這一集拆解它的排行榜表現、官方自己的保守表態，還有企業選型該學到的三個教訓。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Kimi K3, Moonshot AI, 開源模型, DeepSeek 時刻, 模型選型, Arena 排行榜</itunes:keywords>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP14-kimi-k3-deepseek-moment.mp3" length="18901621" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep14</guid>
+      <itunes:duration>13:08</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP12｜Software Factories 論戰：AI 開發代理平台，大家搶的到底是什麼主導權？】</title>
       <link>https://www.aitokenking.com.tw/home</link>
