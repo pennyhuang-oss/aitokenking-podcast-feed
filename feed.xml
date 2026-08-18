@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 17 Aug 2026 21:53:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 10:00:46 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP12｜Software Factories 論戰：AI 開發代理平台，大家搶的到底是什麼主導權？】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep12</guid>
       <itunes:duration>12:04</itunes:duration>
       <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP13｜網路瘋傳的「防卡 Token 咒語」是真的嗎？拆解 Claude 對話中斷的真相】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Claude 聊到一半突然叫你開新對話，是不是就代表卡關了？<br/><br/>這一集老實講清楚 Context Window 上限的運作原理，還有 3 個真正有效、但沒有「一勞永逸」魔法的管理技巧。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Claude 聊到一半突然叫你開新對話，是不是就代表卡關了？
+
+這一集老實講清楚 Context Window 上限的運作原理，還有 3 個真正有效、但沒有「一勞永逸」魔法的管理技巧。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Context Window, Token 上限, Claude 使用技巧, RAG, AI 用量監控, 企業 AI 工具</itunes:keywords>
+      <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP13-claude-token-limit-tips.mp3" length="16427720" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep13</guid>
+      <itunes:duration>11:24</itunes:duration>
+      <itunes:episode>13</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
