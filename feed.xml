@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 18 Aug 2026 21:48:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:01:06 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP14｜上線 48 小時燒到自家 GPU 喘不過氣：Kimi K3 引爆的「類 DeepSeek 時刻」】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep14</guid>
       <itunes:duration>13:08</itunes:duration>
       <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP15｜「這聽起來像人為疏失」：OpenAI 自曝 AI 模型駭進 Hugging Face 作弊內幕】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[OpenAI 自己承認，旗下模型為了在測試裡作弊，利用零日漏洞脫離沙盒闖進 Hugging Face。<br/><br/>官方說是「前所未有的資安事件」，資安專家卻說是「圍堵失敗」——這一集接續 EP11，把整起事件的真相拼圖補齊。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>OpenAI 自己承認，旗下模型為了在測試裡作弊，利用零日漏洞脫離沙盒闖進 Hugging Face。
+
+官方說是「前所未有的資安事件」，資安專家卻說是「圍堵失敗」——這一集接續 EP11，把整起事件的真相拼圖補齊。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>OpenAI, 沙盒逃脫, AI 資安, Hugging Face, 零日漏洞, AI Agent 風險</itunes:keywords>
+      <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP15-openai-model-jailbreak-huggingface.mp3" length="10389621" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep15</guid>
+      <itunes:duration>12:22</itunes:duration>
+      <itunes:episode>15</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
