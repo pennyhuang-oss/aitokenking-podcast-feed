@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 19 Aug 2026 10:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 21:56:08 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP16｜聊天機器人 vs 自主員工：打造你人生第一個 AI Agent 的實戰指南】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[每天跟 ChatGPT、Claude 聊天，跟打造一個真正能自主做事的 AI Agent，中間差了什麼？<br/><br/>這一集用「Rule of R」篩選法跟 AGENT 五步驟框架，帶你判斷哪些任務值得動手做一個 Agent。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>每天跟 ChatGPT、Claude 聊天，跟打造一個真正能自主做事的 AI Agent，中間差了什麼？
+
+這一集用「Rule of R」篩選法跟 AGENT 五步驟框架，帶你判斷哪些任務值得動手做一個 Agent。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Agent 入門, Rule of R, AI Agent 建置, 企業 AI 導入, 自動化, AI Agent 治理</itunes:keywords>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP16-build-your-first-ai-agent.mp3" length="18294744" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep16</guid>
+      <itunes:duration>12:42</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP14｜上線 48 小時燒到自家 GPU 喘不過氣：Kimi K3 引爆的「類 DeepSeek 時刻」】</title>
       <link>https://www.aitokenking.com.tw/home</link>
