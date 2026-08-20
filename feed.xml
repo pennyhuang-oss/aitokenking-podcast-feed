@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 20 Aug 2026 10:02:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 21:54:49 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP18｜三支 AI 影片扣掉五支的額度，因為提示詞只寫了一半】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[加了「電影感」「質感高級」，重拍到第三次還是不能用——三支十五秒的短片，扣掉五支的額度。<br/><br/>問題不在工具，在提示詞只寫了一半。我們把一支及格的 AI 影片提示詞該有的六個要素攤開來看，怎麼記成三對比較好記，還有幾乎所有人都漏掉的負面提示詞，怎麼寫才真的有用。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>加了「電影感」「質感高級」，重拍到第三次還是不能用——三支十五秒的短片，扣掉五支的額度。
+
+問題不在工具，在提示詞只寫了一半。我們把一支及格的 AI 影片提示詞該有的六個要素攤開來看，怎麼記成三對比較好記，還有幾乎所有人都漏掉的負面提示詞，怎麼寫才真的有用。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI 影片生成, 提示詞工程, 負面提示詞, AI 廣告製作, AI Token 成本, Credits 額度</itunes:keywords>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP18-ai-video-prompt-engineering.mp3" length="10356654" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep18</guid>
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP16｜聊天機器人 vs 自主員工：打造你人生第一個 AI Agent 的實戰指南】</title>
       <link>https://www.aitokenking.com.tw/home</link>
