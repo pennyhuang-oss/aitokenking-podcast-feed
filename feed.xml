@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 19 Aug 2026 21:56:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 10:02:06 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP16｜聊天機器人 vs 自主員工：打造你人生第一個 AI Agent 的實戰指南】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep16</guid>
       <itunes:duration>12:42</itunes:duration>
       <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP17｜Claude Sonnet 5 八月底一過就漲五成，Anthropic 為什麼自己先公告？】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[八月三十一號午夜一過，Claude Sonnet 5 的價格自動加五成——程式碼不用改、用量不用變，帳單就是會變貴，而且這是 Anthropic 自己提前兩個月公告的。<br/><br/>這一集算清楚那段價差到底值多少、剩下的時間該測什麼，還有「努力等級」這顆旋鈕為什麼會讓「用四折買到 Opus 級表現」這句話，只在特定條件下才成立。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>八月三十一號午夜一過，Claude Sonnet 5 的價格自動加五成——程式碼不用改、用量不用變，帳單就是會變貴，而且這是 Anthropic 自己提前兩個月公告的。
+
+這一集算清楚那段價差到底值多少、剩下的時間該測什麼，還有「努力等級」這顆旋鈕為什麼會讓「用四折買到 Opus 級表現」這句話，只在特定條件下才成立。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Sonnet 5, Anthropic, API 定價, Agentic AI, 努力等級, 模型選型, Opus 4.8</itunes:keywords>
+      <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP17-claude-sonnet-5.mp3" length="9327639" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep17</guid>
+      <itunes:duration>9:43</itunes:duration>
+      <itunes:episode>17</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
