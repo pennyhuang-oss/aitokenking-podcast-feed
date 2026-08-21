@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 21 Aug 2026 10:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:48:27 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP20｜歐盟 AI 法案開始執法：最該去要文件的地方，不是你的產品，是你的模型供應商】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[公司登記在台北，伺服器在台北，員工也在台北——然後你發現自己得對歐盟交文件。八月二號起，歐盟 AI 法案正式進入執法階段。<br/><br/>這集要回答的是：台灣公司到底怎麼被掃進來的、那天真正改變的是什麼（不是法律生效，是執法工具），還有為什麼能證明你合規的三份文件，全都握在上游那家模型供應商手上。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>公司登記在台北，伺服器在台北，員工也在台北——然後你發現自己得對歐盟交文件。八月二號起，歐盟 AI 法案正式進入執法階段。
+
+這集要回答的是：台灣公司到底怎麼被掃進來的、那天真正改變的是什麼（不是法律生效，是執法工具），還有為什麼能證明你合規的三份文件，全都握在上游那家模型供應商手上。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>歐盟 AI 法案, AI Act, AI 合規, GPAI, 通用型 AI 模型, 透明度規則, 企業 AI 治理, 深偽標示</itunes:keywords>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP20-eu-ai-act-enforcement.mp3" length="9355642" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep20</guid>
+      <itunes:duration>9:45</itunes:duration>
+      <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP18｜三支 AI 影片扣掉五支的額度，因為提示詞只寫了一半】</title>
       <link>https://www.aitokenking.com.tw/home</link>
