@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 20 Aug 2026 21:54:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:01:36 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP18｜三支 AI 影片扣掉五支的額度，因為提示詞只寫了一半】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep18</guid>
       <itunes:duration>10:47</itunes:duration>
       <itunes:episode>18</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP19｜四種計費模式、一條 20 萬 token 的線，把 Gemini 帳單拉開 3.6 倍】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[「這個任務能不能等？」在 Gemini API 上，這句話是有標價的——批次模式直接打五折，優先模式加價插隊，程式一行都不用改，帳單就換了一個級距。<br/><br/>答案要從四種計費模式說起，再往下是旗艦 Gemini 3.1 Pro 那條會讓價格翻倍的門檻——它算的是你丟進去的長度，不是模型回答的長度，很多人在這裡誤會。這集也會算給你聽，Context Caching 什麼時候反而倒貼，還有那 5,000 次免費搜尋額度為什麼是全系列共用、比你以為的更快見底。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>「這個任務能不能等？」在 Gemini API 上，這句話是有標價的——批次模式直接打五折，優先模式加價插隊，程式一行都不用改，帳單就換了一個級距。
+
+答案要從四種計費模式說起，再往下是旗艦 Gemini 3.1 Pro 那條會讓價格翻倍的門檻——它算的是你丟進去的長度，不是模型回答的長度，很多人在這裡誤會。這集也會算給你聽，Context Caching 什麼時候反而倒貼，還有那 5,000 次免費搜尋額度為什麼是全系列共用、比你以為的更快見底。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Gemini API, API 定價, Token 計費, Context Caching, AI 成本管理, Batch API</itunes:keywords>
+      <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP19-gemini-api-pricing.mp3" length="8065820" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep19</guid>
+      <itunes:duration>8:24</itunes:duration>
+      <itunes:episode>19</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
