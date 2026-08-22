@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 21 Aug 2026 21:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:53:02 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP20｜歐盟 AI 法案開始執法：最該去要文件的地方，不是你的產品，是你的模型供應商】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep20</guid>
       <itunes:duration>9:45</itunes:duration>
       <itunes:episode>20</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP21｜Claude API 的天花板不是錢堆出來的】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[月度預算還剩一大截，請求卻已經被擋下來。不是系統壞掉——擋你的那道牆，跟錢根本不在同一個系統裡。<br/><br/>往下拆會看到三道分開計算的關卡：用量等級不是你自己選的、速率限制跟花費上限各管各的，還有一個「用得不夠多也會被擋」的加速限制。順帶講一個不用升級、也不用多付一毛錢，就能把有效額度變成五倍的做法。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>月度預算還剩一大截，請求卻已經被擋下來。不是系統壞掉——擋你的那道牆，跟錢根本不在同一個系統裡。
+
+往下拆會看到三道分開計算的關卡：用量等級不是你自己選的、速率限制跟花費上限各管各的，還有一個「用得不夠多也會被擋」的加速限制。順帶講一個不用升級、也不用多付一毛錢，就能把有效額度變成五倍的做法。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude API, Usage Tier, Rate Limit, Spend Limit, Prompt Caching, Workspace, 企業 AI 導入, AI 用量治理</itunes:keywords>
+      <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP21-claude-api-usage-governance.mp3" length="14948354" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep21</guid>
+      <itunes:duration>15:34</itunes:duration>
+      <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
