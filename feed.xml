@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 09:53:02 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:45:32 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP22｜先問這支 API 是誰的帳號，再問它多少錢】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[官方價的兩折，同一顆模型、同一種呼叫方式，回答一字不差，程式碼一行都不用改。差額不是廠商大方，是有人把自己吃不完的訂閱額度收一收，再賣給你。<br/><br/>三個月的時間軸走一次：第二個月回答風格開始飄、尖峰時段被限流，第三個月整批帳號被原廠封掉。真正致命的不是那次斷線，是客戶寄來的資安問卷——資料經過誰、存在哪、有沒有簽保護協議，三題全答不出來。最後給你四個檢查點，判斷一支 API 能不能寫進客戶合約。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>官方價的兩折，同一顆模型、同一種呼叫方式，回答一字不差，程式碼一行都不用改。差額不是廠商大方，是有人把自己吃不完的訂閱額度收一收，再賣給你。
+
+三個月的時間軸走一次：第二個月回答風格開始飄、尖峰時段被限流，第三個月整批帳號被原廠封掉。真正致命的不是那次斷線，是客戶寄來的資安問卷——資料經過誰、存在哪、有沒有簽保護協議，三題全答不出來。最後給你四個檢查點，判斷一支 API 能不能寫進客戶合約。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>廉價 API, API 轉售, 帳號共享, 服務條款, 資料保護協議, DPA, 企業 AI 採購, AI 供應商風險</itunes:keywords>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP22-cheap-ai-api-token-reselling-risk.mp3" length="8896723" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep22</guid>
+      <itunes:duration>9:16</itunes:duration>
+      <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP20｜歐盟 AI 法案開始執法：最該去要文件的地方，不是你的產品，是你的模型供應商】</title>
       <link>https://www.aitokenking.com.tw/home</link>
