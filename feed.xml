@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 22 Aug 2026 21:45:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:54:07 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP22｜先問這支 API 是誰的帳號，再問它多少錢】</title>
@@ -41,6 +41,25 @@
       <guid isPermaLink="false">aitokenking-podcast-ep22</guid>
       <itunes:duration>9:16</itunes:duration>
       <itunes:episode>22</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>【EP23｜Claude Opus 5 同一道牆，資安撞上去退回上一代，生物撞上去反而升級】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[每一百萬個輸入 Token 五美元、輸出二十五美元——Claude Opus 5 的價目表，跟前一代 Opus 4.8 一個字都沒改。整份公告裡唯一帶百分比的數字，不在能力，也不在價格，在攔截率：資安請求被擋下來的頻率，比上一顆旗艦少了大約八成五。<br/><br/>真正被改掉的，是那道決定你拿得到哪一版能力的閘門。兩條方向相反的規則各自往哪邊挪、為什麼官方要把「找得到漏洞」跟「把漏洞做成武器」分開來擋、Mythos 5 為什麼不會賣給你，還有評估模型供應商時該補上的那一題——我拿得到的版本，跟你們技術上做得到的版本，差幾格。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>每一百萬個輸入 Token 五美元、輸出二十五美元——Claude Opus 5 的價目表，跟前一代 Opus 4.8 一個字都沒改。整份公告裡唯一帶百分比的數字，不在能力，也不在價格，在攔截率：資安請求被擋下來的頻率，比上一顆旗艦少了大約八成五。
+
+真正被改掉的，是那道決定你拿得到哪一版能力的閘門。兩條方向相反的規則各自往哪邊挪、為什麼官方要把「找得到漏洞」跟「把漏洞做成武器」分開來擋、Mythos 5 為什麼不會賣給你，還有評估模型供應商時該補上的那一題——我拿得到的版本，跟你們技術上做得到的版本，差幾格。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Opus 5, Anthropic, 安全分流, Mythos 5, Claude Fable 5, Opus 4.8, 模型選型, AI 治理</itunes:keywords>
+      <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP23-what-is-claude-opus-5.mp3" length="9004974" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep23</guid>
+      <itunes:duration>9:23</itunes:duration>
+      <itunes:episode>23</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
     </item>
