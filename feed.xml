@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 23 Aug 2026 09:54:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 21:45:55 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP24｜GPT 5.6 Sol 上線那天，最貴的決定是當天就換】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[早上七點半，人還沒進辦公室，Slack 已經跳了十幾條。工程師熬夜看完一支 GPT 5.6 Sol 的開箱影片，一早就在問要不要馬上換模型。影片裡三個宣稱：更省、記得更多、定價分層更細。三個都帶但書，一個都不能直接寫進評估表。<br/><br/>換一個問法，事情就分開了：不是問這顆模型強不強，是問你最貴的那三個任務換過去會怎麼樣。這集把三條宣稱各自的前提拆開講——包含上下文窗口變長為什麼反而可能讓單次呼叫變貴——最後給你一個一天跑得完的對照測試：三個場景、新舊模型各十次，帳單跟品質並排看。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>早上七點半，人還沒進辦公室，Slack 已經跳了十幾條。工程師熬夜看完一支 GPT 5.6 Sol 的開箱影片，一早就在問要不要馬上換模型。影片裡三個宣稱：更省、記得更多、定價分層更細。三個都帶但書，一個都不能直接寫進評估表。
+
+換一個問法，事情就分開了：不是問這顆模型強不強，是問你最貴的那三個任務換過去會怎麼樣。這集把三條宣稱各自的前提拆開講——包含上下文窗口變長為什麼反而可能讓單次呼叫變貴——最後給你一個一天跑得完的對照測試：三個場景、新舊模型各十次，帳單跟品質並排看。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>GPT 5.6 Sol, OpenAI, 模型選型, 上下文窗口, AI 成本評估, 對照測試, 台灣中小企業, API 帳單</itunes:keywords>
+      <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP24-what-is-gpt-5-6-sol.mp3" length="8368840" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep24</guid>
+      <itunes:duration>8:43</itunes:duration>
+      <itunes:episode>24</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP22｜先問這支 API 是誰的帳號，再問它多少錢】</title>
       <link>https://www.aitokenking.com.tw/home</link>
