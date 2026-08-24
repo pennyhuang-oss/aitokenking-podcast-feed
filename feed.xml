@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 24 Aug 2026 10:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:54:09 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一支七月八號的官方示範影片，讓很多客服主管當場想到同一件事：晚上跟假日那幾個沒人排班的時段，終於有救了。第二個念頭要慢半拍才會來——這東西怎麼算錢？<br/><br/>ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費，跟純文字那套「每一百萬個 token」不是同一件事。至於是怎麼個不一樣法——到目前為止，沒有任何一個能拿來估月費的數字。這不是漏掉，是現在就沒有。<br/><br/>所以這集處理的是另一題：價目表還沒出來的時候，一個新功能該怎麼評估、怎麼上線。包含為什麼「講很久卻沒解決問題」的那種通話最貴，還有一組在第一天就能把不確定性關進籠子的做法——時段、上限、對照。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一支七月八號的官方示範影片，讓很多客服主管當場想到同一件事：晚上跟假日那幾個沒人排班的時段，終於有救了。第二個念頭要慢半拍才會來——這東西怎麼算錢？
+
+ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費，跟純文字那套「每一百萬個 token」不是同一件事。至於是怎麼個不一樣法——到目前為止，沒有任何一個能拿來估月費的數字。這不是漏掉，是現在就沒有。
+
+所以這集處理的是另一題：價目表還沒出來的時候，一個新功能該怎麼評估、怎麼上線。包含為什麼「講很久卻沒解決問題」的那種通話最貴，還有一組在第一天就能把不確定性關進籠子的做法——時段、上限、對照。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>ChatGPT Voice, GPT Live, 語音 AI, API 計費, AI 客服, 通話時長計費, 用量上限, AI 成本評估</itunes:keywords>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP26-chatgpt-voice-gpt-live-pricing.mp3" length="11230607" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep26</guid>
+      <itunes:duration>11:42</itunes:duration>
+      <itunes:episode>26</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP24｜GPT 5.6 Sol 上線那天，最貴的決定是當天就換】</title>
       <link>https://www.aitokenking.com.tw/home</link>
