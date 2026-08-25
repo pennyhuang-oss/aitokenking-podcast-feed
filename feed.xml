@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 24 Aug 2026 21:54:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:55:51 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -39,7 +39,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>ChatGPT Voice, GPT Live, 語音 AI, API 計費, AI 客服, 通話時長計費, 用量上限, AI 成本評估</itunes:keywords>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP26-chatgpt-voice-gpt-live-pricing.mp3" length="11230607" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP26-chatgpt-voice-gpt-live-pricing.mp3" length="11230607" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep26</guid>
       <itunes:duration>11:42</itunes:duration>
       <itunes:episode>26</itunes:episode>
@@ -58,7 +58,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>GPT 5.6 Sol, OpenAI, 模型選型, 上下文窗口, AI 成本評估, 對照測試, 台灣中小企業, API 帳單</itunes:keywords>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP24-what-is-gpt-5-6-sol.mp3" length="8368840" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP24-what-is-gpt-5-6-sol.mp3" length="8368840" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep24</guid>
       <itunes:duration>8:43</itunes:duration>
       <itunes:episode>24</itunes:episode>
@@ -79,7 +79,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>API 定價, Claude, GPT, Gemini, Token 計費, Tokenizer, 模型選型, AI 成本管理</itunes:keywords>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP25-claude-vs-gpt-vs-gemini-api-pricing.mp3" length="12229947" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP25-claude-vs-gpt-vs-gemini-api-pricing.mp3" length="12229947" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep25</guid>
       <itunes:duration>12:44</itunes:duration>
       <itunes:episode>25</itunes:episode>
@@ -98,7 +98,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>廉價 API, API 轉售, 帳號共享, 服務條款, 資料保護協議, DPA, 企業 AI 採購, AI 供應商風險</itunes:keywords>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP22-cheap-ai-api-token-reselling-risk.mp3" length="8896723" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP22-cheap-ai-api-token-reselling-risk.mp3" length="8896723" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep22</guid>
       <itunes:duration>9:16</itunes:duration>
       <itunes:episode>22</itunes:episode>
@@ -117,7 +117,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Opus 5, Anthropic, 安全分流, Mythos 5, Claude Fable 5, Opus 4.8, 模型選型, AI 治理</itunes:keywords>
       <pubDate>Sun, 23 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP23-what-is-claude-opus-5.mp3" length="9004974" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP23-what-is-claude-opus-5.mp3" length="9004974" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep23</guid>
       <itunes:duration>9:23</itunes:duration>
       <itunes:episode>23</itunes:episode>
@@ -136,7 +136,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>歐盟 AI 法案, AI Act, AI 合規, GPAI, 通用型 AI 模型, 透明度規則, 企業 AI 治理, 深偽標示</itunes:keywords>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP20-eu-ai-act-enforcement.mp3" length="9355642" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP20-eu-ai-act-enforcement.mp3" length="9355642" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep20</guid>
       <itunes:duration>9:45</itunes:duration>
       <itunes:episode>20</itunes:episode>
@@ -155,7 +155,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude API, Usage Tier, Rate Limit, Spend Limit, Prompt Caching, Workspace, 企業 AI 導入, AI 用量治理</itunes:keywords>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP21-claude-api-usage-governance.mp3" length="14948354" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP21-claude-api-usage-governance.mp3" length="14948354" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep21</guid>
       <itunes:duration>15:34</itunes:duration>
       <itunes:episode>21</itunes:episode>
@@ -174,7 +174,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>AI 影片生成, 提示詞工程, 負面提示詞, AI 廣告製作, AI Token 成本, Credits 額度</itunes:keywords>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP18-ai-video-prompt-engineering.mp3" length="10356654" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP18-ai-video-prompt-engineering.mp3" length="10356654" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep18</guid>
       <itunes:duration>10:47</itunes:duration>
       <itunes:episode>18</itunes:episode>
@@ -193,7 +193,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Gemini API, API 定價, Token 計費, Context Caching, AI 成本管理, Batch API</itunes:keywords>
       <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP19-gemini-api-pricing.mp3" length="8065820" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP19-gemini-api-pricing.mp3" length="8065820" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep19</guid>
       <itunes:duration>8:24</itunes:duration>
       <itunes:episode>19</itunes:episode>
@@ -212,7 +212,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>AI Agent 入門, Rule of R, AI Agent 建置, 企業 AI 導入, 自動化, AI Agent 治理</itunes:keywords>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP16-build-your-first-ai-agent.mp3" length="18294744" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP16-build-your-first-ai-agent.mp3" length="18294744" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep16</guid>
       <itunes:duration>12:42</itunes:duration>
       <itunes:episode>16</itunes:episode>
@@ -231,7 +231,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Sonnet 5, Anthropic, API 定價, Agentic AI, 努力等級, 模型選型, Opus 4.8</itunes:keywords>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP17-claude-sonnet-5.mp3" length="9327639" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP17-claude-sonnet-5.mp3" length="9327639" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep17</guid>
       <itunes:duration>9:43</itunes:duration>
       <itunes:episode>17</itunes:episode>
@@ -250,7 +250,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Kimi K3, Moonshot AI, 開源模型, DeepSeek 時刻, 模型選型, Arena 排行榜</itunes:keywords>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP14-kimi-k3-deepseek-moment.mp3" length="18901621" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP14-kimi-k3-deepseek-moment.mp3" length="18901621" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep14</guid>
       <itunes:duration>13:08</itunes:duration>
       <itunes:episode>14</itunes:episode>
@@ -269,7 +269,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>OpenAI, 沙盒逃脫, AI 資安, Hugging Face, 零日漏洞, AI Agent 風險</itunes:keywords>
       <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP15-openai-model-jailbreak-huggingface.mp3" length="10389621" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP15-openai-model-jailbreak-huggingface.mp3" length="10389621" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep15</guid>
       <itunes:duration>12:22</itunes:duration>
       <itunes:episode>15</itunes:episode>
@@ -288,7 +288,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Software Factories, AI 開發代理, OpenAI Codex, GLM, MiniMax, 開源模型</itunes:keywords>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP12-software-factories-debate.mp3" length="10139838" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP12-software-factories-debate.mp3" length="10139838" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep12</guid>
       <itunes:duration>12:04</itunes:duration>
       <itunes:episode>12</itunes:episode>
@@ -307,7 +307,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Context Window, Token 上限, Claude 使用技巧, RAG, AI 用量監控, 企業 AI 工具</itunes:keywords>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP13-claude-token-limit-tips.mp3" length="16427720" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP13-claude-token-limit-tips.mp3" length="16427720" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep13</guid>
       <itunes:duration>11:24</itunes:duration>
       <itunes:episode>13</itunes:episode>
@@ -326,7 +326,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>ChatGPT Work, OpenAI Codex, GPT-5.6, 企業級 AI Agent, AI Agent 治理, Token 用量</itunes:keywords>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP10-chatgpt-work-enterprise-agent.mp3" length="17790058" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP10-chatgpt-work-enterprise-agent.mp3" length="17790058" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep10</guid>
       <itunes:duration>12:21</itunes:duration>
       <itunes:episode>10</itunes:episode>
@@ -345,7 +345,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Hugging Face, AI Agent 資安, 資安事件, AI 安全護欄, 模型治理, 供應商依賴風險</itunes:keywords>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP11-huggingface-ai-agent-attack.mp3" length="20091551" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP11-huggingface-ai-agent-attack.mp3" length="20091551" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep11</guid>
       <itunes:duration>13:57</itunes:duration>
       <itunes:episode>11</itunes:episode>
@@ -364,7 +364,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Context Engineering, 企業 AI 治理, AI Agent 風險, 權限管理, 稽核軌跡, AI 資安</itunes:keywords>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP09-context-engineering-ai-governance.mp3" length="19083433" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP09-context-engineering-ai-governance.mp3" length="19083433" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep09</guid>
       <itunes:duration>13:15</itunes:duration>
       <itunes:episode>09</itunes:episode>
@@ -383,7 +383,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>自架 API, Build vs Buy, AI API 成本, 用量治理, 金鑰資安, 多模型平台</itunes:keywords>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP08-self-host-api-vs-token-platform.mp3" length="14678561" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP08-self-host-api-vs-token-platform.mp3" length="14678561" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep08</guid>
       <itunes:duration>10:12</itunes:duration>
       <itunes:episode>08</itunes:episode>
@@ -402,7 +402,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Token 計價, AI Agent 治理, 企業採購, 用量治理, Box, AI 成本控管</itunes:keywords>
       <pubDate>Fri, 14 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP07-token-based-software-pricing.mp3" length="13474212" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP07-token-based-software-pricing.mp3" length="13474212" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep07</guid>
       <itunes:duration>9:21</itunes:duration>
       <itunes:episode>07</itunes:episode>
@@ -421,7 +421,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Fable 5, 省 Token 技巧, AI Coding 成本, effort level, 多模型分工, KV Caching</itunes:keywords>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP06-cut-ai-coding-token-cost.mp3" length="15455965" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP06-cut-ai-coding-token-cost.mp3" length="15455965" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep06</guid>
       <itunes:duration>10:44</itunes:duration>
       <itunes:episode>06</itunes:episode>
@@ -440,7 +440,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Opus 4.8, Claude Fable 5, 模型實測, Token 成本, AI 選型, 模型比較</itunes:keywords>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP05-opus-48-vs-fable-5-benchmark.mp3" length="16178826" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP05-opus-48-vs-fable-5-benchmark.mp3" length="16178826" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep05</guid>
       <itunes:duration>11:14</itunes:duration>
       <itunes:episode>05</itunes:episode>
@@ -459,7 +459,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>OpenAI Codex, Claude Code, AI Agent, AGENTS markdown, 上下文工程, 非工程師用AI</itunes:keywords>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP04-openai-codex-intro.mp3" length="16469725" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP04-openai-codex-intro.mp3" length="16469725" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep04</guid>
       <itunes:duration>11:26</itunes:duration>
       <itunes:episode>04</itunes:episode>
@@ -478,7 +478,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>AI Token 成本, AI 訂閱費, Claude Code, Agentic AI, Token 稅, AI 定價</itunes:keywords>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP02-ai-token-real-cost.mp3" length="15794512" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP02-ai-token-real-cost.mp3" length="15794512" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep02</guid>
       <itunes:duration>10:58</itunes:duration>
       <itunes:episode>02</itunes:episode>
@@ -497,7 +497,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>自迴歸, Coding Agent, Token 是什麼, KV Caching, AI 成本, GitHub Copilot</itunes:keywords>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP03-autoregressive-coding-agent-cost.mp3" length="17805732" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP03-autoregressive-coding-agent-cost.mp3" length="17805732" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep03</guid>
       <itunes:duration>12:22</itunes:duration>
       <itunes:episode>03</itunes:episode>
@@ -516,7 +516,7 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Fable 5, Anthropic, AI 模型安全, Token 成本, AI Agent, 資安</itunes:keywords>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep01</guid>
       <itunes:duration>10:13</itunes:duration>
       <itunes:episode>01</itunes:episode>
