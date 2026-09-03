@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 25 Aug 2026 09:55:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 06:44:24 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -68,8 +68,8 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
     <item>
       <title>【EP25｜Claude、GPT、Gemini，牌價最低的那一顆為什麼不是最省的？】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[每一百萬個 token，最便宜的兩毛五美元，最貴的五十塊——四十倍。但決定帳單的不只有這一欄：同一批字丟給不同家，切出來的 token 數本來就不一樣，光是換一代切詞規則，同一份中文文件就多算將近三成。<br/><br/>九顆模型怎麼排成三個等級、Anthropic 為什麼一家就佔掉旗艦這一階的兩格、Gemini 為什麼在兩個等級都是最便宜的那一顆卻不站在第三格上。<br/><br/>還有價目表首頁不會列的那幾筆：資料落地的一成溢價、快車道的兩倍價、模型自己上網查一趟就跳表的搜尋費。最後給你一個三步的比價順序，第一步不是打開價目表。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>每一百萬個 token，最便宜的兩毛五美元，最貴的五十塊——四十倍。但決定帳單的不只有這一欄：同一批字丟給不同家，切出來的 token 數本來就不一樣，光是換一代切詞規則，同一份中文文件就多算將近三成。
+      <description><![CDATA[每一百萬個輸入 token，最便宜的兩毛五美元，最貴的十塊——四十倍。輸出那一欄的差距是三十倍出頭。但決定帳單的不只有這一欄：同一批字丟給不同家，切出來的 token 數本來就不一樣，光是換一代切詞規則，同一份中文文件就多算將近三成。<br/><br/>九顆模型怎麼排成三個等級、Anthropic 為什麼一家就佔掉旗艦這一階的兩格、Gemini 為什麼在兩個等級都是最便宜的那一顆卻不站在第三格上。<br/><br/>還有價目表首頁不會列的那幾筆：資料落地的一成溢價、快車道的兩倍價、模型自己上網查一趟就跳表的搜尋費。最後給你一個三步的比價順序，第一步不是打開價目表。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>每一百萬個輸入 token，最便宜的兩毛五美元，最貴的十塊——四十倍。輸出那一欄的差距是三十倍出頭。但決定帳單的不只有這一欄：同一批字丟給不同家，切出來的 token 數本來就不一樣，光是換一代切詞規則，同一份中文文件就多算將近三成。
 
 九顆模型怎麼排成三個等級、Anthropic 為什麼一家就佔掉旗艦這一階的兩格、Gemini 為什麼在兩個等級都是最便宜的那一顆卻不站在第三格上。
 
@@ -448,16 +448,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP04｜Codex 不是「桌面版 ChatGPT」！不會寫程式也能養出一個 AI 員工】</title>
+      <title>【EP04｜Codex 會自己動你的資料夾——你要先決定它能動到哪裡】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[OpenAI Codex 討論度飆升，但很多人第一次聽到都誤以為它只是「桌面版 ChatGPT」。<br/><br/>這一集講清楚 Codex 跟 ChatGPT、Claude Code 的本質差異，還有非技術背景的人該怎麼安全上手。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>OpenAI Codex 討論度飆升，但很多人第一次聽到都誤以為它只是「桌面版 ChatGPT」。
+      <description><![CDATA[ChatGPT 是你上傳檔案、複製回覆；Codex 直接進你的工作資料夾，自己讀、自己改、自己存。背後可以是同一個模型——差的不是聰明程度，是它有沒有手。<br/><br/>只要牽涉到動手，就會冒出一個新問題：它可以動到哪裡為止。<br/><br/>答案要從權限的 3 段模式說起，再往下是 3 個要先設好的基本功。真正會咬人的是 2 個坑，其中一個特別反直覺——規則寫得愈完整，它反而愈笨。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>ChatGPT 是你上傳檔案、複製回覆；Codex 直接進你的工作資料夾，自己讀、自己改、自己存。背後可以是同一個模型——差的不是聰明程度，是它有沒有手。
 
-這一集講清楚 Codex 跟 ChatGPT、Claude Code 的本質差異，還有非技術背景的人該怎麼安全上手。
+只要牽涉到動手，就會冒出一個新問題：它可以動到哪裡為止。
+
+答案要從權限的 3 段模式說起，再往下是 3 個要先設好的基本功。真正會咬人的是 2 個坑，其中一個特別反直覺——規則寫得愈完整，它反而愈笨。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>OpenAI Codex, Claude Code, AI Agent, AGENTS markdown, 上下文工程, 非工程師用AI</itunes:keywords>
+      <itunes:keywords>OpenAI Codex, AI Agent, Claude Code, AGENTS markdown, 權限管理, 上下文工程, AI 導入</itunes:keywords>
       <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP04-openai-codex-intro.mp3" length="16469725" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep04</guid>
@@ -467,16 +469,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP02｜你付的 $20，其實只還了一成帳？AI 訂閱費補貼正在燒完的真相】</title>
+      <title>【EP02｜Claude Code 用一年要 15,000 美元，訂閱只收 1,200——差額誰在付？】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[同樣一份工作量，用 API 原始計價一年要價 1.5 萬美元，訂閱制卻只收你一千多美元——這個落差誰在補貼？<br/><br/>這一集拆解 AI 訂閱費背後的燒錢邏輯，以及訂閱制未來可能漲價、降規格的兩種劇本。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>同樣一份工作量，用 API 原始計價一年要價 1.5 萬美元，訂閱制卻只收你一千多美元——這個落差誰在補貼？
+      <description><![CDATA[中間那 13,800 美元不是你賺到了，是創投跟股東的錢在墊。而墊錢的人賭的是：等你把整條工作流搬進 Claude Code 這類工具、搬到搬不回去，漲價就會變得理所當然。<br/><br/>往下拆會看到補貼的兩種結束方式：一種你要按同意，一種你不會收到任何通知。<br/><br/>聽完你會換掉一個判斷習慣——月費是這條算式裡最不會動的數字，真正該盯的是被 Agent 工作流推著往上跑的用量。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>中間那 13,800 美元不是你賺到了，是創投跟股東的錢在墊。而墊錢的人賭的是：等你把整條工作流搬進 Claude Code 這類工具、搬到搬不回去，漲價就會變得理所當然。
 
-這一集拆解 AI 訂閱費背後的燒錢邏輯，以及訂閱制未來可能漲價、降規格的兩種劇本。
+往下拆會看到補貼的兩種結束方式：一種你要按同意，一種你不會收到任何通知。
+
+聽完你會換掉一個判斷習慣——月費是這條算式裡最不會動的數字，真正該盯的是被 Agent 工作流推著往上跑的用量。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>AI Token 成本, AI 訂閱費, Claude Code, Agentic AI, Token 稅, AI 定價</itunes:keywords>
+      <itunes:keywords>AI 訂閱費, Token 成本, Agentic 工作流, Token 稅, Claude Code, AI 定價, 用量監控</itunes:keywords>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP02-ai-token-real-cost.mp3" length="15794512" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep02</guid>
@@ -486,16 +490,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP03｜修一個 bug 燒掉 200 萬 Token？拆解 AI「自迴歸」燒錢的底層真相】</title>
+      <title>【EP03｜Coding Agent 讀了 200 萬 token，只寫出 47,000——你付的是重看的次數】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[為什麼聊天機器人用起來便宜，一接上 Coding Agent 帳單就爆炸？<br/><br/>這一集從語言模型「自迴歸」的底層運作原理講起，帶你看懂 Token 用量為什麼會隨工具呼叫非線性放大。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>為什麼聊天機器人用起來便宜，一接上 Coding Agent 帳單就爆炸？
+      <description><![CDATA[那 200 萬不是他打的字。是 Agent 自己讀進來的檔案，加上它每一步反覆帶著的上下文——讀進去的 token 數量，是寫出來的 40 倍以上。<br/><br/>原因在模型的運作方式：它每寫一個字，都要把目前為止的全部內容重新看一遍。所以每一個被讀進來的檔案，都不是讀完就丟，而是被後面每一步重看一次。<br/><br/>往下拆會看到這條線怎麼愈走愈陡、為什麼 KV Caching 壓不住它，以及在帳單出來之前該盯哪一個數字。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>那 200 萬不是他打的字。是 Agent 自己讀進來的檔案，加上它每一步反覆帶著的上下文——讀進去的 token 數量，是寫出來的 40 倍以上。
 
-這一集從語言模型「自迴歸」的底層運作原理講起，帶你看懂 Token 用量為什麼會隨工具呼叫非線性放大。
+原因在模型的運作方式：它每寫一個字，都要把目前為止的全部內容重新看一遍。所以每一個被讀進來的檔案，都不是讀完就丟，而是被後面每一步重看一次。
+
+往下拆會看到這條線怎麼愈走愈陡、為什麼 KV Caching 壓不住它，以及在帳單出來之前該盯哪一個數字。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>自迴歸, Coding Agent, Token 是什麼, KV Caching, AI 成本, GitHub Copilot</itunes:keywords>
+      <itunes:keywords>Coding Agent, 自迴歸, Token 用量, KV Caching, GitHub Copilot, 上下文成本, AI 開發成本</itunes:keywords>
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP03-autoregressive-coding-agent-cost.mp3" length="17805732" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep03</guid>
@@ -505,16 +511,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP01｜太會抓資安漏洞，反而不敢馬上上架？Claude Fable 5 差點被雪藏的真相】</title>
+      <title>【EP01｜你指定 Fable 5，回答你的可能是 Opus 4.8】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。<br/><br/>這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>Anthropic 最新旗艦模型 Claude Fable 5，正式發布前竟因為「太會挖資安漏洞」而被雪藏測試。
+      <description><![CDATA[今年 6 月，Anthropic 公開了一個原本鎖在內部的模型。理由不是它不夠好，是它太會挖資安漏洞。<br/><br/>讓它能夠公開的方法，是在它前面加了一道分流：某些請求進來，系統不一定交給你指定的模型。這一集拆解那道分流什麼時候會觸發、哪些應用最容易碰到，以及在正式串接之前該先確認什麼。<br/><br/>還會把一條界線畫清楚——分流機制是官方講的，至於分流之後怎麼計費，官方到目前為止沒有給答案。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>今年 6 月，Anthropic 公開了一個原本鎖在內部的模型。理由不是它不夠好，是它太會挖資安漏洞。
 
-這一集拆解它的安全分流機制——為什麼你的請求可能被悄悄轉給另一顆模型處理，對開發者的 Token 預算又有什麼影響。
+讓它能夠公開的方法，是在它前面加了一道分流：某些請求進來，系統不一定交給你指定的模型。這一集拆解那道分流什麼時候會觸發、哪些應用最容易碰到，以及在正式串接之前該先確認什麼。
+
+還會把一條界線畫清楚——分流機制是官方講的，至於分流之後怎麼計費，官方到目前為止沒有給答案。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>Claude Fable 5, Anthropic, AI 模型安全, Token 成本, AI Agent, 資安</itunes:keywords>
+      <itunes:keywords>Claude Fable 5, Anthropic, 安全分流, 模型路由, AI 模型選型, API 串接, AI 治理</itunes:keywords>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep01</guid>
