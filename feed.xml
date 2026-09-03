@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 03 Sep 2026 06:44:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 07:02:31 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -524,9 +524,9 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude Fable 5, Anthropic, 安全分流, 模型路由, AI 模型選型, API 串接, AI 治理</itunes:keywords>
       <pubDate>Thu, 06 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.mp3" length="14717431" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP01-claude-fable-5.r2.mp3" length="7039148" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep01</guid>
-      <itunes:duration>10:13</itunes:duration>
+      <itunes:duration>8:08</itunes:duration>
       <itunes:episode>01</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
