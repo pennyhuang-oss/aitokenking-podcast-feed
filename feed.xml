@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 03 Sep 2026 07:27:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 08:39:45 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -410,16 +410,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP06｜同一個任務，帳單從 22 美元砍到 3.76：5 招把 AI Coding 成本打下來】</title>
+      <title>【EP06｜Fable 5 開低檔就略勝 Opus 4.8 全開，預設值卻站在貴的那一端】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[不用換模型，同一顆 Claude Fable 5，用得聰明就能把帳單砍下八成。<br/><br/>這一集整理 5 個實測有效的省 Token 技巧，從調降思考等級到多模型分工，通通講給你聽。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>不用換模型，同一顆 Claude Fable 5，用得聰明就能把帳單砍下八成。
+      <description><![CDATA[一份長時程 agentic 任務的 benchmark，只換一個設定：思考等級開在 max，平均每個任務 22 美元；同一批任務降到 low，只剩 3.76 美元。<br/><br/>分數那一欄更反常。Fable 5 跑 low 的通過率約 60%，Opus 4.8 開到 max 約 59%，便宜的那一邊還略高一點。而這類模型的預設值，本來就跑在高等級。<br/><br/>整套方法收斂成一句話：別讓最貴的模型從頭包到尾。可以直接動的順序在這裡——哪個設定先降、哪些工作往便宜模型丟、Advisor 模式最容易設反的是哪一步，還有那個「便宜 22%」的第三方 skill 為什麼要自己先驗一次。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一份長時程 agentic 任務的 benchmark，只換一個設定：思考等級開在 max，平均每個任務 22 美元；同一批任務降到 low，只剩 3.76 美元。
 
-這一集整理 5 個實測有效的省 Token 技巧，從調降思考等級到多模型分工，通通講給你聽。
+分數那一欄更反常。Fable 5 跑 low 的通過率約 60%，Opus 4.8 開到 max 約 59%，便宜的那一邊還略高一點。而這類模型的預設值，本來就跑在高等級。
+
+整套方法收斂成一句話：別讓最貴的模型從頭包到尾。可以直接動的順序在這裡——哪個設定先降、哪些工作往便宜模型丟、Advisor 模式最容易設反的是哪一步，還有那個「便宜 22%」的第三方 skill 為什麼要自己先驗一次。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>Claude Fable 5, 省 Token 技巧, AI Coding 成本, effort level, 多模型分工, KV Caching</itunes:keywords>
+      <itunes:keywords>Claude Fable 5, Opus 4.8, effort level, 思考等級, AI Coding 成本, 省 Token, 多模型分工, Advisor 模式</itunes:keywords>
       <pubDate>Thu, 13 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP06-cut-ai-coding-token-cost.mp3" length="15455965" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep06</guid>
@@ -429,20 +431,22 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP05｜更省 Token，帳單卻更貴？Opus 4.8 對決 Fable 5 的反直覺實測】</title>
+      <title>【EP05｜Fable 5 省下的 Token，沒有變成省下的錢】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[一場近 90 萬觀看的實測影片，讓 Opus 4.8 與 Claude Fable 5 用完全一樣的指令做同一個 App。<br/><br/>結果最耐人尋味的不是誰做得漂亮，而是「省 Token 卻更貴帳單」這個反直覺現象。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>一場近 90 萬觀看的實測影片，讓 Opus 4.8 與 Claude Fable 5 用完全一樣的指令做同一個 App。
+      <description><![CDATA[一支近 90 萬觀看的實測影片，把逐字相同的指令同時丟給 Opus 4.8 和 Fable 5，一次成形、不修改、直接部署上線。三個專案打完，Fable 5 全贏。<br/><br/>反常的在成本那一欄：3D 美術館那一場，Fable 5 的輸出 Token 比 Opus 4.8 少了 15 萬個以上，換算成本卻反而貴了約 37%。<br/><br/>差別在一張帳單其實有兩個數字：用量，跟單價。這場實測只有用量那一欄變好。聽完你會知道選型時這兩個數字各該怎麼算，還有為什麼能力差距夠大的時候，貴一點反而可能是省的。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一支近 90 萬觀看的實測影片，把逐字相同的指令同時丟給 Opus 4.8 和 Fable 5，一次成形、不修改、直接部署上線。三個專案打完，Fable 5 全贏。
 
-結果最耐人尋味的不是誰做得漂亮，而是「省 Token 卻更貴帳單」這個反直覺現象。
+反常的在成本那一欄：3D 美術館那一場，Fable 5 的輸出 Token 比 Opus 4.8 少了 15 萬個以上，換算成本卻反而貴了約 37%。
+
+差別在一張帳單其實有兩個數字：用量，跟單價。這場實測只有用量那一欄變好。聽完你會知道選型時這兩個數字各該怎麼算，還有為什麼能力差距夠大的時候，貴一點反而可能是省的。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>Opus 4.8, Claude Fable 5, 模型實測, Token 成本, AI 選型, 模型比較</itunes:keywords>
+      <itunes:keywords>Opus 4.8, Claude Fable 5, 模型實測, Token 成本, 模型選型, 用量追蹤, one-shot 實測</itunes:keywords>
       <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP05-opus-48-vs-fable-5-benchmark.mp3" length="16178826" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP05-opus-48-vs-fable-5-benchmark.r2.mp3" length="8452850" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep05</guid>
-      <itunes:duration>11:14</itunes:duration>
+      <itunes:duration>8:48</itunes:duration>
       <itunes:episode>05</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
