@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 08 Sep 2026 13:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 17:27:38 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -368,9 +368,9 @@ OpenAI 在 2026 年 7 月發表的 ChatGPT Work，由 Codex 和 GPT-5.6 共同�
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Context Engineering, 企業 AI 治理, AI Agent 風險, 權限管理, 稽核軌跡, 資料存取</itunes:keywords>
       <pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP09-context-engineering-ai-governance.mp3" length="19083433" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP09-context-engineering-ai-governance.r2.mp3" length="10357490" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep09</guid>
-      <itunes:duration>13:15</itunes:duration>
+      <itunes:duration>10:47</itunes:duration>
       <itunes:episode>09</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
