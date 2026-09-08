@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 08 Sep 2026 10:04:49 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:52:35 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜當語音客服學會被打斷，帳單也換了一把尺】</title>
@@ -315,16 +315,18 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
-      <title>【EP10｜AI 直接把簡報做完給你：ChatGPT Work 是敢不敢放手的問題】</title>
+      <title>【EP10｜等你開始評估 ChatGPT Work，它可能已經包在你公司現有的方案裡】</title>
       <link>https://www.aitokenking.com.tw/home</link>
-      <description><![CDATA[OpenAI 發表由 Codex 與 GPT-5.6 共同驅動的 ChatGPT Work，讓 AI 從「一問一答」進化到「跨工具自動把事情做完」。<br/><br/>這一集聊聊這對企業採購、資料治理跟 Token 用量估算，分別代表什麼。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
-      <itunes:summary>OpenAI 發表由 Codex 與 GPT-5.6 共同驅動的 ChatGPT Work，讓 AI 從「一問一答」進化到「跨工具自動把事情做完」。
+      <description><![CDATA[一個會自己動手把試算表、文件、簡報做完的 AI Agent，你會預期它被包成獨立的高階新產品，掛新價目、簽新合約。ChatGPT Work 沒有這樣做。<br/><br/>OpenAI 在 2026 年 7 月發表的 ChatGPT Work，由 Codex 和 GPT-5.6 共同驅動，會讀團隊已經累積的會議筆記、專案草稿、待辦清單。而它宣布的適用範圍是 macOS 和 Windows 桌面版全方案，加上 Plus、Pro、Business、Enterprise、Edu 各層級的網頁版與行動版——所以「要不要用」不會等到未來某張採購單，它現在就落在既有的 IT 與資安評估流程上。<br/><br/>所以評估的第一步不是申請開通，是問完 3 件事：它動手做事的邊界設在哪、團隊情境資料的存取與留存規則是什麼，以及 Agent 化之後 Token 用量為什麼愈來愈估不準。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一個會自己動手把試算表、文件、簡報做完的 AI Agent，你會預期它被包成獨立的高階新產品，掛新價目、簽新合約。ChatGPT Work 沒有這樣做。
 
-這一集聊聊這對企業採購、資料治理跟 Token 用量估算，分別代表什麼。
+OpenAI 在 2026 年 7 月發表的 ChatGPT Work，由 Codex 和 GPT-5.6 共同驅動，會讀團隊已經累積的會議筆記、專案草稿、待辦清單。而它宣布的適用範圍是 macOS 和 Windows 桌面版全方案，加上 Plus、Pro、Business、Enterprise、Edu 各層級的網頁版與行動版——所以「要不要用」不會等到未來某張採購單，它現在就落在既有的 IT 與資安評估流程上。
+
+所以評估的第一步不是申請開通，是問完 3 件事：它動手做事的邊界設在哪、團隊情境資料的存取與留存規則是什麼，以及 Agent 化之後 Token 用量為什麼愈來愈估不準。
 
 ———
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
-      <itunes:keywords>ChatGPT Work, OpenAI Codex, GPT-5.6, 企業級 AI Agent, AI Agent 治理, Token 用量</itunes:keywords>
+      <itunes:keywords>ChatGPT Work, OpenAI Codex, GPT-5.6, 企業級 AI Agent, AI Agent 治理, 資料存取權限, Token 用量估算, 企業採購</itunes:keywords>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP10-chatgpt-work-enterprise-agent.mp3" length="17790058" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep10</guid>
@@ -387,9 +389,9 @@ ChatGPT Voice 背後那顆 GPT Live，官方只放了半句話：語音的計費
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>自架 API, 自建還是採購, AI API 成本, 用量治理, 金鑰管理, 多模型接入平台</itunes:keywords>
       <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP08-self-host-api-vs-token-platform.mp3" length="14678561" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP08-self-host-api-vs-token-platform.r2.mp3" length="8593702" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep08</guid>
-      <itunes:duration>10:12</itunes:duration>
+      <itunes:duration>8:57</itunes:duration>
       <itunes:episode>08</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
