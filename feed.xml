@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 10 Sep 2026 10:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:00:19 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -369,9 +369,9 @@ OpenAI 在 2026 年 7 月發表的 ChatGPT Work，由 Codex 和 GPT-5.6 共同�
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Hugging Face, AI 安全護欄, 資安事件應對, GLM 5.2, 模型供應商依賴, AI Agent 治理, 企業 AI 風險</itunes:keywords>
       <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP11-huggingface-ai-agent-attack.mp3" length="20091551" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP11-huggingface-ai-agent-attack.r2.mp3" length="8054117" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep11</guid>
-      <itunes:duration>13:57</itunes:duration>
+      <itunes:duration>8:23</itunes:duration>
       <itunes:episode>11</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
