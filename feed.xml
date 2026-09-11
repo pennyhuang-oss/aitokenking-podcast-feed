@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 11 Sep 2026 10:00:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:50:43 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -306,9 +306,9 @@ Claude Sonnet 5 在 Start 等級是 1,000 RPM 配 200 萬 ITPM。如果你每次
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Software Factories, AI 開發代理平台, Microsoft Foundry, OpenAI Codex, GLM-5.2, MiniMax M3, 開源模型, 供應商依賴</itunes:keywords>
       <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP12-software-factories-debate.mp3" length="10139838" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP12-software-factories-debate.r2.mp3" length="8389738" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep12</guid>
-      <itunes:duration>12:04</itunes:duration>
+      <itunes:duration>8:44</itunes:duration>
       <itunes:episode>12</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
