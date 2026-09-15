@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 15 Sep 2026 14:29:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 17:47:13 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -222,9 +222,9 @@ Claude Sonnet 5 在 Start 等級是 1,000 RPM 配 200 萬 ITPM。如果你每次
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>AI Agent 入門, Rule of R, AGENT 五步驟, context rot, 企業 AI 治理, AI 模型成本配置, Dan Martell</itunes:keywords>
       <pubDate>Thu, 20 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP16-build-your-first-ai-agent.mp3" length="18294744" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP16-build-your-first-ai-agent.r2.mp3" length="9254496" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep16</guid>
-      <itunes:duration>12:42</itunes:duration>
+      <itunes:duration>9:38</itunes:duration>
       <itunes:episode>16</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
