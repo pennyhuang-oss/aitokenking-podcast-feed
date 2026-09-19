@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 18 Sep 2026 17:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:43:39 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -142,9 +142,9 @@
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>歐盟 AI 法案, AI Act, GPAI, 通用型 AI 模型, 透明度規則, 深偽標示, AI 合規, 模型供應商</itunes:keywords>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP20-eu-ai-act-enforcement.mp3" length="9355642" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP20-eu-ai-act-enforcement.r2.mp3" length="8485451" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep20</guid>
-      <itunes:duration>9:45</itunes:duration>
+      <itunes:duration>8:50</itunes:duration>
       <itunes:episode>20</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
