@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 19 Sep 2026 09:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 10:38:20 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -163,9 +163,9 @@ Claude Sonnet 5 在 Start 等級是 1,000 RPM 配 200 萬 ITPM。如果你每次
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>Claude API, Usage Tier, Rate Limit, Spend Limit, Prompt Caching, Workspace, ITPM, 企業 AI 導入</itunes:keywords>
       <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP21-claude-api-usage-governance.mp3" length="14948354" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP21-claude-api-usage-governance.r2.mp3" length="13824044" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep21</guid>
-      <itunes:duration>15:34</itunes:duration>
+      <itunes:duration>14:24</itunes:duration>
       <itunes:episode>21</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
