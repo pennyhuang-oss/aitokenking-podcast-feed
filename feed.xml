@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 21 Sep 2026 18:55:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:08:42 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -81,9 +81,9 @@
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>API 定價, Claude, GPT, Gemini, Tokenizer, Token 計費, 模型選型, AI 成本管理</itunes:keywords>
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP25-claude-vs-gpt-vs-gemini-api-pricing.mp3" length="12229947" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP25-claude-vs-gpt-vs-gemini-api-pricing.r2.mp3" length="11032912" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep25</guid>
-      <itunes:duration>12:44</itunes:duration>
+      <itunes:duration>11:30</itunes:duration>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
