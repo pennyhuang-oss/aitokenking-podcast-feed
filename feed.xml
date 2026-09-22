@@ -23,7 +23,7 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 07:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 07:37:38 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
@@ -39,9 +39,9 @@
 本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
       <itunes:keywords>ChatGPT Voice, GPT Live, 語音 AI, API 計費, AI 客服, 通話時長計費, 用量上限, AI 成本評估</itunes:keywords>
       <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP26-chatgpt-voice-gpt-live-pricing.mp3" length="11230607" type="audio/mpeg" />
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP26-chatgpt-voice-gpt-live-pricing.r2.mp3" length="7506173" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep26</guid>
-      <itunes:duration>11:42</itunes:duration>
+      <itunes:duration>7:49</itunes:duration>
       <itunes:episode>26</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
