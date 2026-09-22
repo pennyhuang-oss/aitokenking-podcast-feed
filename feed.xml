@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 07:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 08:03:05 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP27｜你把 AI 用量的浪費修光，帳單還是有一段消不掉】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[模型每年都在降價，這是真的。你們公司那張 AI 用量帳單一路變厚，這也是真的。三年前它可能還不是一個支出項目，現在的占比可能已經快追上原本的雲端主機費。沒有人算錯。<br/><br/>那段差額在史丹佛線上 7 月 23 日放上去的一場講座裡，題目叫 The GPU Economy。卡住這一輪 AI 的不是演算法，是跑得動模型的運算晶片；而你付出去的 1 塊錢，要一路分給雲端業者、資料中心跟晶片廠，還有電費、散熱、硬體折舊，以及當初簽下去的採購合約。講座管這一整段供不應求叫超級周期。<br/><br/>往下拆會看到 2 條分開走的曲線，以及帳單變厚時該做的第一個動作：分堆。一堆是你自己修得掉的浪費，重複的上下文、該用便宜模型卻整批丟給貴的；一堆是修不掉的市場行情，那堆要用預算緩衝去接，不用拿去檢討工程團隊。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>模型每年都在降價，這是真的。你們公司那張 AI 用量帳單一路變厚，這也是真的。三年前它可能還不是一個支出項目，現在的占比可能已經快追上原本的雲端主機費。沒有人算錯。
+
+那段差額在史丹佛線上 7 月 23 日放上去的一場講座裡，題目叫 The GPU Economy。卡住這一輪 AI 的不是演算法，是跑得動模型的運算晶片；而你付出去的 1 塊錢，要一路分給雲端業者、資料中心跟晶片廠，還有電費、散熱、硬體折舊，以及當初簽下去的採購合約。講座管這一整段供不應求叫超級周期。
+
+往下拆會看到 2 條分開走的曲線，以及帳單變厚時該做的第一個動作：分堆。一堆是你自己修得掉的浪費，重複的上下文、該用便宜模型卻整批丟給貴的；一堆是修不掉的市場行情，那堆要用預算緩衝去接，不用拿去檢討工程團隊。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI 算力成本, GPU 經濟, 算力供需, 超級周期, AI 帳單, 雲端成本, 成本歸因, AI 預算規劃</itunes:keywords>
+      <pubDate>Tue, 22 Sep 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP27-why-ai-compute-is-so-expensive.mp3" length="6663567" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep27</guid>
+      <itunes:duration>6:56</itunes:duration>
+      <itunes:episode>27</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP26｜計價的 3 個問題，GPT Live 的官方示範影片一個都沒答】</title>
       <link>https://www.aitokenking.com.tw/home</link>
