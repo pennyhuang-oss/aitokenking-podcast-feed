@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 22 Sep 2026 08:03:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 00:42:46 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP28｜Gmail、Notion、Jira 都接上了，模型還是得被你手把手教一遍】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一個管客服工單的 AI Agent，接上 Gmail、Notion、Jira 之後，每一次呼叫都得先送一段東西出去：工程師寫的那份工具使用說明。那段字要塞進上下文視窗，而上下文視窗裡的每一段內容，都會被算進這一次呼叫的 Token 消耗。工具愈多、鏈路愈長，這筆固定開銷就愈厚，而它跟客戶的問題一點關係都沒有。<br/><br/>Google Cloud Tech 那支影片點出的結論很直白：該更乾淨的是協定，不是把上下文視窗撐得更大。MCP 把前提反過來，不再由工程師一個端點一個端點教模型，而是讓每個工具用一份機器讀得懂的描述，自己說明能做什麼、要什麼輸入、回什麼輸出。<br/><br/>這集也把 MCP 現在撐不起的 3 個地方講清楚：生態系普及度還在早期、模型能直接動手帶來的權限風險、以及開發者從「端點跟路由」換成「能力跟上下文」的思維轉換。最後留一句可以直接拿去問供應商的話。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一個管客服工單的 AI Agent，接上 Gmail、Notion、Jira 之後，每一次呼叫都得先送一段東西出去：工程師寫的那份工具使用說明。那段字要塞進上下文視窗，而上下文視窗裡的每一段內容，都會被算進這一次呼叫的 Token 消耗。工具愈多、鏈路愈長，這筆固定開銷就愈厚，而它跟客戶的問題一點關係都沒有。
+
+Google Cloud Tech 那支影片點出的結論很直白：該更乾淨的是協定，不是把上下文視窗撐得更大。MCP 把前提反過來，不再由工程師一個端點一個端點教模型，而是讓每個工具用一份機器讀得懂的描述，自己說明能做什麼、要什麼輸入、回什麼輸出。
+
+這集也把 MCP 現在撐不起的 3 個地方講清楚：生態系普及度還在早期、模型能直接動手帶來的權限風險、以及開發者從「端點跟路由」換成「能力跟上下文」的思維轉換。最後留一句可以直接拿去問供應商的話。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>MCP, Model Context Protocol, API 整合, AI Agent, Token 成本, 上下文視窗, 工具呼叫, AI 採購評估</itunes:keywords>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP28-mcp-vs-api-ai-agent-token-efficiency.mp3" length="10281422" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep28</guid>
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:episode>28</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP27｜你把 AI 用量的浪費修光，帳單還是有一段消不掉】</title>
       <link>https://www.aitokenking.com.tw/home</link>
