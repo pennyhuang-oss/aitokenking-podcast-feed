@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 01 Oct 2026 00:42:46 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 01:02:16 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP29｜別再比模型聰明了，你在跟一列每 6 個月免費改款的火車賽跑】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[那一年，賣算力的半導體公司股價漲了十幾倍，做資料庫的公司卻一度腰斬。同樣搭上 AI，一邊被抬起來，一邊被壓下去。<br/><br/>TiDB 的唐劉是 PingCAP 一號員工，這家公司估值 30 億美金，客戶是 Kimi、Dify 這種第一線 AI 公司。他那句話就是一把尺：你今天解決的問題，6 個月後可能直接變成模型的原生能力，所以要問「模型越強，你的價值是越大還是越小」。<br/><br/>唐劉點名的護城河有 4 種，沒有一種叫「功能更聰明」；而客戶往往最願意掏錢的，正是安全、權限、可稽核、合規、出事能回復這一層。最後留 3 個問題給你，今天晚上就問得完。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>那一年，賣算力的半導體公司股價漲了十幾倍，做資料庫的公司卻一度腰斬。同樣搭上 AI，一邊被抬起來，一邊被壓下去。
+
+TiDB 的唐劉是 PingCAP 一號員工，這家公司估值 30 億美金，客戶是 Kimi、Dify 這種第一線 AI 公司。他那句話就是一把尺：你今天解決的問題，6 個月後可能直接變成模型的原生能力，所以要問「模型越強，你的價值是越大還是越小」。
+
+唐劉點名的護城河有 4 種，沒有一種叫「功能更聰明」；而客戶往往最願意掏錢的，正是安全、權限、可稽核、合規、出事能回復這一層。最後留 3 個問題給你，今天晚上就問得完。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI 護城河, 被模型吃掉, 唐劉, PingCAP, TiDB, AI 產品策略, 企業 AI 合規, 私有資料與上下文</itunes:keywords>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP29-will-strong-models-eat-your-ai-product.mp3" length="8041578" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep29</guid>
+      <itunes:duration>8:23</itunes:duration>
+      <itunes:episode>29</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP28｜Gmail、Notion、Jira 都接上了，模型還是得被你手把手教一遍】</title>
       <link>https://www.aitokenking.com.tw/home</link>
