@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 02 Oct 2026 01:02:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 00:39:15 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP30｜練一次 7,500 萬美元，模型為什麼學會了講不停】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[同一個 GPT-4，能力一個字都沒多。研究團隊只在提示詞裡加一句「回答詳細一點」，它的勝率就從 50% 衝到 64.4%；改成「簡潔一點」，掉到 20%。字多分數就高，字少分數就低。<br/><br/>打分數的是人，而人類標註者自己前後兩次判斷的一致率大約只有 66%，還普遍偏好長答案。史丹佛 CS229 那場客座演講把 ChatGPT、Claude 這類模型的產線走了一遍：Llama 3 400B 練一次，約 1.66 萬張 H100 跑約 70 天、7,500 萬美元上下，而決定它話多話少的，是產線最後那道打分數的工序。<br/><br/>切字規則怎麼決定同一段文字被算幾個 token，會直接反映在你的用量計費上；另外兩件是業界為什麼刻意把模型訓得比理論值小，以及幻覺長在哪一道工序上、哪些輸出因此不能沒人看過就送出去。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>同一個 GPT-4，能力一個字都沒多。研究團隊只在提示詞裡加一句「回答詳細一點」，它的勝率就從 50% 衝到 64.4%；改成「簡潔一點」，掉到 20%。字多分數就高，字少分數就低。
+
+打分數的是人，而人類標註者自己前後兩次判斷的一致率大約只有 66%，還普遍偏好長答案。史丹佛 CS229 那場客座演講把 ChatGPT、Claude 這類模型的產線走了一遍：Llama 3 400B 練一次，約 1.66 萬張 H100 跑約 70 天、7,500 萬美元上下，而決定它話多話少的，是產線最後那道打分數的工序。
+
+切字規則怎麼決定同一段文字被算幾個 token，會直接反映在你的用量計費上；另外兩件是業界為什麼刻意把模型訓得比理論值小，以及幻覺長在哪一道工序上、哪些輸出因此不能沒人看過就送出去。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>LLM 訓練, 預訓練, RLHF, Tokenizer, Scaling Laws, Chinchilla, AI 幻覺, 模型評估偏誤</itunes:keywords>
+      <pubDate>Sat, 03 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP30-how-are-ai-models-trained.mp3" length="16937422" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep30</guid>
+      <itunes:duration>17:39</itunes:duration>
+      <itunes:episode>30</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP29｜別再比模型聰明了，你在跟一列每 6 個月免費改款的火車賽跑】</title>
       <link>https://www.aitokenking.com.tw/home</link>
