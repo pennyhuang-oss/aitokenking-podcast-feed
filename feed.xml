@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 03 Oct 2026 00:39:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 00:00:41 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP31｜37.7 億 Token 裡有將近 96% 是早就付過錢的舊對話】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一個工作天，追蹤器記到 37.7 億 token 流過去，其中 35.9 億是「重複輸入」，也就是已經送過、也已經付過錢的舊對話，這一輪又被完整送了一次。攤開這份紀錄的是固定產出 AI 教學內容的創作者 Nate B. Jones，他那天開了 143 個獨立對話串，而他自己說，沒有人打得出 37.7 億個字。<br/><br/>機制在於 LLM 對話沒有真正的記憶：每按一次 Enter，整段歷史都會被重新打包、從頭送一次。到了第 30 句，你這次真正打的字只是帳上的零頭。最基本那一層的省法是 3 個不用裝任何工具的習慣：任務換了就換對話、只帶走結果不要搬走整段推理、別把整份 PDF 整包丟過去讓模型自己找重點。<br/><br/>還有一塊跟你打什麼字無關。Anthropic 公開資料裡一個接了 GitHub、Slack、Sentry、Grafana 的典型設定，光把工具說明書送進上下文，在模型還沒開始做事之前就可能花掉約 5.5 萬 token，而且只要沒有做快取，每一輪都要重算一次錢。OpenAI 的壓縮與 Anthropic 的上下文編輯幫得上忙，但它們留下的是近似版本，不是完整脈絡。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一個工作天，追蹤器記到 37.7 億 token 流過去，其中 35.9 億是「重複輸入」，也就是已經送過、也已經付過錢的舊對話，這一輪又被完整送了一次。攤開這份紀錄的是固定產出 AI 教學內容的創作者 Nate B. Jones，他那天開了 143 個獨立對話串，而他自己說，沒有人打得出 37.7 億個字。
+
+機制在於 LLM 對話沒有真正的記憶：每按一次 Enter，整段歷史都會被重新打包、從頭送一次。到了第 30 句，你這次真正打的字只是帳上的零頭。最基本那一層的省法是 3 個不用裝任何工具的習慣：任務換了就換對話、只帶走結果不要搬走整段推理、別把整份 PDF 整包丟過去讓模型自己找重點。
+
+還有一塊跟你打什麼字無關。Anthropic 公開資料裡一個接了 GitHub、Slack、Sentry、Grafana 的典型設定，光把工具說明書送進上下文，在模型還沒開始做事之前就可能花掉約 5.5 萬 token，而且只要沒有做快取，每一輪都要重算一次錢。OpenAI 的壓縮與 Anthropic 的上下文編輯幫得上忙，但它們留下的是近似版本，不是完整脈絡。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 用量, 重複輸入, Claude Code, MCP 工具, Context Window, 對話管理, Token 成本, 上下文編輯</itunes:keywords>
+      <pubDate>Sun, 04 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP31-how-to-avoid-hitting-ai-token-usage-limits.mp3" length="9572145" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep31</guid>
+      <itunes:duration>9:58</itunes:duration>
+      <itunes:episode>31</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP30｜練一次 7,500 萬美元，模型為什麼學會了講不停】</title>
       <link>https://www.aitokenking.com.tw/home</link>
