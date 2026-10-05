@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 04 Oct 2026 00:00:41 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 00:06:06 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP32｜模型只回你 5,000 個 Token，比你丟進去的 20,000 個還貴一半】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[用 OpenAI 官方列的 GPT-5.4 mini 單價實際算一次：輸入那 20,000 個 token 是 1.5 美分，輸出那 5,000 個是 2.25 美分。三家模型的輸出單價，都是自己輸入單價的 5 到 6 倍——所以帳單的重心往往落在模型回你的那一邊，不是你丟進去的那一邊。<br/><br/>同一組用量換 Claude Haiku 4.5 是 4.5 美分，換 Gemini 一個 200k token 以內的價位段是 10 美分。算式只有三步，難的是那幾筆沒有印在首頁價目表上的錢：某些模型長上下文跨過 200k 會整段跳價、網頁搜尋按次收 10 美元 / 1,000 次、快取讀取大約只要標準輸入的 1/10、批次半價但要接受非同步、最長 24 小時。<br/><br/>最後是錢怎麼離開帳戶。先儲值把上限鎖住，還是月底結一張帳單？兩種模式的失敗長得很像：你都要等到某個時間點，才知道已經花掉多少。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>用 OpenAI 官方列的 GPT-5.4 mini 單價實際算一次：輸入那 20,000 個 token 是 1.5 美分，輸出那 5,000 個是 2.25 美分。三家模型的輸出單價，都是自己輸入單價的 5 到 6 倍——所以帳單的重心往往落在模型回你的那一邊，不是你丟進去的那一邊。
+
+同一組用量換 Claude Haiku 4.5 是 4.5 美分，換 Gemini 一個 200k token 以內的價位段是 10 美分。算式只有三步，難的是那幾筆沒有印在首頁價目表上的錢：某些模型長上下文跨過 200k 會整段跳價、網頁搜尋按次收 10 美元 / 1,000 次、快取讀取大約只要標準輸入的 1/10、批次半價但要接受非同步、最長 24 小時。
+
+最後是錢怎麼離開帳戶。先儲值把上限鎖住，還是月底結一張帳單？兩種模式的失敗長得很像：你都要等到某個時間點，才知道已經花掉多少。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 計價, 成本估算, Input Token, Output Token, Prompt Caching, Batch API, 長上下文計價, 預付制, 後付制</itunes:keywords>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP32-ai-token-pricing-and-cost-control.mp3" length="12721049" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep32</guid>
+      <itunes:duration>13:15</itunes:duration>
+      <itunes:episode>32</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP31｜37.7 億 Token 裡有將近 96% 是早就付過錢的舊對話】</title>
       <link>https://www.aitokenking.com.tw/home</link>
