@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 05 Oct 2026 00:06:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 01:51:44 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP33｜每天早上 8 點半自己開工的那個排程，用的是哪一級的模型？】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一支 AI Agent 趨勢影片裡提到的個案：最頂配的模型，單靠對話做出一個手機 App，前後約 9 到 10 次對話，燒掉數百美元。這是影片提到的個案分享，不是官方定價。<br/><br/>同一支影片講的 6 個趨勢，前 4 個都在把「開始做一件事」的門檻往下壓：咒語式的提示詞退場、跑順的流程存成 Skills 一句話重做、Claude Cowork 跟 Codex 把文件簡報程式收進同一個介面、排程設好就每天自己開工，連 Zapier 那種觸發器都不用學。同一支影片還提到兩件跟錢有關的事：前沿模型仍然很貴，開源模型正在追上來，網頁設計這類日常工作差距不大，價格卻可能只是零頭。<br/><br/>門檻降低的是啟動，不是花費。挑哪一級的模型，是設定畫面上順手的一下，沒有任何一個趨勢會替你決定。往下是那張兩欄分級表的判斷標準，還有它為什麼要在排程上線之前填好。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一支 AI Agent 趨勢影片裡提到的個案：最頂配的模型，單靠對話做出一個手機 App，前後約 9 到 10 次對話，燒掉數百美元。這是影片提到的個案分享，不是官方定價。
+
+同一支影片講的 6 個趨勢，前 4 個都在把「開始做一件事」的門檻往下壓：咒語式的提示詞退場、跑順的流程存成 Skills 一句話重做、Claude Cowork 跟 Codex 把文件簡報程式收進同一個介面、排程設好就每天自己開工，連 Zapier 那種觸發器都不用學。同一支影片還提到兩件跟錢有關的事：前沿模型仍然很貴，開源模型正在追上來，網頁設計這類日常工作差距不大，價格卻可能只是零頭。
+
+門檻降低的是啟動，不是花費。挑哪一級的模型，是設定畫面上順手的一下，沒有任何一個趨勢會替你決定。往下是那張兩欄分級表的判斷標準，還有它為什麼要在排程上線之前填好。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Agent 趨勢, Token Budget, 模型分級, Skills, 背景自動化, Claude Cowork, 開源模型, AI 成本控管</itunes:keywords>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP33-ai-agent-trends-token-budget.mp3" length="8229660" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep33</guid>
+      <itunes:duration>8:34</itunes:duration>
+      <itunes:episode>33</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP32｜模型只回你 5,000 個 Token，比你丟進去的 20,000 個還貴一半】</title>
       <link>https://www.aitokenking.com.tw/home</link>
