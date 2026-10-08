@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 07 Oct 2026 00:56:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 01:12:43 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP35｜英文 1 個 Token 等於 4 個字元，中文那一欄官方沒填】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[官方文件把英文那一欄填得很滿，4 個數字：1 個 token 大約 4 個字元、大約 3/4 個英文單字，100 tokens 大約 75 個英文單字，Google 給的是 60 到 80。但 OpenAI 同一份說明問到中文，只剩一句「非英文通常有更高的 token 比率」，沒有任何比例。<br/><br/>往回退一格看，那個被拿來乘的單位本身是什麼：你手上那串 API 金鑰為什麼一般不會用完、你自己數的字數為什麼推不回帳上的數字、以及系統提示、貼進去的背景資料、前面每一輪對話、模型自己回你的話，這四項為什麼全部都在收錢。<br/><br/>三個可以看到真實數字的地方，最準的那一個就藏在每一次 API 回應裡。還有一個當天就做得完的動作：拿你真的每天在送的那一種文字量一次，換算出一個屬於你們公司的比例。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>官方文件把英文那一欄填得很滿，4 個數字：1 個 token 大約 4 個字元、大約 3/4 個英文單字，100 tokens 大約 75 個英文單字，Google 給的是 60 到 80。但 OpenAI 同一份說明問到中文，只剩一句「非英文通常有更高的 token 比率」，沒有任何比例。
+
+往回退一格看，那個被拿來乘的單位本身是什麼：你手上那串 API 金鑰為什麼一般不會用完、你自己數的字數為什麼推不回帳上的數字、以及系統提示、貼進去的背景資料、前面每一輪對話、模型自己回你的話，這四項為什麼全部都在收錢。
+
+三個可以看到真實數字的地方，最準的那一個就藏在每一次 API 回應裡。還有一個當天就做得完的動作：拿你真的每天在送的那一種文字量一次，換算出一個屬於你們公司的比例。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token, Tokenizer, API 金鑰, Token 換算, 中文 Token, 輸入 Token, 輸出 Token, Context Window, AI 成本入門</itunes:keywords>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP35-ai-token-basics.mp3" length="11012014" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep35</guid>
+      <itunes:duration>11:28</itunes:duration>
+      <itunes:episode>35</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP34｜AI Agent 根本沒點開你寫的那份技能】</title>
       <link>https://www.aitokenking.com.tw/home</link>
