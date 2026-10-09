@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 08 Oct 2026 01:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:22:24 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP36｜Altman 說推理需求每年 10 倍，你的帳單為什麼一直很正常】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2005 年要花 3 個月的一項開發工作，現在交給 AI Agent 大概 7 分鐘跑完；全球 AI 推理需求未來好幾年會維持每年 10 倍成長；到 2032 年，每個人每個月會用掉 5,000 億個 Token。這是 Sam Altman 在 Y Combinator 2026 Startup School 閉幕對談上丟出來的 3 個數字，全部是他個人的回顧與預測，沒有任何機構統計過。<br/><br/>那你上個月用掉多少 Token？答案要從你那筆每個月自動扣掉的訂閱費說起。它一直看起來很正常，靠的是一個沒有明說的假設：用量成長的速度，剛好落在方案的彈性範圍內。假設被打破的那個月之前，帳單都很正常。<br/><br/>5,000 億攤到每一天大約 167 億，而一個重度使用者整整一個工作天是 37.7 億。最陽春的一張共用試算表、2 個欄位，今天晚上就開得起來；還有它為什麼非得在帳單出事之前開。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2005 年要花 3 個月的一項開發工作，現在交給 AI Agent 大概 7 分鐘跑完；全球 AI 推理需求未來好幾年會維持每年 10 倍成長；到 2032 年，每個人每個月會用掉 5,000 億個 Token。這是 Sam Altman 在 Y Combinator 2026 Startup School 閉幕對談上丟出來的 3 個數字，全部是他個人的回顧與預測，沒有任何機構統計過。
+
+那你上個月用掉多少 Token？答案要從你那筆每個月自動扣掉的訂閱費說起。它一直看起來很正常，靠的是一個沒有明說的假設：用量成長的速度，剛好落在方案的彈性範圍內。假設被打破的那個月之前，帳單都很正常。
+
+5,000 億攤到每一天大約 167 億，而一個重度使用者整整一個工作天是 37.7 億。最陽春的一張共用試算表、2 個欄位，今天晚上就開得起來；還有它為什麼非得在帳單出事之前開。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Sam Altman, Y Combinator, Startup School, Token 用量, 用量可見度, AI 推理需求, AI 成本管理, 新創團隊</itunes:keywords>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP36-altman-token-forecast-usage-blindspot.mp3" length="10492073" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep36</guid>
+      <itunes:duration>10:56</itunes:duration>
+      <itunes:episode>36</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP35｜英文 1 個 Token 等於 4 個字元，中文那一欄官方沒填】</title>
       <link>https://www.aitokenking.com.tw/home</link>
