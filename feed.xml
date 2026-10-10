@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 09 Oct 2026 01:22:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 01:07:59 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP37｜Claude Pro 不含 API 用量，那條線你什麼時候跨過去的】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Anthropic 的說明頁寫得很硬：Claude Pro 一個月 20 美元，不包含 API usage。OpenAI 那邊也是兩張分開的頁，ChatGPT 方案價格一張、API 定價一張。同一家公司，收錢的地方有兩個。<br/><br/>那條線畫在哪？不在你用得多不多，在「是人在用，還是系統在用」。而跨過去之後的第一步也不是挑模型：OpenAI、Claude、Gemini 三家的入門文件，開頭寫的都是同一件事，先建 API Key、送出第一個請求，然後看回傳裡的 input、output、total 這 3 個數字。那是第一個屬於你自己的數字。<br/><br/>往下是兩張欄位數不一樣的價目表。OpenAI 列 input、cached input、output 3 欄，GPT-5.4 是 2.50 / 0.25 / 15.00 美元每 100 萬 token；Google 那邊多出 context caching 的每小時儲存費，還有一欄 Grounding with Google Search 根本不按 token 算，按搜尋查詢次數算。至於「每 1M tokens」，它不是最低消費門檻，是比例。最後是官方把成本當成上線條件的那個做法：挑 1 個你真的要跑的任務，跑 10 次，先看平均 input / output。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Anthropic 的說明頁寫得很硬：Claude Pro 一個月 20 美元，不包含 API usage。OpenAI 那邊也是兩張分開的頁，ChatGPT 方案價格一張、API 定價一張。同一家公司，收錢的地方有兩個。
+
+那條線畫在哪？不在你用得多不多，在「是人在用，還是系統在用」。而跨過去之後的第一步也不是挑模型：OpenAI、Claude、Gemini 三家的入門文件，開頭寫的都是同一件事，先建 API Key、送出第一個請求，然後看回傳裡的 input、output、total 這 3 個數字。那是第一個屬於你自己的數字。
+
+往下是兩張欄位數不一樣的價目表。OpenAI 列 input、cached input、output 3 欄，GPT-5.4 是 2.50 / 0.25 / 15.00 美元每 100 萬 token；Google 那邊多出 context caching 的每小時儲存費，還有一欄 Grounding with Google Search 根本不按 token 算，按搜尋查詢次數算。至於「每 1M tokens」，它不是最低消費門檻，是比例。最後是官方把成本當成上線條件的那個做法：挑 1 個你真的要跑的任務，跑 10 次，先看平均 input / output。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>月費制, 用量制, API Key, GPT-5.4 定價, Gemini 定價, Cached Input, Context Caching, Grounding with Google Search, Rate Limits, AI Token 入門</itunes:keywords>
+      <pubDate>Sat, 10 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP37-ai-token-billing-and-saving.mp3" length="18361408" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep37</guid>
+      <itunes:duration>19:08</itunes:duration>
+      <itunes:episode>37</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP36｜Altman 說推理需求每年 10 倍，你的帳單為什麼一直很正常】</title>
       <link>https://www.aitokenking.com.tw/home</link>
