@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 10 Oct 2026 01:07:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 00:23:02 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP38｜同一個 Opus 4.8 跑同一道題，Claude Code 2.92 美元，Cline 9 美元】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一個開源專案，一道很小的題：加一個能把資料轉成 JSON 的欄位型別，附 2 個單元測試。同一道題交給 3 個工具各跑一次，獨立資料夾、獨立分支、全程沒有人插手。Claude Code 2.92 美元，Cline 9 美元，Codex 因為包在月費裡，這一題的邊際成本幾乎是 0。3 個都做完了，測試也都過。<br/><br/>差價住在模型跟工具中間那一層，英文叫 harness。Claude Code 把系統提示詞快取起來，一次載入，後面幾十輪重複使用；Cline 要相容 30 幾家供應商，每一輪組出來的結構不太一樣，快取更容易失效，而失效之後重新寫入的費率，比正常輸入還貴。難度拉高到要動好幾個檔案那一關，創作者自己覆述的倍數是 7.5 倍，基礎題那一關他講的是 5.5 倍，都是 Cline 對 Claude Code。<br/><br/>這些金額取自影片的自動字幕，是一次個人實測，不是官方定價。所以這集最後落在一張只有 3 欄的表上：用了哪個工具、做了什麼任務、花了多少錢，全隊記一週。還有帳單出現倍數級差距時，該倒過來的那個查法。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一個開源專案，一道很小的題：加一個能把資料轉成 JSON 的欄位型別，附 2 個單元測試。同一道題交給 3 個工具各跑一次，獨立資料夾、獨立分支、全程沒有人插手。Claude Code 2.92 美元，Cline 9 美元，Codex 因為包在月費裡，這一題的邊際成本幾乎是 0。3 個都做完了，測試也都過。
+
+差價住在模型跟工具中間那一層，英文叫 harness。Claude Code 把系統提示詞快取起來，一次載入，後面幾十輪重複使用；Cline 要相容 30 幾家供應商，每一輪組出來的結構不太一樣，快取更容易失效，而失效之後重新寫入的費率，比正常輸入還貴。難度拉高到要動好幾個檔案那一關，創作者自己覆述的倍數是 7.5 倍，基礎題那一關他講的是 5.5 倍，都是 Cline 對 Claude Code。
+
+這些金額取自影片的自動字幕，是一次個人實測，不是官方定價。所以這集最後落在一張只有 3 欄的表上：用了哪個工具、做了什麼任務、花了多少錢，全隊記一週。還有帳單出現倍數級差距時，該倒過來的那個查法。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Code, Cline, Codex, Opus 4.8, GPT-5.6, harness, 提示詞快取, Cache Write, AI Coding 成本, 團隊用量治理</itunes:keywords>
+      <pubDate>Sun, 11 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP38-why-same-ai-coding-task-costs-so-differently-across-tools.mp3" length="11113996" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep38</guid>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:episode>38</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP37｜Claude Pro 不含 API 用量，那條線你什麼時候跨過去的】</title>
       <link>https://www.aitokenking.com.tw/home</link>
