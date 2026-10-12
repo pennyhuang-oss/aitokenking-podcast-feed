@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 11 Oct 2026 00:23:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 00:43:08 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP39｜自己養一個頂級模型要幾張顯卡？光是權重就 1.4 TB】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[老闆在群組丟下一句「隔壁那家公司都自己買顯卡跑 AI 了，我們幹嘛還在付 Claude 的月費」，然後要你下週預算會議交一份比較。你連第一格都填不下去：Anthropic 從來沒公開過 Claude Fable 5 的參數量，這題沒有起點。<br/><br/>換一個參數公開、規模夠大的模型當替身之後，算式立刻現形。2.8 兆參數、4-bit 格式，光是權重就 1.4 TB，而且那還只是地板值。頂規的 Mac Studio 裝不下，4 張 H100 加起來更少，8 張卡的 DGX B200 勉強越過門檻，剩下的空間卻連喘息都不夠。真正的關卡在官方那句建議：64 顆以上的加速器，換算下來是 8 台，不是 1 台。到這裡你算的已經不是採購，是電力、散熱跟值班表。<br/><br/>而這集最省錢的一句話跟硬體無關：100 個使用者不等於 100 個並發請求，同一個瞬間可能只有 5 個在跑。很多採購規模就是從這個誤會開始往上長的。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>老闆在群組丟下一句「隔壁那家公司都自己買顯卡跑 AI 了，我們幹嘛還在付 Claude 的月費」，然後要你下週預算會議交一份比較。你連第一格都填不下去：Anthropic 從來沒公開過 Claude Fable 5 的參數量，這題沒有起點。
+
+換一個參數公開、規模夠大的模型當替身之後，算式立刻現形。2.8 兆參數、4-bit 格式，光是權重就 1.4 TB，而且那還只是地板值。頂規的 Mac Studio 裝不下，4 張 H100 加起來更少，8 張卡的 DGX B200 勉強越過門檻，剩下的空間卻連喘息都不夠。真正的關卡在官方那句建議：64 顆以上的加速器，換算下來是 8 台，不是 1 台。到這裡你算的已經不是採購，是電力、散熱跟值班表。
+
+而這集最省錢的一句話跟硬體無關：100 個使用者不等於 100 個並發請求，同一個瞬間可能只有 5 個在跑。很多採購規模就是從這個誤會開始往上長的。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>自架 AI 模型, 本地部署, GPU 採購, Kimi K3, DGX B300, 並發請求, AI 硬體成本, Claude API, Build vs Buy</itunes:keywords>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP39-how-much-does-it-cost-to-self-host-a-frontier-ai-model.mp3" length="9453444" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep39</guid>
+      <itunes:duration>9:51</itunes:duration>
+      <itunes:episode>39</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP38｜同一個 Opus 4.8 跑同一道題，Claude Code 2.92 美元，Cline 9 美元】</title>
       <link>https://www.aitokenking.com.tw/home</link>
