@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 12 Oct 2026 00:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 02:42:00 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP40｜餘額、額度、Token 數：只有一個管得到你會不會被擋】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[餘額還有 20 幾塊美金，請求卻被退回來。加值一次，再跑一次，同一行紅字。帳戶裡還有錢，AI 一樣可以不理你，因為擋你的那道閘門從頭到尾不看你帳上有多少。<br/><br/>同一批用量其實被三種不同的單位各數了一遍：Token 算的是模型處理了多少，額度畫的是平台准你跑多快，點數跟 Credits 記的是你帳上還剩多少可以扣。三個數字之間換算不出一個固定比例，而多數人只盯著最後那一個。<br/><br/>往下拆會看到：退件可能來自 4 道常見但完全不同的邊界，每分鐘幾次請求、每分鐘幾個 Token、批次排隊、每月支出上限，而加值一道都碰不到；用量頁那個「總 Token 數」為什麼不能直接乘單價，因為同樣 1,000 個 Token，模型寫出來的那一批可能比你送進去的還貴；還有 Credits 在官方條款裡的真實身分，不是法定貨幣、不可退款、不可轉讓，發下來大約 1 年就到期。最後留一道填空題，你答得出來，這個月就不會在自己沒看過的地方被擋下來。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>餘額還有 20 幾塊美金，請求卻被退回來。加值一次，再跑一次，同一行紅字。帳戶裡還有錢，AI 一樣可以不理你，因為擋你的那道閘門從頭到尾不看你帳上有多少。
+
+同一批用量其實被三種不同的單位各數了一遍：Token 算的是模型處理了多少，額度畫的是平台准你跑多快，點數跟 Credits 記的是你帳上還剩多少可以扣。三個數字之間換算不出一個固定比例，而多數人只盯著最後那一個。
+
+往下拆會看到：退件可能來自 4 道常見但完全不同的邊界，每分鐘幾次請求、每分鐘幾個 Token、批次排隊、每月支出上限，而加值一道都碰不到；用量頁那個「總 Token 數」為什麼不能直接乘單價，因為同樣 1,000 個 Token，模型寫出來的那一批可能比你送進去的還貴；還有 Credits 在官方條款裡的真實身分，不是法定貨幣、不可退款、不可轉讓，發下來大約 1 年就到期。最後留一道填空題，你答得出來，這個月就不會在自己沒看過的地方被擋下來。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token, 點數, Credits, 儲值餘額, 額度, 速率限制, 支出上限, 輸入 Token, 輸出 Token, 快取 Token</itunes:keywords>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP40-ai-token-quota-credits-units.mp3" length="11726306" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep40</guid>
+      <itunes:duration>12:13</itunes:duration>
+      <itunes:episode>40</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP39｜自己養一個頂級模型要幾張顯卡？光是權重就 1.4 TB】</title>
       <link>https://www.aitokenking.com.tw/home</link>
