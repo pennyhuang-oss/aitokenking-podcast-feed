@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 13 Oct 2026 02:42:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 00:30:45 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP41｜便宜 3 倍的模型，跑到第 3 次就不便宜了】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Claude Haiku 4.5 每 100 萬個 token 輸入 1 美元、輸出 5 美元，Sonnet 4.5 是 3 美元跟 15 美元，兩欄都剛好 3 倍。可是同一件難事，貴的跑一次就對，便宜的第 3 次才過，那 3 倍就原封不動還回去了。決定這件事的乘數叫重工率，而它在任何一家的價目表上都沒有欄位。<br/><br/>價目表上至少有 6 件事要看：輸入跟輸出分開收、快取最多讓輸入成本掉到原本的一成、批次很多時候直接打 5 折、有些模型長上下文會跳價、查搜尋跟地圖超過免費額度後按每 1,000 次另外收、部分模型走區域處理端點會加 10%。往下把 4 類用途各自該先看哪一欄排出來，其中有一類根本不從價格看起。<br/><br/>最後是同一個模型從原廠、聚合平台、代理接進來的差別：控制權各留給你哪一格、OpenRouter 賣的其實是彈性、以及代理那一格你要問對方的 6 個問題。還有一件價格表上看不到的事，單價差不多的兩個模型，撐得住的流量可以差很多。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Claude Haiku 4.5 每 100 萬個 token 輸入 1 美元、輸出 5 美元，Sonnet 4.5 是 3 美元跟 15 美元，兩欄都剛好 3 倍。可是同一件難事，貴的跑一次就對，便宜的第 3 次才過，那 3 倍就原封不動還回去了。決定這件事的乘數叫重工率，而它在任何一家的價目表上都沒有欄位。
+
+價目表上至少有 6 件事要看：輸入跟輸出分開收、快取最多讓輸入成本掉到原本的一成、批次很多時候直接打 5 折、有些模型長上下文會跳價、查搜尋跟地圖超過免費額度後按每 1,000 次另外收、部分模型走區域處理端點會加 10%。往下把 4 類用途各自該先看哪一欄排出來，其中有一類根本不從價格看起。
+
+最後是同一個模型從原廠、聚合平台、代理接進來的差別：控制權各留給你哪一格、OpenRouter 賣的其實是彈性、以及代理那一格你要問對方的 6 個問題。還有一件價格表上看不到的事，單價差不多的兩個模型，撐得住的流量可以差很多。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>模型選型, 重工率, 比價方法, 快取折扣, 批次折扣, 長上下文跳價, 原廠 API, 聚合平台, 代理商, AI 成本管理</itunes:keywords>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP41-how-to-choose-ai-model-and-platform.mp3" length="18039998" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep41</guid>
+      <itunes:duration>18:47</itunes:duration>
+      <itunes:episode>41</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP40｜餘額、額度、Token 數：只有一個管得到你會不會被擋】</title>
       <link>https://www.aitokenking.com.tw/home</link>
