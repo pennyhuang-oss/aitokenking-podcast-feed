@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 14 Oct 2026 00:30:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 00:02:58 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP42｜模型沒有變笨，是它第一次一個人上工】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[很多人以為接上 API 是升級。ChatGPT、Claude、Gemini 三邊的說法卻一致反過來：API 給你的是底層能力，前端介面、資料流、記憶方式、權限、錯誤處理，全部要你自己規劃。你接過去之後拿到的東西，比原本還少。<br/><br/>而這 3 家底下，每一家都不只一個產品。訂閱買到的是介面裡的使用權，API 要另外開一條計費線：Claude 走的是預付的用量額度，Gemini API 綁的是一個 Google Cloud 專案加一個帳務帳戶。兩條線從頭到尾沒有走在一起。<br/><br/>外殼拆下來是 5 件工作換人做：誰記住上一句話、誰決定回答的規則跟格式、誰把檔案讀成文字、誰去串工具、誰在出錯的時候擋掉那行代碼。這 5 件事就是你之後每個月那筆用量的來源，而半夜撞上速率限制的也從你換成你的程式。還有 3 個把新手卡住的名字：金鑰不是 API、AI Studio 不是 Gemini、Vertex 上的 Gemini 跟 Gemini API 也不是同一個入口。走錯一個，帳會掛在別的地方。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>很多人以為接上 API 是升級。ChatGPT、Claude、Gemini 三邊的說法卻一致反過來：API 給你的是底層能力，前端介面、資料流、記憶方式、權限、錯誤處理，全部要你自己規劃。你接過去之後拿到的東西，比原本還少。
+
+而這 3 家底下，每一家都不只一個產品。訂閱買到的是介面裡的使用權，API 要另外開一條計費線：Claude 走的是預付的用量額度，Gemini API 綁的是一個 Google Cloud 專案加一個帳務帳戶。兩條線從頭到尾沒有走在一起。
+
+外殼拆下來是 5 件工作換人做：誰記住上一句話、誰決定回答的規則跟格式、誰把檔案讀成文字、誰去串工具、誰在出錯的時候擋掉那行代碼。這 5 件事就是你之後每個月那筆用量的來源，而半夜撞上速率限制的也從你換成你的程式。還有 3 個把新手卡住的名字：金鑰不是 API、AI Studio 不是 Gemini、Vertex 上的 Gemini 跟 Gemini API 也不是同一個入口。走錯一個，帳會掛在別的地方。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>ChatGPT API, Claude API, Gemini API, API 與 App 差異, API 金鑰, AI Studio, Vertex AI, 訂閱制, 對話歷史, AI 導入</itunes:keywords>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP42-chatgpt-claude-gemini-app-vs-api.mp3" length="11601755" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep42</guid>
+      <itunes:duration>12:05</itunes:duration>
+      <itunes:episode>42</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP41｜便宜 3 倍的模型，跑到第 3 次就不便宜了】</title>
       <link>https://www.aitokenking.com.tw/home</link>
