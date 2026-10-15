@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 15 Oct 2026 00:02:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 23:48:13 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP43｜那張帳單上有 7 種單位，你的算式只裝得下 1 種】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[假設你這個月做了 4 件事：把輸出砍短、把固定內容搬進快取、把不急的任務丟進批次，最後連模型都換成輕量那一階。用量頁上的 Token 總數少了 40%，帳單卻掉不到 10%。4 件事全做對了，省下來的錢也真的進了帳單，只是它進的是一張比你以為的小很多的帳單。（這組比例是用來把問題講清楚的假設值，不是實測到的案例。）<br/><br/>那張價目表其實有兩層。上面那一層按 Token 算，而且不是 2 欄、是 4 格：基礎輸入、快取寫入、快取命中、輸出，4 格的比例在 Claude 的 2 個等級上一模一樣。下面那一層回答的不是「模型讀寫文字花了多少」：每一次呼叫、每一次搜尋、內容放著的每一小時、每一個 GB 存一天、你同時開著幾個容器、每 1,000 次帶著搜尋結果作答。所以砍 Token 的那 4 個動作，大半搆不到這一層，其中搬進快取那一個反而還在這一層多開一行。就算有一筆真的寫著 tokens（Gemini 的快取儲存是每 100 萬 tokens 每小時），它後面還乘了一個小時，你那個只有一個乘法的算式一樣裝不下。<br/><br/>所以那幾個省錢動作有先後，依據是「它碰得到的那一格佔你帳單多少」：第零步是照單位把帳單分堆，然後才輪到輸出、輸入那一格（上下文瘦身跟快取）、批次、任務分層，換模型排在最後。快取的回本門檻也算得出來：5 分鐘那一檔在窗內送第二次就賺，1 小時那一檔要送到第三次。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>假設你這個月做了 4 件事：把輸出砍短、把固定內容搬進快取、把不急的任務丟進批次，最後連模型都換成輕量那一階。用量頁上的 Token 總數少了 40%，帳單卻掉不到 10%。4 件事全做對了，省下來的錢也真的進了帳單，只是它進的是一張比你以為的小很多的帳單。（這組比例是用來把問題講清楚的假設值，不是實測到的案例。）
+
+那張價目表其實有兩層。上面那一層按 Token 算，而且不是 2 欄、是 4 格：基礎輸入、快取寫入、快取命中、輸出，4 格的比例在 Claude 的 2 個等級上一模一樣。下面那一層回答的不是「模型讀寫文字花了多少」：每一次呼叫、每一次搜尋、內容放著的每一小時、每一個 GB 存一天、你同時開著幾個容器、每 1,000 次帶著搜尋結果作答。所以砍 Token 的那 4 個動作，大半搆不到這一層，其中搬進快取那一個反而還在這一層多開一行。就算有一筆真的寫著 tokens（Gemini 的快取儲存是每 100 萬 tokens 每小時），它後面還乘了一個小時，你那個只有一個乘法的算式一樣裝不下。
+
+所以那幾個省錢動作有先後，依據是「它碰得到的那一格佔你帳單多少」：第零步是照單位把帳單分堆，然後才輪到輸出、輸入那一格（上下文瘦身跟快取）、批次、任務分層，換模型排在最後。快取的回本門檻也算得出來：5 分鐘那一檔在窗內送第二次就賺，1 小時那一檔要送到第三次。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 省錢, 功能費用, API 價目表, Prompt Caching, Batch API, 上下文瘦身, 任務分層, Claude 計價, RAG 成本, 成本結構</itunes:keywords>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP43-two-layers-of-ai-bill-and-saving-order.mp3" length="15086280" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep43</guid>
+      <itunes:duration>15:43</itunes:duration>
+      <itunes:episode>43</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP42｜模型沒有變笨，是它第一次一個人上工】</title>
       <link>https://www.aitokenking.com.tw/home</link>
