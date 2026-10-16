@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 15 Oct 2026 23:48:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 23:47:45 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP44｜1000 個中文字要抓 500 個 Token 還是 2000 個】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[三家官方都沒有直接給過「一個中文字等於幾個 Token」的固定公式，市面上流通的比例全是實務保守估算，不是官方保證值。把兩端拉開來，同一份 1000 字的中文文件，上下差了 4 倍。<br/><br/>英文那邊有官方粗估值撐著：OpenAI 說 1 個 Token 大約 0.75 個英文單字，Google 說 100 個 Token 大約 60 到 80 個單字，換算過來 1000 個英文單字落在 1250 到 1670，上下只差 1.3 倍。中文的區間寬度差不多是英文的三倍。<br/><br/>一個上下差 4 倍的數字還能拿去做哪一種決定？它答得出量級，答不出金額。更省事的方向是讓要猜的格子變少：一次呼叫要算錢的文字攤開來是三格，系統提示、工具定義、格式規則那一格可以數到確定值，做法是送兩次請求相減；輸出那一格的長度是你自己要求的。真正要用比例去猜的是第三格，而它比很多人以為的大，除了這次問的那句話，前面每一輪對話跟你上傳的檔案都在裡面。而最難用比例換算的那幾種內容，JSON schema、格式規則、工具定義，有一大塊剛好住在那格你不必估的文字裡。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>三家官方都沒有直接給過「一個中文字等於幾個 Token」的固定公式，市面上流通的比例全是實務保守估算，不是官方保證值。把兩端拉開來，同一份 1000 字的中文文件，上下差了 4 倍。
+
+英文那邊有官方粗估值撐著：OpenAI 說 1 個 Token 大約 0.75 個英文單字，Google 說 100 個 Token 大約 60 到 80 個單字，換算過來 1000 個英文單字落在 1250 到 1670，上下只差 1.3 倍。中文的區間寬度差不多是英文的三倍。
+
+一個上下差 4 倍的數字還能拿去做哪一種決定？它答得出量級，答不出金額。更省事的方向是讓要猜的格子變少：一次呼叫要算錢的文字攤開來是三格，系統提示、工具定義、格式規則那一格可以數到確定值，做法是送兩次請求相減；輸出那一格的長度是你自己要求的。真正要用比例去猜的是第三格，而它比很多人以為的大，除了這次問的那句話，前面每一輪對話跟你上傳的檔案都在裡面。而最難用比例換算的那幾種內容，JSON schema、格式規則、工具定義，有一大塊剛好住在那格你不必估的文字裡。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 換算, Token 估算, 中文 Token, 英文 Token, 系統提示, Tokenizer, 成本估算, ChatGPT, Claude, Gemini</itunes:keywords>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP44-how-many-tokens-is-1000-words.mp3" length="9444667" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep44</guid>
+      <itunes:duration>9:50</itunes:duration>
+      <itunes:episode>44</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP43｜那張帳單上有 7 種單位，你的算式只裝得下 1 種】</title>
       <link>https://www.aitokenking.com.tw/home</link>
