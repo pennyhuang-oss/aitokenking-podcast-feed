@@ -23,8 +23,31 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 16 Oct 2026 23:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 23:21:00 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP45｜200 個模型的入口，收走了你 4 個決定】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[程式碼改不到 10 行，原本分開的 3 家就全掛在同一個下拉選單裡，而且選單不只 3 個，它有 200 多個。過了一陣子，有一批回答的感覺不太對，你想知道那一批究竟跑在哪一個模型上。打開紀錄，每一筆都寫著你選的那個名字。而那個名字是你填進去的，不是它回來的。<br/><br/>聚合的那一種，自己一個模型都沒有。多模型平台、聚合平台、API 中轉站，名字不同、位置相同，它後面接的還是那 3 家。它賣的是「你原本要自己做的事，現在有人做了」，而每一件有人替你做的事，都是一件你不再看得見的事。<br/><br/>接上去之後，有 4 個原本你說了算的決定換人做了：這一次是哪一個模型回答的、「相容 OpenAI 格式」到哪裡為止、用量紀錄有多細、那筆加價是一行費用還是一個係數。<br/><br/>其中第三個最少人想到。那份用量頁往往就是你手上唯一一份，因為請求是這一層替你送出去的，原廠那邊看到的是它、不是你。它今天記了哪幾個欄位，就是你半年後查得到多細的上限。4 個開關各配一句可以直接拿去問對方的話。另外還有 2 個不花錢就能把 200 多個候選砍到剩幾個的淘汰法，以及一個反直覺的結論：這一層最難划得來的階段不是最早，是中間。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>程式碼改不到 10 行，原本分開的 3 家就全掛在同一個下拉選單裡，而且選單不只 3 個，它有 200 多個。過了一陣子，有一批回答的感覺不太對，你想知道那一批究竟跑在哪一個模型上。打開紀錄，每一筆都寫著你選的那個名字。而那個名字是你填進去的，不是它回來的。
+
+聚合的那一種，自己一個模型都沒有。多模型平台、聚合平台、API 中轉站，名字不同、位置相同，它後面接的還是那 3 家。它賣的是「你原本要自己做的事，現在有人做了」，而每一件有人替你做的事，都是一件你不再看得見的事。
+
+接上去之後，有 4 個原本你說了算的決定換人做了：這一次是哪一個模型回答的、「相容 OpenAI 格式」到哪裡為止、用量紀錄有多細、那筆加價是一行費用還是一個係數。
+
+其中第三個最少人想到。那份用量頁往往就是你手上唯一一份，因為請求是這一層替你送出去的，原廠那邊看到的是它、不是你。它今天記了哪幾個欄位，就是你半年後查得到多細的上限。4 個開關各配一句可以直接拿去問對方的話。另外還有 2 個不花錢就能把 200 多個候選砍到剩幾個的淘汰法，以及一個反直覺的結論：這一層最難划得來的階段不是最早，是中間。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>多模型平台, API 中轉站, 聚合平台, 平台選型, AI 導入順序, 自動換路, OpenAI 相容, 用量歸因, 模型版本追蹤, 平台加價</itunes:keywords>
+      <pubDate>Sun, 18 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP45-do-you-need-a-platform-layer.mp3" length="19241631" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep45</guid>
+      <itunes:duration>20:03</itunes:duration>
+      <itunes:episode>45</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP44｜1000 個中文字要抓 500 個 Token 還是 2000 個】</title>
       <link>https://www.aitokenking.com.tw/home</link>
