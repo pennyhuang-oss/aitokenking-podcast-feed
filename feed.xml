@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 17 Oct 2026 23:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 23:30:44 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP46｜新手入門清單上有 6 樣功能標著先不要碰】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Claude API 的新手入門列了第一次要做的 5 件事：開 Console 帳號、拿金鑰、選一個模型、送出一個 Messages API 請求、成功拿到回應。同一篇往下翻，還有第二張清單，比第一張長：圖片、工具呼叫、上網搜尋、操作電腦、Agent 流程、快取，6 樣後面掛著同一句話，第一次真的不用急。而那 6 樣裡的圖片、工具呼叫、上網搜尋，換到講能力的那一篇就成了重點。<br/><br/>開通只要 5 步，OpenAI 那邊走預付的最低初始購買金額是 5 美元。真正需要判斷的是後面那幾格，而很多人會把後面那幾格也當成不必判斷。<br/><br/>往下是 2 個做得太早的動作，加一格很少人在第一天打開的欄位：第一天就挑最強的模型（給新手的選法是跑得通、成本不失控、效果夠穩，沒有一條叫最強）、流程沒有重複前綴卻先上快取（寫入是基礎輸入的 1.25 倍到 2 倍，讀回來只要十分之一，對不上前綴就是純加價），還有模型一次最多能回多長。最後是能力清單那一側：官方能做的事很長，給第一次動手的人卻只留 3 個起點，共用單一任務、結果驗得出來、資料邊界清楚這 3 個條件；再往外就是 5 句「它不是」，以及高風險決策為什麼要保留人工覆核。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Claude API 的新手入門列了第一次要做的 5 件事：開 Console 帳號、拿金鑰、選一個模型、送出一個 Messages API 請求、成功拿到回應。同一篇往下翻，還有第二張清單，比第一張長：圖片、工具呼叫、上網搜尋、操作電腦、Agent 流程、快取，6 樣後面掛著同一句話，第一次真的不用急。而那 6 樣裡的圖片、工具呼叫、上網搜尋，換到講能力的那一篇就成了重點。
+
+開通只要 5 步，OpenAI 那邊走預付的最低初始購買金額是 5 美元。真正需要判斷的是後面那幾格，而很多人會把後面那幾格也當成不必判斷。
+
+往下是 2 個做得太早的動作，加一格很少人在第一天打開的欄位：第一天就挑最強的模型（給新手的選法是跑得通、成本不失控、效果夠穩，沒有一條叫最強）、流程沒有重複前綴卻先上快取（寫入是基礎輸入的 1.25 倍到 2 倍，讀回來只要十分之一，對不上前綴就是純加價），還有模型一次最多能回多長。最後是能力清單那一側：官方能做的事很長，給第一次動手的人卻只留 3 個起點，共用單一任務、結果驗得出來、資料邊界清楚這 3 個條件；再往外就是 5 句「它不是」，以及高風險決策為什麼要保留人工覆核。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude API, ChatGPT API, API 入門, 模型選型, Prompt Caching, 輸出上限, 人工覆核, 速率限制, API 金鑰, 成本試算</itunes:keywords>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP46-api-onboarding-what-not-to-do-yourself.mp3" length="11150359" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep46</guid>
+      <itunes:duration>11:37</itunes:duration>
+      <itunes:episode>46</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP45｜200 個模型的入口，收走了你 4 個決定】</title>
       <link>https://www.aitokenking.com.tw/home</link>
