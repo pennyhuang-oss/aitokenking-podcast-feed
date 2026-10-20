@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 18 Oct 2026 23:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 00:32:55 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP47｜OpenAI 的價目表上沒有你這個月會用掉多少 Token】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[你的估算很可能偏低，偏多少還不知道。<br/><br/>月用量的公式只有一行：平均輸入加平均輸出，乘每天請求數，再乘每月天數。這不是任何一家逐字給的官方公式，是照著各家把輸入輸出分開計費的結構推出來的。照它走一次：1,000 加 500、一天 100 次、30 天，450 萬個 token。難的不是乘法，是那三個數字你全都在猜。輸入不只你打的那句話，還有 system prompt、歷史對話、工具定義、schema、圖片與檔案；輸出那一邊你更沒把握，而它通常更貴。<br/><br/>這一集把 4 個低估來源逐個攤開，再往下走到價目表的第二層——功能費，以及不在第二層、卻同樣會讓你偏掉的長上下文與 Batch 5 折，和完全不在價目表上的那一格治理。最後收在還沒花第一塊錢之前能動的東西：OpenAI 的預付 credits 一年到期不退款、Gemini 最低 10 美元 12 個月到期、OpenRouter 買 credits 收 5.5% 手續費。到期那一條會用兩個相反的方向懲罰同一個偏差——估少了撐不到一年，多買了十二個月後歸零。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>你的估算很可能偏低，偏多少還不知道。
+
+月用量的公式只有一行：平均輸入加平均輸出，乘每天請求數，再乘每月天數。這不是任何一家逐字給的官方公式，是照著各家把輸入輸出分開計費的結構推出來的。照它走一次：1,000 加 500、一天 100 次、30 天，450 萬個 token。難的不是乘法，是那三個數字你全都在猜。輸入不只你打的那句話，還有 system prompt、歷史對話、工具定義、schema、圖片與檔案；輸出那一邊你更沒把握，而它通常更貴。
+
+這一集把 4 個低估來源逐個攤開，再往下走到價目表的第二層——功能費，以及不在第二層、卻同樣會讓你偏掉的長上下文與 Batch 5 折，和完全不在價目表上的那一格治理。最後收在還沒花第一塊錢之前能動的東西：OpenAI 的預付 credits 一年到期不退款、Gemini 最低 10 美元 12 個月到期、OpenRouter 買 credits 收 5.5% 手續費。到期那一條會用兩個相反的方向懲罰同一個偏差——估少了撐不到一年，多買了十二個月後歸零。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 用量估算, 月成本預估, Input Output 分開算, Prompt Caching, Batch API, 預付 credits 到期, 儲值手續費, 功能費, 長上下文計價, 成本治理</itunes:keywords>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP47-estimate-before-you-spend.mp3" length="12253771" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep47</guid>
+      <itunes:duration>12:46</itunes:duration>
+      <itunes:episode>47</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP46｜新手入門清單上有 6 樣功能標著先不要碰】</title>
       <link>https://www.aitokenking.com.tw/home</link>
