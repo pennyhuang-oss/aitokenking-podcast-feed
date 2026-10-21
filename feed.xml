@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 20 Oct 2026 00:32:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 00:03:26 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP48｜用量頁上哪幾個數字會在出事前先開口？】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[同一頁，同一天，同一個變化：一個數字只動了 8%，另一個已經是 3 倍。動了 8% 的那一個是輸出的累計，落在每天本來就有的起伏裡，你不會看第二眼；已經是 3 倍的那一個是輸出除以請求次數，它在有人給指令加上一句「請附上理由」的那天下午就到位了。（這組數字是設出來把時間差講清楚的示意值，不是誰的帳單。）<br/><br/>差別在於一個是加出來的，一個是除出來的。加出來的數字自帶一個分母，那個分母是已經過去的日子，它會把新發生的事攤平。除出來的把量約掉了，剩下的變化只有一個解釋。<br/><br/>那一頁上會提前開口的有 4 個，全部都是除出來的：每次請求的平均輸出、平均輸入、Claude Console 那 4 個 Token 欄位裡講快取的 2 欄並排看，還有貼近每分鐘上限的百分比（Anthropic 把請求數、輸入、輸出分成 3 個上限各自列，所以要分開算）。多久看一次，綁的是你改了什麼，不是天數；而「不對」只有一個定義，它動了，而你沒有動任何東西。最後還有一筆成本完全不在成本頁上：Anthropic 官方說失敗的請求不收費，所以它是用「成功次數變多」的形式出現的。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>同一頁，同一天，同一個變化：一個數字只動了 8%，另一個已經是 3 倍。動了 8% 的那一個是輸出的累計，落在每天本來就有的起伏裡，你不會看第二眼；已經是 3 倍的那一個是輸出除以請求次數，它在有人給指令加上一句「請附上理由」的那天下午就到位了。（這組數字是設出來把時間差講清楚的示意值，不是誰的帳單。）
+
+差別在於一個是加出來的，一個是除出來的。加出來的數字自帶一個分母，那個分母是已經過去的日子，它會把新發生的事攤平。除出來的把量約掉了，剩下的變化只有一個解釋。
+
+那一頁上會提前開口的有 4 個，全部都是除出來的：每次請求的平均輸出、平均輸入、Claude Console 那 4 個 Token 欄位裡講快取的 2 欄並排看，還有貼近每分鐘上限的百分比（Anthropic 把請求數、輸入、輸出分成 3 個上限各自列，所以要分開算）。多久看一次，綁的是你改了什麼，不是天數；而「不對」只有一個定義，它動了，而你沒有動任何東西。最後還有一筆成本完全不在成本頁上：Anthropic 官方說失敗的請求不收費，所以它是用「成功次數變多」的形式出現的。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>用量後台, 用量頁判讀, 領先指標, Claude Console, Usage 頁, 快取命中, cache read, 輸出長度, 每分鐘上限, AI 成本監控</itunes:keywords>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP48-leading-vs-lagging-usage-metrics.mp3" length="12385010" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep48</guid>
+      <itunes:duration>12:54</itunes:duration>
+      <itunes:episode>48</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP47｜OpenAI 的價目表上沒有你這個月會用掉多少 Token】</title>
       <link>https://www.aitokenking.com.tw/home</link>
