@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 21 Oct 2026 00:03:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:08:42 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP49｜導入 AI 卡住的那 10 件事，最後是誰回答的】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[一份企業採購 AI API 的檢查清單，題目數得出來的有 25 件。15 件是問句，法務 5 題、資訊 5 題、採購 5 題：資料會不會被拿去訓練、留幾天、有沒有加密、責任怎麼寫。這 15 題抄進一封信寄給供應商，對方會回你。<br/><br/>可是同一篇底下還放著兩張表，一張叫「企業最常忽略的 5 個問題」，一張叫「先照這 5 步走比較穩」。那 10 件的主詞不是「你們家的服務」，是我們公司自己，一件都寄不出去。而且沒有任何人在等它，所以它不會用「卡住」的形式出現，它會用「評估中」的形式出現。<br/><br/>回來得最漂亮的是保留期那一組：OpenAI 的濫用監控紀錄最多 30 天，Anthropic 標準後端保留 30 天，Gemini API 有啟用計費的專案預設 55 天。這幾個數字一個都不能結案，因為它們都要跟一個你們自己還沒寫下來的天數比。往下會拆到一題會站錯邊的題目（那張卡刷的是哪一層，決定訓練條款怎麼算）、資料分級為什麼標不出該問誰、脫敏那一問為什麼能把題目本身改簡單，還有導入會停在哪一步其實算得出來，它就在試點跑得最順的那一步後面。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>一份企業採購 AI API 的檢查清單，題目數得出來的有 25 件。15 件是問句，法務 5 題、資訊 5 題、採購 5 題：資料會不會被拿去訓練、留幾天、有沒有加密、責任怎麼寫。這 15 題抄進一封信寄給供應商，對方會回你。
+
+可是同一篇底下還放著兩張表，一張叫「企業最常忽略的 5 個問題」，一張叫「先照這 5 步走比較穩」。那 10 件的主詞不是「你們家的服務」，是我們公司自己，一件都寄不出去。而且沒有任何人在等它，所以它不會用「卡住」的形式出現，它會用「評估中」的形式出現。
+
+回來得最漂亮的是保留期那一組：OpenAI 的濫用監控紀錄最多 30 天，Anthropic 標準後端保留 30 天，Gemini API 有啟用計費的專案預設 55 天。這幾個數字一個都不能結案，因為它們都要跟一個你們自己還沒寫下來的天數比。往下會拆到一題會站錯邊的題目（那張卡刷的是哪一層，決定訓練條款怎麼算）、資料分級為什麼標不出該問誰、脫敏那一問為什麼能把題目本身改簡單，還有導入會停在哪一步其實算得出來，它就在試點跑得最順的那一步後面。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>企業 AI 導入, AI API 採購, 資料分級, 資料脫敏, 導入順序, 資料保留期, PoC 試點, 責任歸屬, 供應商評估, AI 治理</itunes:keywords>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP49-who-signs-the-other-half-of-the-checklist.mp3" length="12889905" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep49</guid>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:episode>49</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP48｜用量頁上哪幾個數字會在出事前先開口？】</title>
       <link>https://www.aitokenking.com.tw/home</link>
