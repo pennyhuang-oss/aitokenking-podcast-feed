@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 23 Oct 2026 00:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 23:56:56 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP52｜Claude Fable 5.1 的輸入輸出價一個字沒改：帳單少的那 25% 到 45% 從哪裡來】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Anthropic 9 月 1 日換了旗艦，新的那一個叫 Claude Fable 5.1。每 100 萬 token 輸入 10 美元、輸出 50 美元，輸入與輸出這兩格跟上一代 Fable 5 對照，一個數字都沒改，官方同一天卻說你的成本會降大約 25%。<br/><br/>被動的是價目表上最容易被跳過的那一格：快取讀取。它從標準輸入價的 0.1 倍砍到 0.025 倍，每 100 萬 token 從 1 美元變 0.25 美元，而快取寫入的 12.5 與 20 美元一毛沒動。所以這次省的錢，只跟你重複讀了多少有關——官方拿 8 月整月的實際用量算出來，典型工作負載從 100 降到 75，高度代理型降到 55。<br/><br/>升級的那一半沒那麼好走：3 項破壞性變更讓它光改型號字串是走不掉的，而官方自己建議多數人先去評估比它便宜一半的 Opus 5。另外，原訂 9 月 1 日生效的 Sonnet 5 漲價最後沒有執行。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Anthropic 9 月 1 日換了旗艦，新的那一個叫 Claude Fable 5.1。每 100 萬 token 輸入 10 美元、輸出 50 美元，輸入與輸出這兩格跟上一代 Fable 5 對照，一個數字都沒改，官方同一天卻說你的成本會降大約 25%。
+
+被動的是價目表上最容易被跳過的那一格：快取讀取。它從標準輸入價的 0.1 倍砍到 0.025 倍，每 100 萬 token 從 1 美元變 0.25 美元，而快取寫入的 12.5 與 20 美元一毛沒動。所以這次省的錢，只跟你重複讀了多少有關——官方拿 8 月整月的實際用量算出來，典型工作負載從 100 降到 75，高度代理型降到 55。
+
+升級的那一半沒那麼好走：3 項破壞性變更讓它光改型號字串是走不掉的，而官方自己建議多數人先去評估比它便宜一半的 Opus 5。另外，原訂 9 月 1 日生效的 Sonnet 5 漲價最後沒有執行。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Fable 5.1, Anthropic, 快取讀取, cache read, Prompt Caching, API 定價, Claude Opus 5, Claude Sonnet 5, 模型升級, AI 浮水印</itunes:keywords>
+      <pubDate>Sat, 24 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP52-claude-fable-5-1-launch-pricing-cache-read-2026.mp3" length="10461980" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep52</guid>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:episode>52</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP50｜換便宜的模型之前，那份設定檔已經被重讀了幾百遍】</title>
       <link>https://www.aitokenking.com.tw/home</link>
