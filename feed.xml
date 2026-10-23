@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 22 Oct 2026 00:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 00:07:03 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP50｜換便宜的模型之前，那份設定檔已經被重讀了幾百遍】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[AI 客服每回一則訊息，系統就把整包設定重新送一次給模型：商品目錄、退換貨規則、活動辦法，一個字都不會少。客人問的只是「這件洋裝有沒有 M 號」，模型得先讀完那一整包才回一句「有的」。一天幾百則訊息，同一疊資料就被重新算了幾百次錢。<br/><br/>那份文件裡多半留著你早就用不到的句子。補的當下都很合理，可是刪掉它，偏偏從來不是誰的事。於是成本跟那句規則重不重要脫鉤了，它只跟你被問幾次成正比。一句早就沒用的規則，一天被問 300 次就付 300 次。<br/><br/>往下拆兩格控制項的差別：模型那一格往便宜調，碰到夠難的題目就是拿品質換錢；輸入那一格砍下去，帳單跟回答品質往相反方向走。還有一個不好聽的理由，解釋為什麼多數人的手還是先伸向模型：模型那一格的價錢是別人先標好的、你決定之前就看得到，而且換模型是一個講得出口的決定，重寫設定檔聽起來像整理桌子。最後是今天晚上就做得完的 3 件事，從打開那份設定、刪掉跟回答無關的句子開始。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>AI 客服每回一則訊息，系統就把整包設定重新送一次給模型：商品目錄、退換貨規則、活動辦法，一個字都不會少。客人問的只是「這件洋裝有沒有 M 號」，模型得先讀完那一整包才回一句「有的」。一天幾百則訊息，同一疊資料就被重新算了幾百次錢。
+
+那份文件裡多半留著你早就用不到的句子。補的當下都很合理，可是刪掉它，偏偏從來不是誰的事。於是成本跟那句規則重不重要脫鉤了，它只跟你被問幾次成正比。一句早就沒用的規則，一天被問 300 次就付 300 次。
+
+往下拆兩格控制項的差別：模型那一格往便宜調，碰到夠難的題目就是拿品質換錢；輸入那一格砍下去，帳單跟回答品質往相反方向走。還有一個不好聽的理由，解釋為什麼多數人的手還是先伸向模型：模型那一格的價錢是別人先標好的、你決定之前就看得到，而且換模型是一個講得出口的決定，重寫設定檔聽起來像整理桌子。最後是今天晚上就做得完的 3 件事，從打開那份設定、刪掉跟回答無關的句子開始。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI 帳單, 系統提示詞, 重複輸入, 提示詞精簡, 模型降級, 客服 AI, 上下文成本, 成本控制, Token 成本, 用量明細</itunes:keywords>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP50-bill-spiked-before-you-downgrade-the-model.mp3" length="8717000" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep50</guid>
+      <itunes:duration>9:05</itunes:duration>
+      <itunes:episode>50</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP49｜導入 AI 卡住的那 10 件事，最後是誰回答的】</title>
       <link>https://www.aitokenking.com.tw/home</link>
