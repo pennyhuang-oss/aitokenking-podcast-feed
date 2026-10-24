@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 23 Oct 2026 23:56:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 23:33:48 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP53｜最強的資安模型改成申請制，3 家供應商只花了 2 天】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[9 月 1 日，OpenAI 公布《Path to Astra》，代號 Astra 的新模型是它第一個被判定達到「Critical」等級資安能力的模型。內部測試裡，Astra 自己找出並串連了 2 個先前沒人知道的零時差漏洞。然後 OpenAI 的決定是，這個能力不直接開放給所有 API 用戶。<br/><br/>同一天 Anthropic 發布 Enterprise Frontier Safeguards，隔天 Google 把 Gemini 3.8 Flash Cyber 鎖進 Fairwind Program。2 天、3 家，改的是同樣兩件事：誰拿得到最強的模型，還有企業資料由誰保管。Daybreak Blue、Fairwind、Cyber Verification 是 3 個各自獨立的申請制，管道、資格與適用模型都不一樣。<br/><br/>最值得看的是 Anthropic 那一半。30 天保留政策本來是為了抓跨對話、跨帳號的濫用，卻讓受規管產業很難放心使用，EFS 把「零保留的隱私」跟「跨時間的監控」拆開來各自滿足。至於帳單，這波不影響既有的 Token 計費，EFS 也不改模型行為、API 定價與速率限制；會動到你成本結構的，是你的組織申不申請得到。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>9 月 1 日，OpenAI 公布《Path to Astra》，代號 Astra 的新模型是它第一個被判定達到「Critical」等級資安能力的模型。內部測試裡，Astra 自己找出並串連了 2 個先前沒人知道的零時差漏洞。然後 OpenAI 的決定是，這個能力不直接開放給所有 API 用戶。
+
+同一天 Anthropic 發布 Enterprise Frontier Safeguards，隔天 Google 把 Gemini 3.8 Flash Cyber 鎖進 Fairwind Program。2 天、3 家，改的是同樣兩件事：誰拿得到最強的模型，還有企業資料由誰保管。Daybreak Blue、Fairwind、Cyber Verification 是 3 個各自獨立的申請制，管道、資格與適用模型都不一樣。
+
+最值得看的是 Anthropic 那一半。30 天保留政策本來是為了抓跨對話、跨帳號的濫用，卻讓受規管產業很難放心使用，EFS 把「零保留的隱私」跟「跨時間的監控」拆開來各自滿足。至於帳單，這波不影響既有的 Token 計費，EFS 也不改模型行為、API 定價與速率限制；會動到你成本結構的，是你的組織申不申請得到。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI 資安, OpenAI Astra, Gemini 3.8 Flash Cyber, Anthropic EFS, Fairwind Program, Daybreak Blue, Cyber Verification Program, 分層存取, 企業資料治理, AI API 採購</itunes:keywords>
+      <pubDate>Sun, 25 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP53-openai-astra-gemini-cyber-anthropic-efs-security-2026.mp3" length="13491348" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep53</guid>
+      <itunes:duration>14:03</itunes:duration>
+      <itunes:episode>53</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP52｜Claude Fable 5.1 的輸入輸出價一個字沒改：帳單少的那 25% 到 45% 從哪裡來】</title>
       <link>https://www.aitokenking.com.tw/home</link>
