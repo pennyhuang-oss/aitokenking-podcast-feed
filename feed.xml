@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 24 Oct 2026 23:33:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:28:20 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP54｜DeepSeek 的離峰價，美國團隊預設拿得到，台灣團隊得挑時間】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 8 月 16 日起，DeepSeek 把 V4-Flash 與 V4-Pro 的計費從單一固定費率改成尖峰／離峰兩段式，離峰價正好是尖峰的一半。官方定的尖峰是北京時間上午 9 點到 12 點、下午 2 點到 6 點，而台灣跟北京同屬 UTC+8。<br/><br/>換算到美東，那兩段落在前一晚 9 點到午夜、以及凌晨 2 點到 6 點，大多數團隊不會在那時候跑正式生產流量；換算到台灣，那就是你一整天最忙的那幾個小時。同一則漲價新聞，兩邊讀出來的結論是相反的，而各家科技媒體標題常引用的，正是那個離峰價。<br/><br/>V4-Flash 每 100 萬個輸出 token 從固定 0.28 美元變成尖峰 1.32、離峰 0.66，V4-Pro 從 0.87 變成 3.96 與 1.98。不過你的帳單會不會真的差一倍，還有一格在擋，它叫快取命中率，Quartz 報導的 1,100% 漲幅也要放在這一格底下才讀得對。這一集把台灣時間的離峰區間排出來，也講清楚命中率偏低的時候該回頭跟誰重新比價。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 8 月 16 日起，DeepSeek 把 V4-Flash 與 V4-Pro 的計費從單一固定費率改成尖峰／離峰兩段式，離峰價正好是尖峰的一半。官方定的尖峰是北京時間上午 9 點到 12 點、下午 2 點到 6 點，而台灣跟北京同屬 UTC+8。
+
+換算到美東，那兩段落在前一晚 9 點到午夜、以及凌晨 2 點到 6 點，大多數團隊不會在那時候跑正式生產流量；換算到台灣，那就是你一整天最忙的那幾個小時。同一則漲價新聞，兩邊讀出來的結論是相反的，而各家科技媒體標題常引用的，正是那個離峰價。
+
+V4-Flash 每 100 萬個輸出 token 從固定 0.28 美元變成尖峰 1.32、離峰 0.66，V4-Pro 從 0.87 變成 3.96 與 1.98。不過你的帳單會不會真的差一倍，還有一格在擋，它叫快取命中率，Quartz 報導的 1,100% 漲幅也要放在這一格底下才讀得對。這一集把台灣時間的離峰區間排出來，也講清楚命中率偏低的時候該回頭跟誰重新比價。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>DeepSeek, API 定價, 尖峰離峰計價, 快取命中率, AI 成本管理, 多模型路由, 台灣開發者</itunes:keywords>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP54-deepseek-peak-offpeak-pricing-taiwan.mp3" length="9662842" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep54</guid>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:episode>54</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP53｜最強的資安模型改成申請制，3 家供應商只花了 2 天】</title>
       <link>https://www.aitokenking.com.tw/home</link>
