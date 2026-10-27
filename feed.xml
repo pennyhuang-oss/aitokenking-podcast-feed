@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 25 Oct 2026 23:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 00:43:02 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP55｜AI 基本法早就施行了，卻沒有一份清單能告訴你算不算高風險】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[台灣《人工智慧基本法》2026 年 1 月 14 日就公布施行了，數位發展部 7 月 7 日也發了人工智慧風險分類框架第一版，分 3 大類、20 項子類別。可是你打開框架想查自己算不算高風險，會讀到它自己寫明：並不直接對企業產生法律拘束力。<br/><br/>20 條裡沒有獨立的裁罰專章，法條也沒有附一份高風險清單，第 5 條第 2 項寫的是由中央目的事業主管機關會商數位發展部個案認定。第 4 條那七大原則，現在直接拘束的對象是政府。<br/><br/>答案要從「你該盯誰」說起：多半不會從國科會出來，是你那一行的目的事業主管機關，衛福部、NCC 都已經在發領域指引了。這集把「內部客服機器人」跟「信用評分、醫療建議、招聘篩選」之間那條分界畫出來，也講清楚第 18 條那個 2028 年 1 月 14 日的期限為什麼不是空白期，還有個資法那條線為什麼從頭到尾沒有停過。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>台灣《人工智慧基本法》2026 年 1 月 14 日就公布施行了，數位發展部 7 月 7 日也發了人工智慧風險分類框架第一版，分 3 大類、20 項子類別。可是你打開框架想查自己算不算高風險，會讀到它自己寫明：並不直接對企業產生法律拘束力。
+
+20 條裡沒有獨立的裁罰專章，法條也沒有附一份高風險清單，第 5 條第 2 項寫的是由中央目的事業主管機關會商數位發展部個案認定。第 4 條那七大原則，現在直接拘束的對象是政府。
+
+答案要從「你該盯誰」說起：多半不會從國科會出來，是你那一行的目的事業主管機關，衛福部、NCC 都已經在發領域指引了。這集把「內部客服機器人」跟「信用評分、醫療建議、招聘篩選」之間那條分界畫出來，也講清楚第 18 條那個 2028 年 1 月 14 日的期限為什麼不是空白期，還有個資法那條線為什麼從頭到尾沒有停過。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>人工智慧基本法, AI 法規, AI 合規, 風險分類框架, 數位發展部, 高風險 AI, 企業 AI 導入, 個資法, AI 治理, 供應商評估</itunes:keywords>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP55-taiwan-ai-basic-law-enterprise-self-assessment.mp3" length="10471593" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep55</guid>
+      <itunes:duration>10:54</itunes:duration>
+      <itunes:episode>55</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP54｜DeepSeek 的離峰價，美國團隊預設拿得到，台灣團隊得挑時間】</title>
       <link>https://www.aitokenking.com.tw/home</link>
