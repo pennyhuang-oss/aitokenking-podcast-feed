@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 27 Oct 2026 00:43:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 00:40:03 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP56｜GPT-5.6 Sol 降價公告裡最該注意的，是官方寫的「至少」】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[8 月 21 日，OpenAI 把 GPT-5.6 Sol 的 API 報價再砍一刀。每 100 萬 token，輸入從 5 美元降到 4 美元，輸出從 30 美元降到 20 美元。這是兩個月內第二輪，7 月 30 日那一輪是 Terra 降 20%、Luna 降 80%。<br/><br/>但官方文件寫的是「促銷價至少維持到 2026 年 11 月 21 日」。at least 這個用字，既沒承諾之後漲回 5／30，也沒承諾繼續維持 4／20。11 月之後那一格，官方沒有給你數字。<br/><br/>往下拆會看到那一格該怎麼填：同一份用量表用 4／20 算一次、用 5／30 再算一次，走區域處理端點的再各乘 1.1（Data Residency 加收 10%）。還有長內容輸出不是等比放大、Standard 與 Fast Mode 與 Batch 的 3 層價差。最後算出來的差額，才是你要拿去做決定的那個數字。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>8 月 21 日，OpenAI 把 GPT-5.6 Sol 的 API 報價再砍一刀。每 100 萬 token，輸入從 5 美元降到 4 美元，輸出從 30 美元降到 20 美元。這是兩個月內第二輪，7 月 30 日那一輪是 Terra 降 20%、Luna 降 80%。
+
+但官方文件寫的是「促銷價至少維持到 2026 年 11 月 21 日」。at least 這個用字，既沒承諾之後漲回 5／30，也沒承諾繼續維持 4／20。11 月之後那一格，官方沒有給你數字。
+
+往下拆會看到那一格該怎麼填：同一份用量表用 4／20 算一次、用 5／30 再算一次，走區域處理端點的再各乘 1.1（Data Residency 加收 10%）。還有長內容輸出不是等比放大、Standard 與 Fast Mode 與 Batch 的 3 層價差。最後算出來的差額，才是你要拿去做決定的那個數字。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>GPT-5.6 Sol, OpenAI, API 降價, 預算規劃, Data Residency, Batch, Fast Mode, Token 成本</itunes:keywords>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP56-gpt-5-6-sol-price-cut-expiry-budget.mp3" length="9122421" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep56</guid>
+      <itunes:duration>9:30</itunes:duration>
+      <itunes:episode>56</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP55｜AI 基本法早就施行了，卻沒有一份清單能告訴你算不算高風險】</title>
       <link>https://www.aitokenking.com.tw/home</link>
