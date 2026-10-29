@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 28 Oct 2026 00:40:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 01:09:27 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP57｜1 折額度的另一端，是一筆還沒觸發警報的扣款】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 8 月 7 日，Syntax 主持人 Wes Bos 公開說，他花錢買了號稱 5 折、1 折的 API 存取權回來測。部分較便宜的等級在用成本低得多的模型回應，同樣操作的用量是他預期的數倍，換算後每單位成本比官方定價還貴。<br/><br/>受訪的新創公司創辦人補了供給面。這條鏈有一部分額度，來自金鑰意外寫進公開程式碼儲存庫、或被惡意套件掃描竊取的合法帳號。被扣款的人往往要等單日金額大到觸發警報，才知道金鑰早就外流。<br/><br/>額度見底時，金鑰有沒有外流要查，金鑰的使用紀錄也要稽核。只看總帳，會等到單日異常金額已經大到觸發警報。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 8 月 7 日，Syntax 主持人 Wes Bos 公開說，他花錢買了號稱 5 折、1 折的 API 存取權回來測。部分較便宜的等級在用成本低得多的模型回應，同樣操作的用量是他預期的數倍，換算後每單位成本比官方定價還貴。
+
+受訪的新創公司創辦人補了供給面。這條鏈有一部分額度，來自金鑰意外寫進公開程式碼儲存庫、或被惡意套件掃描竊取的合法帳號。被扣款的人往往要等單日金額大到觸發警報，才知道金鑰早就外流。
+
+額度見底時，金鑰有沒有外流要查，金鑰的使用紀錄也要稽核。只看總帳，會等到單日異常金額已經大到觸發警報。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AI Token 黑市, API 金鑰外洩, Syntax, 轉發式 API 金鑰, 額度盜用, 用量稽核, 企業 AI 資安</itunes:keywords>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP57-what-is-ai-token-black-market.mp3" length="9671201" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep57</guid>
+      <itunes:duration>10:04</itunes:duration>
+      <itunes:episode>57</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP56｜GPT-5.6 Sol 降價公告裡最該注意的，是官方寫的「至少」】</title>
       <link>https://www.aitokenking.com.tw/home</link>
