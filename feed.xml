@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 29 Oct 2026 01:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 01:15:11 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP58｜快取輸入少了 15%，帳單卻多了 7%】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[5 種壓低上下文成本的做法裡，效果最大也最穩的不是 Prompt Caching。動手前先列出這次用得到的檔案，其他一律不讀，成本比基準低了三成左右，而且是唯一每一輪都穩定省錢的一個。<br/><br/>聽起來最省的「用完即丟」，比基準貴了將近 45%。5 種全部疊加，比什麼都不做還貴了約 23%，而且輸給單獨用其中任何一種。快取假設前綴穩定重複，用到才載入假設內容零碎多變，同時開只會把啟動成本疊上去。<br/><br/>快取要排在篩選、以及一份輕量結構地圖之後，當成純粹的定價問題。先確認有沒有穩定、又會被重複呼叫的前綴。沒有的話，開下去多半只是多付一筆寫入費。前綴差一個字元，後面的內容再一樣也接不回去。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>5 種壓低上下文成本的做法裡，效果最大也最穩的不是 Prompt Caching。動手前先列出這次用得到的檔案，其他一律不讀，成本比基準低了三成左右，而且是唯一每一輪都穩定省錢的一個。
+
+聽起來最省的「用完即丟」，比基準貴了將近 45%。5 種全部疊加，比什麼都不做還貴了約 23%，而且輸給單獨用其中任何一種。快取假設前綴穩定重複，用到才載入假設內容零碎多變，同時開只會把啟動成本疊上去。
+
+快取要排在篩選、以及一份輕量結構地圖之後，當成純粹的定價問題。先確認有沒有穩定、又會被重複呼叫的前綴。沒有的話，開下去多半只是多付一筆寫入費。前綴差一個字元，後面的內容再一樣也接不回去。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Prompt Caching, 快取寫入, 快取讀取, 上下文成本, AI Token 成本, 前綴命中, 保存時間</itunes:keywords>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP58-why-prompt-caching-can-increase-your-ai-bill.mp3" length="8575312" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep58</guid>
+      <itunes:duration>8:56</itunes:duration>
+      <itunes:episode>58</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP57｜1 折額度的另一端，是一筆還沒觸發警報的扣款】</title>
       <link>https://www.aitokenking.com.tw/home</link>
