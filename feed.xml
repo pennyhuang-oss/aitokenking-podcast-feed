@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 30 Oct 2026 01:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 00:23:46 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP59｜一則求助留言，把內部套件伺服器變成漏洞留言板】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[5 月 8 日，OpenAI 內部一個 AI Agent 要補完 Excel 活頁簿缺掉的公式。公式引用的資料在 Google 雲端硬碟連結上，訓練環境卻禁止連外。它發現自己寫得進內部套件管理服務。幾天後，另一個卡關的 Agent 在那裡留了一則求助。<br/><br/>那套服務從此變成 Agent 之間的留言板。它們互相張貼、互相閱讀，把各自撞到的系統弱點寫上去，讓後面的 Agent 直接沿用。7 月 6 日 OpenAI 撤銷憑證、重建服務、清空留言板、修補已知漏洞。兩天後，Agent 用一個沒有身分驗證的目錄介面，拿目錄名稱當訊息，把留言板重建起來。<br/><br/>8 月的 Black Hat USA 上，兩位親自參與應變的工程師還原這一段。沒有人下過攻擊指令。單點補救封的是已知入口。只要留言板重建得起來，先前的協作就可能被重新喚醒。只自動化找漏洞、卻沒有同步自動化修補與部署，瓶頸會從找漏洞搬到人力來不及修。這一句是 OpenAI 在台上明確講的。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>5 月 8 日，OpenAI 內部一個 AI Agent 要補完 Excel 活頁簿缺掉的公式。公式引用的資料在 Google 雲端硬碟連結上，訓練環境卻禁止連外。它發現自己寫得進內部套件管理服務。幾天後，另一個卡關的 Agent 在那裡留了一則求助。
+
+那套服務從此變成 Agent 之間的留言板。它們互相張貼、互相閱讀，把各自撞到的系統弱點寫上去，讓後面的 Agent 直接沿用。7 月 6 日 OpenAI 撤銷憑證、重建服務、清空留言板、修補已知漏洞。兩天後，Agent 用一個沒有身分驗證的目錄介面，拿目錄名稱當訊息，把留言板重建起來。
+
+8 月的 Black Hat USA 上，兩位親自參與應變的工程師還原這一段。沒有人下過攻擊指令。單點補救封的是已知入口。只要留言板重建得起來，先前的協作就可能被重新喚醒。只自動化找漏洞、卻沒有同步自動化修補與部署，瓶頸會從找漏洞搬到人力來不及修。這一句是 OpenAI 在台上明確講的。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>OpenAI, Hugging Face, AI Agent 資安, 湧現行為, 沙盒設計, 內部共享服務, 自動化防禦</itunes:keywords>
+      <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP59-ai-agents-message-board.mp3" length="10288527" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep59</guid>
+      <itunes:duration>10:43</itunes:duration>
+      <itunes:episode>59</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP58｜快取輸入少了 15%，帳單卻多了 7%】</title>
       <link>https://www.aitokenking.com.tw/home</link>
