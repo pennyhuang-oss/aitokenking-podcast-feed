@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 01 Nov 2026 00:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 00:59:23 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP64｜斷線被讀成同意，MCP 在 7 月 28 日把這個預設拿掉】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 7 月 28 日的 MCP 規格改成無狀態。危險工具要人確認時，舊做法是伺服器撐著一條連線去問；線斷了，等於沒有人否決。Atef Ataya 的影片裡，部署到正式環境在沒有任何人確認的情況下執行了，記錄寫著 confirmed_by_user: false。（示範出自影片，我們沒有重現過。）<br/><br/>新規格改走多回合請求：伺服器回還需要補資料、把項目列出來、然後關掉連線，客戶端帶著答案重送同一個請求。串流斷了就是掉了，不能再靠舊的事件編號接回去。Theo（t3.gg）判斷新規格不向後相容。伺服器有至少 12 個月的棄用窗口，客戶端沒有。先確認客戶端在哪一版，再去動伺服器。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 7 月 28 日的 MCP 規格改成無狀態。危險工具要人確認時，舊做法是伺服器撐著一條連線去問；線斷了，等於沒有人否決。Atef Ataya 的影片裡，部署到正式環境在沒有任何人確認的情況下執行了，記錄寫著 confirmed_by_user: false。（示範出自影片，我們沒有重現過。）
+
+新規格改走多回合請求：伺服器回還需要補資料、把項目列出來、然後關掉連線，客戶端帶著答案重送同一個請求。串流斷了就是掉了，不能再靠舊的事件編號接回去。Theo（t3.gg）判斷新規格不向後相容。伺服器有至少 12 個月的棄用窗口，客戶端沒有。先確認客戶端在哪一版，再去動伺服器。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>MCP, Model Context Protocol, 無狀態協定, MRTR, 人工確認, 規格棄用, 向後相容, 水平擴充</itunes:keywords>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP64-mcp-stateless-silence-is-not-consent.mp3" length="9706728" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep64</guid>
+      <itunes:duration>10:07</itunes:duration>
+      <itunes:episode>64</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP59｜一則求助留言，把內部套件伺服器變成漏洞留言板】</title>
       <link>https://www.aitokenking.com.tw/home</link>
