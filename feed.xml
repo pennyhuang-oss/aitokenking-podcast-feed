@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 03 Nov 2026 09:52:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 01:35:19 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP60｜示範網站跑起來了，16 億免費 Token 卻不是 Anthropic 給的】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[YouTube 上一支影片累積超過 44 萬次觀看，標題宣稱每天給 Claude Code 16 億個免費 Token。作者照自己教的設定，讓 Claude Code 做出一個網站，成品直接出現在鏡頭上。<br/><br/>那 16 億不是 Anthropic 額外開放的額度。本機代理工具 Omni Route 讓 Claude Code 以為還在跟官方端點對話，實際把每次請求轉到第三方免費層帳號，一個用完就切下一個。第一篇列出的示範名單有 OpenRouter、OpenCode、Kiro AI、Anti-gravity、Nvidia NIM。第二篇記下影片裡的供應商清單：總共 295 家，其中 126 家標榜有免費額度。這兩個數字是影片作者單方面的聲稱，沒有經過獨立查證。16 億等於 126 家每日額度加總，是第二篇自己的推測，影片沒有明講。<br/><br/>示範證明的是這套流程跑得動。服務條款這一層，第一篇的判斷是這麼做很可能違反 Anthropic 的服務條款，並寫明那是編輯部的提醒、不構成法律意見；第二篇則不下法律結論。憑證這一層，多組 API Key 集中貼進預設密碼還寫著 change me 的本機軟體。輪替這一層，round robin 換人接手時不會問你，面板只告訴你哪一家還有配額。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>YouTube 上一支影片累積超過 44 萬次觀看，標題宣稱每天給 Claude Code 16 億個免費 Token。作者照自己教的設定，讓 Claude Code 做出一個網站，成品直接出現在鏡頭上。
+
+那 16 億不是 Anthropic 額外開放的額度。本機代理工具 Omni Route 讓 Claude Code 以為還在跟官方端點對話，實際把每次請求轉到第三方免費層帳號，一個用完就切下一個。第一篇列出的示範名單有 OpenRouter、OpenCode、Kiro AI、Anti-gravity、Nvidia NIM。第二篇記下影片裡的供應商清單：總共 295 家，其中 126 家標榜有免費額度。這兩個數字是影片作者單方面的聲稱，沒有經過獨立查證。16 億等於 126 家每日額度加總，是第二篇自己的推測，影片沒有明講。
+
+示範證明的是這套流程跑得動。服務條款這一層，第一篇的判斷是這麼做很可能違反 Anthropic 的服務條款，並寫明那是編輯部的提醒、不構成法律意見；第二篇則不下法律結論。憑證這一層，多組 API Key 集中貼進預設密碼還寫著 change me 的本機軟體。輪替這一層，round robin 換人接手時不會問你，面板只告訴你哪一家還有配額。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Code, 免費 Token, Omni Route, API 金鑰, 服務條款, round robin, 本機代理</itunes:keywords>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP60-why-claude-code-unlimited-free-tokens-are-risky.mp3" length="9026708" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep60</guid>
+      <itunes:duration>9:24</itunes:duration>
+      <itunes:episode>60</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP59｜一則求助留言，把內部套件伺服器變成漏洞留言板】</title>
       <link>https://www.aitokenking.com.tw/home</link>
