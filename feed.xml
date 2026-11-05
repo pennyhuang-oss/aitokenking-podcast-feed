@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 04 Nov 2026 01:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 01:38:45 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP61｜超過 27.2 萬 token，GPT-6 Astra 整筆請求換價】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 9 月 3 日，OpenAI 發布 GPT-6 Astra，API 先開放給少數組織測試。官方定價頁有兩張表。輸入不超過 27.2 萬 token，每 100 萬 token 輸入 10 美元、輸出 50 美元。一超過，整個請求改成輸入 20 美元、快取讀取 2 美元、輸出 75 美元，不是只對超出的那一段加價。<br/><br/>上下文視窗約 105 萬 token，換價的地方大約在四分之一。快取讀取也從 1 美元變成 2 美元。Batch 與 Flex 是標準價的一半，但是非即時。<br/><br/>官方自測說同一件事可以少用約 65% 的輸出 token，那是 OpenAI 自己的跑分，不代表你的工作負載。要對的是完成同一件事的總花費。送出前先量這一筆的輸入有沒有過 27.2 萬。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 9 月 3 日，OpenAI 發布 GPT-6 Astra，API 先開放給少數組織測試。官方定價頁有兩張表。輸入不超過 27.2 萬 token，每 100 萬 token 輸入 10 美元、輸出 50 美元。一超過，整個請求改成輸入 20 美元、快取讀取 2 美元、輸出 75 美元，不是只對超出的那一段加價。
+
+上下文視窗約 105 萬 token，換價的地方大約在四分之一。快取讀取也從 1 美元變成 2 美元。Batch 與 Flex 是標準價的一半，但是非即時。
+
+官方自測說同一件事可以少用約 65% 的輸出 token，那是 OpenAI 自己的跑分，不代表你的工作負載。要對的是完成同一件事的總花費。送出前先量這一筆的輸入有沒有過 27.2 萬。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>GPT-6 Astra, OpenAI, API 定價, 長內容門檻, 272K token, Batch API, 模型成本</itunes:keywords>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP61-gpt-6-astra-long-context-threshold.mp3" length="7305552" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep61</guid>
+      <itunes:duration>7:37</itunes:duration>
+      <itunes:episode>61</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP60｜示範網站跑起來了，16 億免費 Token 卻不是 Anthropic 給的】</title>
       <link>https://www.aitokenking.com.tw/home</link>
