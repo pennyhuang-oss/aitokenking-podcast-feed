@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 05 Nov 2026 01:38:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 02:10:25 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP62｜3 家金融機構的 Agent 已上線，Godrej 技術長卻保證不了洩漏了什麼】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 8 月 17 日，印度財經媒體 Mint 的座談請了四位高管：Salesforce India 的 Sonali Kalyanpur、Mirae Asset 的 Vijay Rao、Godrej Capital 的技術長 Jyotirlata B、Nivara Housing Finance 的執行長 Shijit Menon。<br/><br/>三家金融機構已經在用 Agent。方言核貸對話、自動讀文件填欄位、大約兩年前成立的獨立 AI 部門配上 Snowflake 資料湖。主持人問最大的挑戰，Jyotirlata B 的答案是安全架構還不成熟：開戶對話洩了什麼、回答符不符合政策與法規，目前沒有保證。Sonali Kalyanpur 補上金融業的差別，談的是數字，是客戶的真實金錢。<br/><br/>座談沒有給現成的治理範本。留下的問題是，護欄只是第一步，稽核來問某一通對話動過哪些資料、回答符不符合政策，你拿不拿得出紀錄。三個案例都沒有附成效百分比。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 8 月 17 日，印度財經媒體 Mint 的座談請了四位高管：Salesforce India 的 Sonali Kalyanpur、Mirae Asset 的 Vijay Rao、Godrej Capital 的技術長 Jyotirlata B、Nivara Housing Finance 的執行長 Shijit Menon。
+
+三家金融機構已經在用 Agent。方言核貸對話、自動讀文件填欄位、大約兩年前成立的獨立 AI 部門配上 Snowflake 資料湖。主持人問最大的挑戰，Jyotirlata B 的答案是安全架構還不成熟：開戶對話洩了什麼、回答符不符合政策與法規，目前沒有保證。Sonali Kalyanpur 補上金融業的差別，談的是數字，是客戶的真實金錢。
+
+座談沒有給現成的治理範本。留下的問題是，護欄只是第一步，稽核來問某一通對話動過哪些資料、回答符不符合政策，你拿不拿得出紀錄。三個案例都沒有附成效百分比。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Agentic AI, 金融業 AI 導入, AI 治理, GRC, 稽核軌跡, 核貸自動化, 開戶對話</itunes:keywords>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP62-why-agentic-ai-governance-lags-in-finance.mp3" length="8676458" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep62</guid>
+      <itunes:duration>9:02</itunes:duration>
+      <itunes:episode>62</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP61｜超過 27.2 萬 token，GPT-6 Astra 整筆請求換價】</title>
       <link>https://www.aitokenking.com.tw/home</link>
