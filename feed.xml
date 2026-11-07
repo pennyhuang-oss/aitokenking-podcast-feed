@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 06 Nov 2026 02:10:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 01:03:47 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP63｜同一份定價頁有兩個價，便宜 21 倍的那欄收的是程式碼】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[便宜 12.5 倍跟 21.25 倍的那一欄，要你主動同意，提示詞與模型輸出可能被拿去改進未來產品。2026 年 9 月 2 日上線的 Muse Spark 1.3，同一頁的 Standard 仍是每 100 萬 token 輸入 1.25 美元、輸出 4.25 美元、快取輸入 0.15 美元，與 1.2 相同。Contributor Tier 是輸入 0.10 美元、輸出 0.20 美元、快取讀取 0.002 美元。<br/><br/>採用率那句「有意義的兩位數百分比」沒有寫哪一批開發者、也沒有寫哪一段期間，不能當成你該跟著換的理由。正式專案按下去之前，要先看程式碼裡有沒有客戶資料或商業邏輯、條款有沒有排除或申訴，以及退出之後刪不刪得掉。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>便宜 12.5 倍跟 21.25 倍的那一欄，要你主動同意，提示詞與模型輸出可能被拿去改進未來產品。2026 年 9 月 2 日上線的 Muse Spark 1.3，同一頁的 Standard 仍是每 100 萬 token 輸入 1.25 美元、輸出 4.25 美元、快取輸入 0.15 美元，與 1.2 相同。Contributor Tier 是輸入 0.10 美元、輸出 0.20 美元、快取讀取 0.002 美元。
+
+採用率那句「有意義的兩位數百分比」沒有寫哪一批開發者、也沒有寫哪一段期間，不能當成你該跟著換的理由。正式專案按下去之前，要先看程式碼裡有沒有客戶資料或商業邏輯、條款有沒有排除或申訴，以及退出之後刪不刪得掉。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Meta Muse Spark 1.3, Contributor Tier, AI API 定價, 資料使用條款, 營業秘密, 模型訓練, 企業採購, Artificial Analysis</itunes:keywords>
+      <pubDate>Sat, 07 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP63-muse-spark-contributor-tier-data-for-discount.mp3" length="8189118" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep63</guid>
+      <itunes:duration>8:32</itunes:duration>
+      <itunes:episode>63</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP62｜3 家金融機構的 Agent 已上線，Godrej 技術長卻保證不了洩漏了什麼】</title>
       <link>https://www.aitokenking.com.tw/home</link>
