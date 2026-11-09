@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 08 Nov 2026 00:52:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 01:08:38 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP65｜下載得到的 Kimi K3，營收過 2,000 萬美元就得另簽】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Moonshot 在 2026 年 7 月 16 日把 Kimi K3 放到 Hugging Face，2.8 兆參數，官方稱為規模最大的開放權重模型。模型頁的授權欄位是 other／kimi-k3，檔案是自訂的 Kimi K3 License。網路上說的 Modified MIT 是誤傳。官方用詞是 open weight，不是 open source。<br/><br/>你若把推論或微調的存取權轉售給第三方，而且輸入、參數或訓練資料仍由你實質控制，一旦你和關係企業的合計營收在任何連續 12 個月超過 2,000 萬美元，就必須另外跟 Moonshot 簽約。<br/><br/>三個問題用來對這份授權：這門生意算不算 Model as a Service、營收怎麼把關係企業與連續 12 個月算進去、你讀的是不是 Hugging Face 上的官方檔案。只打 API 的人，快取命中價是未命中的十分之一；批次折扣則還沒涵蓋這次的新旗艦。價格與條款整理，都以 2026 年 9 月 9 日的官方頁面為準。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Moonshot 在 2026 年 7 月 16 日把 Kimi K3 放到 Hugging Face，2.8 兆參數，官方稱為規模最大的開放權重模型。模型頁的授權欄位是 other／kimi-k3，檔案是自訂的 Kimi K3 License。網路上說的 Modified MIT 是誤傳。官方用詞是 open weight，不是 open source。
+
+你若把推論或微調的存取權轉售給第三方，而且輸入、參數或訓練資料仍由你實質控制，一旦你和關係企業的合計營收在任何連續 12 個月超過 2,000 萬美元，就必須另外跟 Moonshot 簽約。
+
+三個問題用來對這份授權：這門生意算不算 Model as a Service、營收怎麼把關係企業與連續 12 個月算進去、你讀的是不是 Hugging Face 上的官方檔案。只打 API 的人，快取命中價是未命中的十分之一；批次折扣則還沒涵蓋這次的新旗艦。價格與條款整理，都以 2026 年 9 月 9 日的官方頁面為準。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Kimi K3, Moonshot AI, 開放權重, Kimi K3 License, Model as a Service, 營收門檻, 自架模型, GLM-5.3</itunes:keywords>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP65-kimi-k3-open-weight-license-revenue-threshold.mp3" length="10067426" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep65</guid>
+      <itunes:duration>10:29</itunes:duration>
+      <itunes:episode>65</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP64｜斷線被讀成同意，MCP 在 7 月 28 日把這個預設拿掉】</title>
       <link>https://www.aitokenking.com.tw/home</link>
