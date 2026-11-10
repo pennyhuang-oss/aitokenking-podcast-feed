@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 09 Nov 2026 01:08:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 03:44:13 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP66｜Grok 4.6 上下文只有最舊型號的一半，20% 批次和更便宜的快取都不在它身上】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Grok 4.6 短內容輸出 6 美元，跟前一代 4.5 一樣，上下文卻是 50 萬 token，只有最舊的 4.3 與 4.20 那一排的一半。整條產品線目前唯一的 Batch API 20% 折扣在那一排。4.6 的模型頁寫著不支援批次。短內容快取從 4.5 的 0.30 美元變成 0.50 美元。<br/><br/>prompt 一達到 20 萬 token，整段請求改按長內容計，輸入 4 美元、輸出 12 美元，不是只算超出的那一段。官方還沒有公布第三方跑分，便宜指的是報價。X Search 自 2026 年 9 月 21 日太平洋時間中午起，改按回傳的貼文數與使用者資料計費。選型先填三欄：上下文上限、批次折不折扣、快取單價。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Grok 4.6 短內容輸出 6 美元，跟前一代 4.5 一樣，上下文卻是 50 萬 token，只有最舊的 4.3 與 4.20 那一排的一半。整條產品線目前唯一的 Batch API 20% 折扣在那一排。4.6 的模型頁寫著不支援批次。短內容快取從 4.5 的 0.30 美元變成 0.50 美元。
+
+prompt 一達到 20 萬 token，整段請求改按長內容計，輸入 4 美元、輸出 12 美元，不是只算超出的那一段。官方還沒有公布第三方跑分，便宜指的是報價。X Search 自 2026 年 9 月 21 日太平洋時間中午起，改按回傳的貼文數與使用者資料計費。選型先填三欄：上下文上限、批次折不折扣、快取單價。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Grok 4.6, SpaceXAI, xAI, Batch API, 快取定價, X Search, 模型選型, 上下文視窗, 長內容門檻</itunes:keywords>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP66-grok-4-6-newest-model-fewest-discounts.mp3" length="10028138" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep66</guid>
+      <itunes:duration>10:27</itunes:duration>
+      <itunes:episode>66</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP65｜下載得到的 Kimi K3，營收過 2,000 萬美元就得另簽】</title>
       <link>https://www.aitokenking.com.tw/home</link>
