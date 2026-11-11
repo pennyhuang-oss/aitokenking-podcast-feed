@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 10 Nov 2026 03:44:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 01:24:12 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP67｜一行程式碼都沒改，deepseek-v4-pro 從 9 月 14 日起改接 V4.1-Flash】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 9 月 14 日中午（北京時間）起，直到 V4.1-Pro 推出，打到 deepseek-v4-pro 的請求會被路由到 V4.1-Flash，並按 Flash 計費。每 100 萬個輸出 token，尖峰從 3.96 美元變成 1.2，離峰從 1.98 變成 0.6。叫到的模型能力與行為，一起從 V4-Pro 換走。<br/><br/>9 月 10 日 04:00 UTC 上線的這次調價，輸出比一個月前的 V4-Flash 再降約 9%，快取未命中的輸入再降約 32%。官方測試說它在效能、成本、速度與總執行時間上全面超越 V4-Pro。那是 DeepSeek 自己的測試，這份資料沒有第三方跑分。<br/><br/>舊名稱 deepseek-v4-flash 會自動導向新價。你現在能做的，是把 9 月 14 日前後的輸出對一遍。計費以官方頁面當下顯示為準。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 9 月 14 日中午（北京時間）起，直到 V4.1-Pro 推出，打到 deepseek-v4-pro 的請求會被路由到 V4.1-Flash，並按 Flash 計費。每 100 萬個輸出 token，尖峰從 3.96 美元變成 1.2，離峰從 1.98 變成 0.6。叫到的模型能力與行為，一起從 V4-Pro 換走。
+
+9 月 10 日 04:00 UTC 上線的這次調價，輸出比一個月前的 V4-Flash 再降約 9%，快取未命中的輸入再降約 32%。官方測試說它在效能、成本、速度與總執行時間上全面超越 V4-Pro。那是 DeepSeek 自己的測試，這份資料沒有第三方跑分。
+
+舊名稱 deepseek-v4-flash 會自動導向新價。你現在能做的，是把 9 月 14 日前後的輸出對一遍。計費以官方頁面當下顯示為準。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>DeepSeek, V4.1-Flash, V4-Pro, API 定價, 模型路由, 回歸測試, 快取, AI 成本管理</itunes:keywords>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP67-deepseek-v4-1-flash-auto-routing.mp3" length="7143384" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep67</guid>
+      <itunes:duration>7:26</itunes:duration>
+      <itunes:episode>67</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP66｜Grok 4.6 上下文只有最舊型號的一半，20% 批次和更便宜的快取都不在它身上】</title>
       <link>https://www.aitokenking.com.tw/home</link>
