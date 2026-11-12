@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 11 Nov 2026 01:24:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:24:35 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP68｜150 個組織支持 A2A，沒有一個數字告訴你兩邊接不接得起來】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[截至 2026 年 4 月 9 日，Linux Foundation 公布 A2A 有超過 150 個組織支持，核心程式庫在 GitHub 超過 22,000 顆星，SDK 從 Python 一種擴到五種。2026 年 8 月 27 日，它以 Growth Stage 專案加入 Agentic AI Foundation。官方部落格把這次調整定位成中立治理：路線圖由社群決定，不被單一供應商綁架。<br/><br/>要提醒的是，加入基金會是協定的治理架構調整，不等於公司導入之後就自動具備資料治理或法遵保障。採用名單是 AAIF 官方部落格自行整理，反映哪些平台已經內建支援；各企業部署到多深，沒有逐一查過。<br/><br/>規格同時定義 JSON-RPC、gRPC、HTTP+JSON REST 三種綁定，供應商可能只做其中一種。兩邊都說支援 A2A，仍可能接不起來。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>截至 2026 年 4 月 9 日，Linux Foundation 公布 A2A 有超過 150 個組織支持，核心程式庫在 GitHub 超過 22,000 顆星，SDK 從 Python 一種擴到五種。2026 年 8 月 27 日，它以 Growth Stage 專案加入 Agentic AI Foundation。官方部落格把這次調整定位成中立治理：路線圖由社群決定，不被單一供應商綁架。
+
+要提醒的是，加入基金會是協定的治理架構調整，不等於公司導入之後就自動具備資料治理或法遵保障。採用名單是 AAIF 官方部落格自行整理，反映哪些平台已經內建支援；各企業部署到多深，沒有逐一查過。
+
+規格同時定義 JSON-RPC、gRPC、HTTP+JSON REST 三種綁定，供應商可能只做其中一種。兩邊都說支援 A2A，仍可能接不起來。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>A2A, Agent2Agent, AI Agent 互通, Agent Card, Linux Foundation, Agentic AI Foundation, 多 Agent 系統, protocol binding, 企業導入評估</itunes:keywords>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP68-a2a-protocol-adoption-signals-vs-integration-risk.mp3" length="10115492" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep68</guid>
+      <itunes:duration>10:32</itunes:duration>
+      <itunes:episode>68</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP67｜一行程式碼都沒改，deepseek-v4-pro 從 9 月 14 日起改接 V4.1-Flash】</title>
       <link>https://www.aitokenking.com.tw/home</link>
