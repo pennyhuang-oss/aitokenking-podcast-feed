@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 12 Nov 2026 02:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 02:02:13 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP69｜2026 年 9 月，claude.ai 的 Skill 還是得每個同事自己上傳】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[你是管理員，一份 Skill 已經寫好，想讓團隊用到同一份。Claude Platform 的文件寫明，claude.ai 不支援管理員做組織層級的集中管理或全公司分發，每個團隊成員都得各自上傳。<br/><br/>三個介面不會自動同步。上傳到 claude.ai 的，不會自己出現在 Claude API 或 Claude Code。API 上傳的 Skill 是整個 workspace 共用。Claude Code 要分享，得另外走 Plugins。Enterprise 可以開 Skill 內容掃描，但這項掃描不涵蓋透過 API 或 Console 上傳的 Skill。<br/><br/>2025 年 12 月 18 日，Anthropic 把這套資料夾格式發布成跨平台開放標準，規格在 agentskills.io。官方文件估算，裝好沒被觸發大約只占 100 個 token，觸發後的指令通常在 5,000 個以內。宣布支援同一套規格的工具，包括 OpenAI Codex、Google Gemini CLI、GitHub Copilot、Cursor、VS Code、Block 的 Goose，名單是 Unite.AI、Agentman 等媒體在 2026 年第一季追蹤展示頁後整理的，不是 Anthropic 逐一發布的。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>你是管理員，一份 Skill 已經寫好，想讓團隊用到同一份。Claude Platform 的文件寫明，claude.ai 不支援管理員做組織層級的集中管理或全公司分發，每個團隊成員都得各自上傳。
+
+三個介面不會自動同步。上傳到 claude.ai 的，不會自己出現在 Claude API 或 Claude Code。API 上傳的 Skill 是整個 workspace 共用。Claude Code 要分享，得另外走 Plugins。Enterprise 可以開 Skill 內容掃描，但這項掃描不涵蓋透過 API 或 Console 上傳的 Skill。
+
+2025 年 12 月 18 日，Anthropic 把這套資料夾格式發布成跨平台開放標準，規格在 agentskills.io。官方文件估算，裝好沒被觸發大約只占 100 個 token，觸發後的指令通常在 5,000 個以內。宣布支援同一套規格的工具，包括 OpenAI Codex、Google Gemini CLI、GitHub Copilot、Cursor、VS Code、Block 的 Goose，名單是 Unite.AI、Agentman 等媒體在 2026 年第一季追蹤展示頁後整理的，不是 Anthropic 逐一發布的。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Agent Skills, SKILL.md, 漸進式揭露, Claude API, Claude Code, 團隊共享, 企業導入, 零資料保留, MCP</itunes:keywords>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP69-agent-skills-team-distribution-by-interface.mp3" length="7990587" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep69</guid>
+      <itunes:duration>8:19</itunes:duration>
+      <itunes:episode>69</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP68｜150 個組織支持 A2A，沒有一個數字告訴你兩邊接不接得起來】</title>
       <link>https://www.aitokenking.com.tw/home</link>
