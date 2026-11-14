@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 13 Nov 2026 02:02:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:35:32 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP70｜1,000 美元以內搶 2 張票，人沒在場，AP2 問這筆算不算授權】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[Google 發布 AP2 時點名三題：這筆特定交易你有沒有授權、商家能不能確定訂單不是理解錯或幻覺出來的、出事算誰的。回應是三種經過加密簽署的 Mandate。人在場時，購物車那張由商家簽，你核准時也簽，綁住商品、價格與出貨。人不在場時，你事先簽的是意圖那張，裡面是授權當下的那句話。付款那張交給金流網路與發卡機構，只標記有沒有 Agent、人在不在場。<br/><br/>規格書附的究責表，官方寫明只是參考指引，沒有約束力，實際規則仍由各家金流網路自己定。3DS2 與一次性密碼沒有被拿掉。查證到 2026 年 9 月 14 日，AP2 仍在協定與規格這一層，信任靠人工白名單。公告裡的合作夥伴以美國、歐洲、東南亞的國際金流為主，LINE Pay、街口與台灣本地銀行沒有被列成已支援。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>Google 發布 AP2 時點名三題：這筆特定交易你有沒有授權、商家能不能確定訂單不是理解錯或幻覺出來的、出事算誰的。回應是三種經過加密簽署的 Mandate。人在場時，購物車那張由商家簽，你核准時也簽，綁住商品、價格與出貨。人不在場時，你事先簽的是意圖那張，裡面是授權當下的那句話。付款那張交給金流網路與發卡機構，只標記有沒有 Agent、人在不在場。
+
+規格書附的究責表，官方寫明只是參考指引，沒有約束力，實際規則仍由各家金流網路自己定。3DS2 與一次性密碼沒有被拿掉。查證到 2026 年 9 月 14 日，AP2 仍在協定與規格這一層，信任靠人工白名單。公告裡的合作夥伴以美國、歐洲、東南亞的國際金流為主，LINE Pay、街口與台灣本地銀行沒有被列成已支援。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AP2, Agent Payments Protocol, AI Agent 付款, Cart Mandate, Intent Mandate, Payment Mandate, FIDO Alliance, 3DS2, 交易究責, 企業導入評估</itunes:keywords>
+      <pubDate>Sat, 14 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP70-ap2-agent-payments-three-mandates.mp3" length="10770434" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep70</guid>
+      <itunes:duration>11:13</itunes:duration>
+      <itunes:episode>70</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP69｜2026 年 9 月，claude.ai 的 Skill 還是得每個同事自己上傳】</title>
       <link>https://www.aitokenking.com.tw/home</link>
