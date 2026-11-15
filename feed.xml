@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sat, 14 Nov 2026 01:35:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:13:05 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP71｜88 份 AGENTS.md 散在子目錄，Claude Code 的文件寫它不讀這個檔名】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[你的程式庫裡如果已經有 AGENTS.md，Codex、Cursor、GitHub Copilot 的 Coding Agent 會直接讀它，官方相容清單還有十幾個平台。Claude Code 的文件寫明讀的是 CLAUDE.md。官方給兩種接法：在 CLAUDE.md 用 @AGENTS.md 匯入，或做符號連結。Windows 上符號連結要系統管理員權限或開發者模式，官方建議改走匯入。<br/><br/>檔案內容是餵給模型的上下文，擋不住的操作要交給存取控制、審核跟系統權限。離工作檔愈近的那份優先。文章查證日是 2026-09-15。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>你的程式庫裡如果已經有 AGENTS.md，Codex、Cursor、GitHub Copilot 的 Coding Agent 會直接讀它，官方相容清單還有十幾個平台。Claude Code 的文件寫明讀的是 CLAUDE.md。官方給兩種接法：在 CLAUDE.md 用 @AGENTS.md 匯入，或做符號連結。Windows 上符號連結要系統管理員權限或開發者模式，官方建議改走匯入。
+
+檔案內容是餵給模型的上下文，擋不住的操作要交給存取控制、審核跟系統權限。離工作檔愈近的那份優先。文章查證日是 2026-09-15。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>AGENTS.md, CLAUDE.md, Claude Code, monorepo, 符號連結, 程式碼代理, 開放標準, 企業導入</itunes:keywords>
+      <pubDate>Sun, 15 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP71-agents-md-claude-code-compat.mp3" length="6975364" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep71</guid>
+      <itunes:duration>7:16</itunes:duration>
+      <itunes:episode>71</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP70｜1,000 美元以內搶 2 張票，人沒在場，AP2 問這筆算不算授權】</title>
       <link>https://www.aitokenking.com.tw/home</link>
