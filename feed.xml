@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Sun, 15 Nov 2026 01:13:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 01:18:15 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP72｜Rob Shocks 說建置快了 2 倍，其他階段卻沒有跟著變快】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 9 月，YouTube 頻道 Rob Shocks 拆開 Claude Code 創造者 Boris Cherny 與 Anthropic 團隊公開的 AI 原生開發流程。按他的說法，Agent 把建置壓到約 2 倍快；規劃、設計、測試、審查、維運沒有一站跟著變快。流程從 intent.md 開始，接到規格、計畫、建置、測試、部署、維運。<br/><br/>人要留在審查點上：提出需求的人核對 intent，工程師確認計畫才能執行，部署前要有人核准或過發版關卡。版本留存、權限先收緊、hook、換模型的回歸測試、Pull Request 的獨立審查，少一塊，速度就會把混亂送進下一站。2 倍是他的說法，比的只有 Agent 出現前後的建置。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 9 月，YouTube 頻道 Rob Shocks 拆開 Claude Code 創造者 Boris Cherny 與 Anthropic 團隊公開的 AI 原生開發流程。按他的說法，Agent 把建置壓到約 2 倍快；規劃、設計、測試、審查、維運沒有一站跟著變快。流程從 intent.md 開始，接到規格、計畫、建置、測試、部署、維運。
+
+人要留在審查點上：提出需求的人核對 intent，工程師確認計畫才能執行，部署前要有人核准或過發版關卡。版本留存、權限先收緊、hook、換模型的回歸測試、Pull Request 的獨立審查，少一塊，速度就會把混亂送進下一站。2 倍是他的說法，比的只有 Agent 出現前後的建置。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>intent.md, Claude Code, AI 原生開發, Rob Shocks, Boris Cherny, hook, 版本留存, Pull Request</itunes:keywords>
+      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP72-what-is-intent-md-claude-code-ai-native-sdlc.mp3" length="11890146" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep72</guid>
+      <itunes:duration>12:23</itunes:duration>
+      <itunes:episode>72</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP71｜88 份 AGENTS.md 散在子目錄，Claude Code 的文件寫它不讀這個檔名】</title>
       <link>https://www.aitokenking.com.tw/home</link>
