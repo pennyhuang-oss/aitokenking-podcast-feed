@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Mon, 16 Nov 2026 01:18:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:06:35 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP73｜Gemini Live 聽得見你插嘴，第一版為什麼還把整段念完】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 8 月 26 日，Google Cloud Tech 官方頻道放了一支示範，觀看約 12.1 萬。影片裡的語音 Agent 叫 Mira，用的是 Gemini Live API。她會聽、能被打斷，回應幾乎沒有延遲。文章寫，多數人第一版是包了語音外皮的答錄機：問完整句才念答案，你插嘴，它照樣把稿子念完。落差被歸到架構，不是模型不夠聰明。<br/><br/>往下是示範怎麼搭。瀏覽器、後端、模型三塊，中間一條不掛斷的 WebSocket，核心迴圈 4 步。要像電話，還得補上語音活動偵測、插嘴時先停本地播放，以及跑得夠快的工具。示範沒有給這條一直開著的線怎麼計價。能力以原影片示範為準，資費以 Google Cloud 官方文件為準。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 8 月 26 日，Google Cloud Tech 官方頻道放了一支示範，觀看約 12.1 萬。影片裡的語音 Agent 叫 Mira，用的是 Gemini Live API。她會聽、能被打斷，回應幾乎沒有延遲。文章寫，多數人第一版是包了語音外皮的答錄機：問完整句才念答案，你插嘴，它照樣把稿子念完。落差被歸到架構，不是模型不夠聰明。
+
+往下是示範怎麼搭。瀏覽器、後端、模型三塊，中間一條不掛斷的 WebSocket，核心迴圈 4 步。要像電話，還得補上語音活動偵測、插嘴時先停本地播放，以及跑得夠快的工具。示範沒有給這條一直開著的線怎麼計價。能力以原影片示範為準，資費以 Google Cloud 官方文件為準。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Gemini Live API, 語音 Agent, barge-in, VAD, WebSocket, 即時語音</itunes:keywords>
+      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP73-realtime-voice-agent-architecture.mp3" length="9382808" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep73</guid>
+      <itunes:duration>9:46</itunes:duration>
+      <itunes:episode>73</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP72｜Rob Shocks 說建置快了 2 倍，其他階段卻沒有跟著變快】</title>
       <link>https://www.aitokenking.com.tw/home</link>
@@ -1018,7 +1037,7 @@ Google Cloud Tech 那支影片點出的結論很直白：該更乾淨的是協�
       <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP25-claude-vs-gpt-vs-gemini-api-pricing.r2.mp3" length="11032912" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep25</guid>
-      <itunes:duration>11:30</itunes:duration>
+      <itunes:duration>11:29</itunes:duration>
       <itunes:episode>25</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
@@ -1453,7 +1472,7 @@ OpenAI 在 2026 年 7 月發表的 ChatGPT Work，由 Codex 和 GPT-5.6 共同�
       <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
       <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP02-ai-token-real-cost.r2.mp3" length="8984911" type="audio/mpeg" />
       <guid isPermaLink="false">aitokenking-podcast-ep02</guid>
-      <itunes:duration>9:22</itunes:duration>
+      <itunes:duration>9:21</itunes:duration>
       <itunes:episode>02</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
