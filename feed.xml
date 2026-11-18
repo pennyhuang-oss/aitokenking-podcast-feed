@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Tue, 17 Nov 2026 04:06:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 03:04:09 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP74｜Flare 快超過 50%，Sunburst 仍被定位成功能最強】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[你如果要換一張圖的背景，又要 logo 跟文字留在原地。2026 年 9 月 8 日，OpenAI 把 GPT Image 2.5 的 Sunburst 與 Flare 放在同一支公告裡，同時開放於 API、ChatGPT、Codex，卻不替你排一個贏家。<br/><br/>官方把兩邊寫成工作流的兩個階段：發想求快，定案才做多輪精修。Sunburst 被定位成目前功能最強，重點是細節、光影、材質，以及多輪修改時留得住指定的細節。Flare 被說成目前最快，比前一代 GPT Image 2 快超過 50%，品質維持一樣。兩個模型都支援透明背景。官方說可以直接產生複雜素材，從圖表到遊戲素材都包括在內。公告沒有給 API 定價、解析度或地區開放時程。速度、品質與「功能最強」都是官方自述，原始字幕是阿拉伯語、經語意改寫，我們沒有另做驗證。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>你如果要換一張圖的背景，又要 logo 跟文字留在原地。2026 年 9 月 8 日，OpenAI 把 GPT Image 2.5 的 Sunburst 與 Flare 放在同一支公告裡，同時開放於 API、ChatGPT、Codex，卻不替你排一個贏家。
+
+官方把兩邊寫成工作流的兩個階段：發想求快，定案才做多輪精修。Sunburst 被定位成目前功能最強，重點是細節、光影、材質，以及多輪修改時留得住指定的細節。Flare 被說成目前最快，比前一代 GPT Image 2 快超過 50%，品質維持一樣。兩個模型都支援透明背景。官方說可以直接產生複雜素材，從圖表到遊戲素材都包括在內。公告沒有給 API 定價、解析度或地區開放時程。速度、品質與「功能最強」都是官方自述，原始字幕是阿拉伯語、經語意改寫，我們沒有另做驗證。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>GPT Image 2.5, Sunburst, Flare, OpenAI, 圖片生成, 透明背景, 模型分工</itunes:keywords>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP74-gpt-image-2-5-sunburst-flare-stage-split.mp3" length="6376846" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep74</guid>
+      <itunes:duration>6:38</itunes:duration>
+      <itunes:episode>74</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP73｜Gemini Live 聽得見你插嘴，第一版為什麼還把整段念完】</title>
       <link>https://www.aitokenking.com.tw/home</link>
