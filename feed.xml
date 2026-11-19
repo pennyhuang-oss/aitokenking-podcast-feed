@@ -23,8 +23,27 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Wed, 18 Nov 2026 03:04:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 02:45:31 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP75｜ChatGPT Work 只聽到 4 月 22 日，蛋糕跟禮物自己補上】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[2026 年 8 月 25 日，Jeff Su 的影片做了一個生日提醒測試。先請 ChatGPT Work 建你弟弟的 Google 日曆提醒，口頭補上蛋糕表情符號和「記得買禮物」，而且以後每次都套用。接著開一個全新對話，只說 4 月 22 日是 Sam Altman 的生日。蛋糕跟禮物沒再提，兩條規則它自己套上。文章把這件事寫成 ChatGPT Work 跟一般 ChatGPT 唯一真正重要的差異：規則被寫進 agents.md，不是你手寫的。<br/><br/>桌面版才把連工具、記規則、自動做事串在一起。檔名必須剛好是 agents.md，資料夾要掛載，不然行為跟一般 ChatGPT 差不多。連上 Gmail、日曆之後，文章要你教的是用法，例如開會預設 45 分鐘、說明欄先寫結論再列 3 個重點。規則全堆在同一份檔，每次任務前重讀，回答品質會往下掉，也會多耗資源；文章沒有給多耗多少。看效果示意跟真的改上線，中間隔著授權。內容整理自該影片的示範，不是官方手冊，也不是本節目實測。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>2026 年 8 月 25 日，Jeff Su 的影片做了一個生日提醒測試。先請 ChatGPT Work 建你弟弟的 Google 日曆提醒，口頭補上蛋糕表情符號和「記得買禮物」，而且以後每次都套用。接著開一個全新對話，只說 4 月 22 日是 Sam Altman 的生日。蛋糕跟禮物沒再提，兩條規則它自己套上。文章把這件事寫成 ChatGPT Work 跟一般 ChatGPT 唯一真正重要的差異：規則被寫進 agents.md，不是你手寫的。
+
+桌面版才把連工具、記規則、自動做事串在一起。檔名必須剛好是 agents.md，資料夾要掛載，不然行為跟一般 ChatGPT 差不多。連上 Gmail、日曆之後，文章要你教的是用法，例如開會預設 45 分鐘、說明欄先寫結論再列 3 個重點。規則全堆在同一份檔，每次任務前重讀，回答品質會往下掉，也會多耗資源；文章沒有給多耗多少。看效果示意跟真的改上線，中間隔著授權。內容整理自該影片的示範，不是官方手冊，也不是本節目實測。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>ChatGPT Work, agents.md, OpenAI, Jeff Su, 規則檔, 桌面版, Google 日曆, Skills</itunes:keywords>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP75-chatgpt-work-agents-md-guide.mp3" length="9528258" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep75</guid>
+      <itunes:duration>9:55</itunes:duration>
+      <itunes:episode>75</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP74｜Flare 快超過 50%，Sunburst 仍被定位成功能最強】</title>
       <link>https://www.aitokenking.com.tw/home</link>
