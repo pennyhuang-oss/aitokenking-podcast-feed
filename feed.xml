@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Thu, 19 Nov 2026 02:45:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 02:39:58 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP76｜贏 10 局的 Astra，總帳少了 186 美元】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[同一份銷售文案，Fable 5.1 不到 4 美元、約 2,800 字，GPT-6 Astra 花了 143 美元、約 1,300 字，超過 30 倍，文章寫事前沒有人料得到。報稅那局贏的比較貴，訂閱盤點那局贏的比較便宜，會議那局帳單約 46 美元，看得見的運算只有 6 分鐘。<br/><br/>15 局加總，Fable 花 513.36 美元、跑 9 小時 35 分 45 秒，Astra 花 326.98 美元、跑 11 小時 19 分 24 秒。排名猜不到帳單。你要拿自己的任務，兩個各跑一次，才知道這一輪誰比較省。<br/><br/>金額與時間都是 YouTube 頻道 Nate Herk 作者的單次紀錄，影片 2026 年 9 月 6 日發布，不是官方跑分。GPT-6 Astra 與 Fable 5.1 是作者的叫法。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>同一份銷售文案，Fable 5.1 不到 4 美元、約 2,800 字，GPT-6 Astra 花了 143 美元、約 1,300 字，超過 30 倍，文章寫事前沒有人料得到。報稅那局贏的比較貴，訂閱盤點那局贏的比較便宜，會議那局帳單約 46 美元，看得見的運算只有 6 分鐘。
+
+15 局加總，Fable 花 513.36 美元、跑 9 小時 35 分 45 秒，Astra 花 326.98 美元、跑 11 小時 19 分 24 秒。排名猜不到帳單。你要拿自己的任務，兩個各跑一次，才知道這一輪誰比較省。
+
+金額與時間都是 YouTube 頻道 Nate Herk 作者的單次紀錄，影片 2026 年 9 月 6 日發布，不是官方跑分。GPT-6 Astra 與 Fable 5.1 是作者的叫法。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>GPT-6 Astra, Fable 5.1, 模型實測, 模型比較, AI 成本, 單次實測, 模型選型, 用量追蹤</itunes:keywords>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP76-gpt-6-astra-vs-fable-5-1-comparison.mp3" length="11118593" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep76</guid>
+      <itunes:duration>11:35</itunes:duration>
+      <itunes:episode>76</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP75｜ChatGPT Work 只聽到 4 月 22 日，蛋糕跟禮物自己補上】</title>
       <link>https://www.aitokenking.com.tw/home</link>
