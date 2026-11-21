@@ -23,8 +23,29 @@
       <itunes:name>AI Token King</itunes:name>
       <itunes:email>service@insight-software.com</itunes:email>
     </itunes:owner>
-    <lastBuildDate>Fri, 20 Nov 2026 02:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 02:42:23 +0000</lastBuildDate>
     <generator>aitokenking-podcast/tools/generate_feed.py</generator>
+    <item>
+      <title>【EP77｜半年前行不通，Boris 卻說今天該對 Opus 5 放手】</title>
+      <link>https://www.aitokenking.com.tw/home</link>
+      <description><![CDATA[你把任務拆成一二三四，每一步都釘死，覺得最保險。Claude Code 的創造者 Boris Cherny 在 Y Combinator 演講裡點名的，就是把指令寫得過度精確、硬要照順序交代。對 Opus 5 跟 Fable 5，他要你描述任務、講限制跟底線、說明什麼叫做完，然後放手。<br/><br/>這集拆文章整理的幾件事。目標、原因、限制、完成標準要一次講完。沒寫終點，模型傾向做太多，token 繼續燒。硬性禁令要補上為什麼。「再檢查一次」，文章說多半只是多花錢。「一步一步想」、解釋推理、全大寫，文章說 Anthropic 觀察到容易過度反應。Interview me 跟 Rule Rewriter 只見於影片作者轉述，引用的官方頁面沒核對到。<br/><br/>時點是 2026 年 9 月 2 日的 Ben AI 影片。字幕是孟加拉語，文章依語意改寫，不是逐字的機器翻譯。<br/><br/>———<br/>本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：<a href="https://www.aitokenking.com.tw/home">https://www.aitokenking.com.tw/home</a>]]></description>
+      <itunes:summary>你把任務拆成一二三四，每一步都釘死，覺得最保險。Claude Code 的創造者 Boris Cherny 在 Y Combinator 演講裡點名的，就是把指令寫得過度精確、硬要照順序交代。對 Opus 5 跟 Fable 5，他要你描述任務、講限制跟底線、說明什麼叫做完，然後放手。
+
+這集拆文章整理的幾件事。目標、原因、限制、完成標準要一次講完。沒寫終點，模型傾向做太多，token 繼續燒。硬性禁令要補上為什麼。「再檢查一次」，文章說多半只是多花錢。「一步一步想」、解釋推理、全大寫，文章說 Anthropic 觀察到容易過度反應。Interview me 跟 Rule Rewriter 只見於影片作者轉述，引用的官方頁面沒核對到。
+
+時點是 2026 年 9 月 2 日的 Ben AI 影片。字幕是孟加拉語，文章依語意改寫，不是逐字的機器翻譯。
+
+———
+本節目由 AI Token King 製作。在同一個地方串接、比較並管理各家 AI 模型的用量與花費，免費試用：https://www.aitokenking.com.tw/home</itunes:summary>
+      <itunes:keywords>Claude Opus 5, Claude Fable 5, Boris Cherny, 提示詞, 任務委派, token 用量, Anthropic, Y Combinator</itunes:keywords>
+      <pubDate>Sat, 21 Nov 2026 00:00:00 +0000</pubDate>
+      <enclosure url="https://op3.dev/e/https://pennyhuang-oss.github.io/aitokenking-podcast-feed/audio/EP77-how-to-prompt-claude-5-models.mp3" length="10349966" type="audio/mpeg" />
+      <guid isPermaLink="false">aitokenking-podcast-ep77</guid>
+      <itunes:duration>10:47</itunes:duration>
+      <itunes:episode>77</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>【EP76｜贏 10 局的 Astra，總帳少了 186 美元】</title>
       <link>https://www.aitokenking.com.tw/home</link>
